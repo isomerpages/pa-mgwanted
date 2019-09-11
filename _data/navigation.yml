@@ -1,0 +1,17 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: About Us
+    url: /about-us/
+  - title: Course Directory
+    collection: course-directory
+  - title: Content Articles
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
