@@ -43,3 +43,4 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   course-directory:
     output: true
+resources_name: content-articles
