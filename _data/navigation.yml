@@ -4,14 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
-
-links:
-  - title: About Us
-    url: /about-us/
-  - title: Course Directory
-    collection: course-directory
-  - title: Content Articles
-    resource_room: true
-  - title: Contact Us
-    url: /contact-us/
+- title: Contact Us
+  url: /contact-us/
+- title: About Us
+  url: /about-us/
+- title: Course Directory
+  url: /course-directory/health-and-wellness/
+  sub-links:
+  - title: Health And Wellness
+    url: /course-directory/health-and-wellness/
+  - title: Lifestyle And Leisure
+    url: /course-directory/lifestyle-and-leisure/
+  - title: Financial Literacy
+    url: /course-directory/financial-literacy/
+  - title: Lifelong Learning
+    url: /course-directory/lifelong-learning/
