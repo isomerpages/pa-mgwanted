@@ -25,6 +25,7 @@ collection_name: course-directory
 #### Name of Course 2
 
 ### Short Description 
+
 |    Course Fee    	|    Material Fee    	|    Duration    	|
 |:----------------:	|:------------------:	|:--------------:	|
 | Course Fee Value 	| Material Fee Value 	| Duration Value 	|
