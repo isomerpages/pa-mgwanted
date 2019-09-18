@@ -438,3 +438,44 @@ $desktop: 960px + (2 * $gap) !default;
   max-height: 100vh;
   padding: 1em;
 }
+
+.courseAccordion .tbl  {
+	border-collapse:collapse;
+	border-spacing:0;
+	margin:0px auto;
+}
+.courseAccordion .tbl td{
+	padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+}
+.courseAccordion .tbl th{
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:0px;
+	overflow:hidden;
+	word-break:normal;
+}
+.courseAccordion .tbl .tbl-shortdesc{
+	border-color:inherit;
+	text-align:center;
+	vertical-align:middle
+}
+.courseAccordion .tbl .tbl-subhdr{
+	font-weight:bold;
+	border-color:inherit;
+	text-align:center;
+	vertical-align:middle
+}
+.courseAccordion .tbl .tbl-conval{
+	text-align:left;
+	vertical-align:top
+}
+@media screen and (max-width: 767px) {
+	.courseAccordion .tbl {width: auto !important;}
+	.courseAccordion .tbl col {width: auto !important;}
+	.courseAccordion .tbl-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}
+}
