@@ -1,30 +1,32 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Lifestyle And Leisure
 permalink: /course-directory/lifestyle-and-leisure/
 breadcrumb: Lifestyle And Leisure
 collection_name: course-directory
 ---
-<button class="accordion">Section 1</button>
-<div class="panel">
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  
-</div>
 
-
-<script>
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var panel = this.nextElementSibling;
-    if (panel.style.maxHeight) {
-      panel.style.maxHeight = null;
-    } else {
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    } 
-  });
-}
-</script>
+<div class="courseAccordion">
+	<div class="row">
+	  <div class="col">
+		<h2>Open <b>multiple</b></h2>
+		<div class="tabs">
+		  <div class="tab">
+			<input type="checkbox" id="chck1">
+			<label class="tab-label" for="chck1">Item 1</label>
+			<div class="tab-content">
+			  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, reiciendis!
+			</div>
+		  </div>
+		  <div class="tab">
+			<input type="checkbox" id="chck2">
+			<label class="tab-label" for="chck2">Item 2</label>
+			<div class="tab-content">
+			  Lorem ipsum dolor sit amet consectetur adipisicing elit. A, in!
+			</div>
+		  </div>
+		</div>
+	  </div>
+	  
+	</div>
+  </div>
