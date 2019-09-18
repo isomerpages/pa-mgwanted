@@ -26,3 +26,8 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
+# Resources Section
+resources-title: Content Articles
+resources-subtitle: Be in the know
+resources-more-button: More Content Articles
+resources-more-button-url: /content-articles/
