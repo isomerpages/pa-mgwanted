@@ -8,18 +8,11 @@
 favicon: /images/favicon-isomer.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/wanted_logo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-    
+hero-banner: /images/home-main-banner.png
+ 
 key-highlights:
   - title: Highlight A
     description: Important highlight A is important
@@ -33,3 +26,8 @@ key-highlights:
     description: Page A is important too
     url: /page-A/
 
+# Resources Section
+resources-title: Content Articles
+resources-subtitle: Be in the know
+resources-more-button: More Content Articles
+resources-more-button-url: /content-articles/
