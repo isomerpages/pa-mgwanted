@@ -506,3 +506,11 @@ $desktop: 960px + (2 * $gap) !default;
 	  background-size: 100% auto !important;
   }
 } 
+
+.bp-container .carousel-nav-container {
+  display: none !important;
+}
+
+.career-container .career-carousel .profile-content {
+  display: none !important;
+}
