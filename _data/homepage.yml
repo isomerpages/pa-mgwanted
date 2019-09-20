@@ -34,7 +34,9 @@ resources-more-button-url: /content-articles/
 
 # Info Sections
 info-sections:
-  - section-title: Sign up for our courses
+  - section-title: 
     section-subtitle: Why not use the $100 top-up value on your PAssion Silver Card to pay for courses?*
-    section-description: Sign up now and receive a limited edition collectible!**<br> *Applicable for Merdeka Generation seniors only.<br> **Terms and conditions apply.
+    section-description: Sign up for any course and receive a limited edition collectible!**<br> *Applicable for Merdeka Generation seniors only.<br> **Terms and conditions apply.
+    section-more-button: Learn more
+    section-more-button-url: /course-directory
     section-image-path: /images/homepage/sign-up-collectible-redemption.png
