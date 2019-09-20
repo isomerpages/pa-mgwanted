@@ -495,10 +495,13 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bg-hero {
 	background-position: center !important;
+	min-height: 40vh;
 }
 
 @media screen and (max-width: 767px) {
   .bg-hero {
-    background-image: url('/images/home-main-banner-mobile.png');
+	  background-image: url('/images/home-main-banner-mobile.png') !important;
+	  background-size: contain !important;
+	  background-repeat: no-repeat !important;
   }
 } 
