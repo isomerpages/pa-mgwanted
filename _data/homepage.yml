@@ -25,9 +25,16 @@ key-highlights:
   - title: Page A
     description: Page A is important too
     url: /page-A/
-
+  
 # Resources Section
 resources-title: Content Articles
 resources-subtitle: Be in the know
 resources-more-button: More Content Articles
 resources-more-button-url: /content-articles/
+
+# Info Sections
+info-sections:
+  - section-title: Sign up for our courses
+    section-subtitle: Why not use the $100 top-up value on your PAssion Silver Card to pay for courses?*
+    section-description: Sign up now and receive a limited edition collectible!** *Applicable for Merdeka Generation seniors only. **Terms and conditions apply.
+    section-image-path: /images/homepage/sign-up-collectible-redemption.png
