@@ -499,6 +499,6 @@ $desktop: 960px + (2 * $gap) !default;
 
 @media screen and (max-width: 767px) {
   .bg-hero {
-    background-image: url('{{site.baseurl}}{{homepage.hero-banner-mobile}}');
+    background-image: url('/images/home-main-banner-mobile.png');
   }
 } 
