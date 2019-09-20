@@ -40,3 +40,9 @@ info-sections:
     section-more-button: Learn more
     section-more-button-url: /content-articles/
     section-image-path: /images/homepage/sign-up-collectible-redemption.png
+    
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: 
+careers-description:    
