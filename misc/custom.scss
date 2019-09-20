@@ -496,3 +496,9 @@ $desktop: 960px + (2 * $gap) !default;
 .bg-hero {
 	background-position: center !important;
 }
+
+@media screen and (max-width: 767px) {
+  .bg-hero {
+    background-image: url('{{site.baseurl}}{{homepage.hero-banner-mobile}}');
+  }
+} 
