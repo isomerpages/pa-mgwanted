@@ -390,12 +390,12 @@ $desktop: 960px + (2 * $gap) !default;
     display: flex;
     justify-content: space-between;
     padding: 1em;
-    background: #2c3e50;
+    background: $secondary;
     font-weight: bold;
     cursor: pointer;
     /* Icon */
     &:hover {
-      background: #1a252f;
+      background: lighten($secondary, 10%);;
     }
     &::after {
       content: "\276F";
