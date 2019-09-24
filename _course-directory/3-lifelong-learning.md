@@ -41,13 +41,13 @@ collection_name: course-directory
 				    <td class="tbl-conval">09 Oct 2019, Wed</td>
 				    <td class="tbl-conval">7.30pm to 10.00pm</td>
 				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725365" target="_blank">Sign Up Now!</a></td>
-				  </tr
+				  </tr>
 				  <tr>
 				    <td class="tbl-conval">Buona Vista CC</td>
 				    <td class="tbl-conval">19 Oct 2019, Sat</td>
 				    <td class="tbl-conval">2.30pm to 5.00pm</td>
 				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725318" target="_blank">Sign Up Now!</a></td>
-				  </tr
+				  </tr>
 				  <tr>
 				    <td class="tbl-conval">Henderson CC</td>
 				    <td class="tbl-conval">06 Nov 2019, Wed</td>
