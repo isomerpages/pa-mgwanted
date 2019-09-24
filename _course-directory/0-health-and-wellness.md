@@ -40,13 +40,13 @@ collection_name: course-directory
     <td class="tbl-conval">Hillview CC</td>
     <td class="tbl-conval">13 Oct 2019, Sun</td>
     <td class="tbl-conval">2.00pm to 4.00pm</td>
-    <td class="tbl-conval">[URL](<a href="https://www.onepa.sg/class/details/c026730534">https://www.onepa.sg/class/details/c026730534</a>){:target="&amp;amp;#95;blank"}</td>
+    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026730534" target="_blank">https://www.onepa.sg/class/details/c026730534</a></td>
   </tr>
   <tr>
     <td class="tbl-conval">Buona Vista CC</td>
     <td class="tbl-conval">19 Oct 2019, Sat</td>
     <td class="tbl-conval">11.00am to 1.00pm</td>
-    <td class="tbl-conval">[URL](<a href="https://www.onepa.sg/class/details/c026725985">https://www.onepa.sg/class/details/c026725985</a>){:target="&amp;amp;#95;blank"}</td>
+    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725985" target="_blank">https://www.onepa.sg/class/details/c026725985</a></td>
   </tr>
 </table></div>
 			</div>
