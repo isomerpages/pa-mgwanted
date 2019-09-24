@@ -47,7 +47,7 @@ collection_name: course-directory
 				    <td class="tbl-conval">14 Sep 2019, Sat</td>
 				    <td class="tbl-conval">2.00pm to 5.00pm</td>
 				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026732158" target="_blank">Sign Up Now!</a></td>
-				  </tr
+					</tr>
 				  <tr>
 				    <td class="tbl-conval">Woodgrove CC</td>
 				    <td class="tbl-conval">21 Sep 2019, Sat</td>
@@ -71,7 +71,7 @@ collection_name: course-directory
 				    <td class="tbl-conval">02 Nov 2019, Sat</td>
 				    <td class="tbl-conval">2.00pm to 5.00pm</td>
 				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725559" target="_blank">Sign Up Now!</a></td>
-				  </tr
+					</tr>
 				  <tr>
 				    <td class="tbl-conval">Fuchun CC</td>
 				    <td class="tbl-conval">09 Nov 2019, Sat</td>
