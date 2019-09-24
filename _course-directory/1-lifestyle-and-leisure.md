@@ -37,24 +37,6 @@ collection_name: course-directory
 				    <th class="tbl-subhdr">Sign Up</th>
 				  </tr>
 				  <tr>
-				    <td class="tbl-conval">Gek Poh Ville CC</td>
-				    <td class="tbl-conval">05 Sep 2019, Thu</td>
-				    <td class="tbl-conval">7.00pm to 10.00pm</td>
-				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026726243" target="_blank">Sign Up Now!</a></td>
-				  </tr>
-				  <tr>
-				    <td class="tbl-conval">The Serangoon CC</td>
-				    <td class="tbl-conval">14 Sep 2019, Sat</td>
-				    <td class="tbl-conval">2.00pm to 5.00pm</td>
-				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026732158" target="_blank">Sign Up Now!</a></td>
-					</tr>
-				  <tr>
-				    <td class="tbl-conval">Woodgrove CC</td>
-				    <td class="tbl-conval">21 Sep 2019, Sat</td>
-				    <td class="tbl-conval">2.00pm to 5.00pm</td>
-				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026732153" target="_blank">Sign Up Now!</a></td>
-				  </tr>
-				  <tr>
 				    <td class="tbl-conval">Cairnhill CC</td>
 				    <td class="tbl-conval">28 Sep 2019, Sat</td>
 				    <td class="tbl-conval">2.00pm to 5.00pm</td>
