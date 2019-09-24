@@ -480,7 +480,7 @@ $desktop: 960px + (2 * $gap) !default;
 @media screen and (max-width: 767px) {
   .courseAccordion {
     .tbl {
-      width: auto !important;
+      width: 100% !important;
       col {
         width: auto !important;
       }
