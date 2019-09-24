@@ -13,8 +13,8 @@ collection_name: course-directory
 		  <div class="tab">
 			<input type="checkbox" id="chck1">
 			<label class="tab-label" for="chck1">Aromatherapy for Travellers</label>
-      <p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
 			<div class="tab-content">
+				<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
 			  <div class="tbl-wrap"><table class="tbl">
 				  <tr>
 					<td class="tbl-subhdr">Course Fee</td>
