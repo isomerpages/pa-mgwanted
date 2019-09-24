@@ -94,7 +94,7 @@ collection_name: course-directory
 				    <td class="tbl-conval">19 Oct 2019, Sat</td>
 				    <td class="tbl-conval">2.00pm to 4.00pm</td>
 				    <td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725989" target="_blank">Sign Up Now!</a></td>
-				  </tr
+				  </tr>
 				  <tr>
 				    <td class="tbl-conval">Hillview CC</td>
 				    <td class="tbl-conval">20 Oct 2019, Sun</td>
@@ -114,3 +114,4 @@ collection_name: course-directory
 	  </div>	  
 	</div>
   </div>
+
