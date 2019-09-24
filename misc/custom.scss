@@ -395,7 +395,7 @@ $desktop: 960px + (2 * $gap) !default;
     cursor: pointer;
     /* Icon */
     &:hover {
-      background: lighten($secondary, 10%);;
+      background: lighten($secondary, 10%);
     }
     &::after {
       content: "\276F";
@@ -419,15 +419,15 @@ $desktop: 960px + (2 * $gap) !default;
     justify-content: flex-end;
     padding: 1em;
     font-size: 0.75em;
-    background: #2c3e50;
+    background: $secondary;
     cursor: pointer;
     &:hover {
-      background: #1a252f;
+      background: lighten($secondary, 10%);
     }
   }
   input:checked {
     + .tab-label {
-      background: #1a252f;
+      background: darken($secondary, 10%);
       &::after {
         -webkit-transform: rotate(90deg);
         transform: rotate(90deg);
