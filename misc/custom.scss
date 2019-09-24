@@ -5,13 +5,13 @@
 @charset "utf-8";
 
 // HLB brand colors
-$primary: #6031b6;
-$secondary: #4372d6;
+$primary: #000000;
+$secondary: #e11b28;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #49759a;
-$media-color-two: #744d9f;
-$media-color-three: #00838f;
+$media-color-one: #069dd8;
+$media-color-two: #6e2d8f;
+$media-color-three: #f9a61a;
 $media-color-four: #00838f;
 $media-color-five: #00838f;
 
@@ -197,7 +197,7 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .bp-section.bp-section-pagetitle {
-  background-color: $primary !important;
+  background-color: $secondary !important;
 }
 
 // Pagination
@@ -221,14 +221,14 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	background-color: $secondary;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken($secondary,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			border-top:1px solid darken($secondary,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			background-color: darken($secondary,10%);
 		}
 	}
 }
@@ -390,12 +390,12 @@ $desktop: 960px + (2 * $gap) !default;
     display: flex;
     justify-content: space-between;
     padding: 1em;
-    background: #2c3e50;
+    background: $secondary;
     font-weight: bold;
     cursor: pointer;
     /* Icon */
     &:hover {
-      background: #1a252f;
+      background: lighten($secondary, 10%);
     }
     &::after {
       content: "\276F";
@@ -419,15 +419,15 @@ $desktop: 960px + (2 * $gap) !default;
     justify-content: flex-end;
     padding: 1em;
     font-size: 0.75em;
-    background: #2c3e50;
+    background: $secondary;
     cursor: pointer;
     &:hover {
-      background: #1a252f;
+      background: lighten($secondary, 10%);
     }
   }
   input:checked {
     + .tab-label {
-      background: #1a252f;
+      background: darken($secondary, 10%);
       &::after {
         -webkit-transform: rotate(90deg);
         transform: rotate(90deg);
@@ -465,7 +465,7 @@ $desktop: 960px + (2 * $gap) !default;
     .tbl-subhdr {
       font-weight: bold;
       border-color: inherit;
-      text-align: center;
+      text-align: left;
       vertical-align: middle;
     }
     .tbl-conval {
@@ -513,4 +513,8 @@ $desktop: 960px + (2 * $gap) !default;
 
 .career-container .career-carousel .profile-content {
   display: none !important;
+}
+
+.career-container .bg-gradient {
+	background: #e11b28 !important;
 }
