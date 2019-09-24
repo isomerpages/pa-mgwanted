@@ -8,8 +8,8 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title:
-    address: People's Association Headquarters<br>9 King George's Avenue Singapore<br>MND Complex<br>Singapore 208581
+  - title: People's Association Headquarters
+    address: 9 King George's Avenue Singapore<br>MND Complex<br>Singapore 208581
     find-directions: https://goo.gl/maps/BR3UhBwJJmX2aXQF8
   # Operating Hours [OPTIONAL]
     operating-hours:
