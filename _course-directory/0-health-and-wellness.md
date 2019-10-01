@@ -11,8 +11,9 @@ collection_name: course-directory
 	  <div class="col">
 		<div class="tabs">
 		  <div class="tab">
+			<a name="aromatherapy-for-travellers"></a>  
 			<input type="checkbox" id="chck1">
-			<label class="tab-label" for="chck1"><a name="aromatherapy-for-travellers"></a>Aromatherapy for Travellers</label>
+			<label class="tab-label" for="chck1">Aromatherapy for Travellers</label>
 			<div class="tab-content">
 				<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
 			  	<div class="tbl-wrap"><table class="tbl">
@@ -52,8 +53,9 @@ collection_name: course-directory
 			</div>
 		  </div>
 		  <div class="tab">
+			<a name="aromatherapy-skincare"></a>  
 			<input type="checkbox" id="chck2">
-			<label class="tab-label" for="chck2"><a name="aromatherapy-skincare"></a>Aromatherapy Skincare</label>
+			<label class="tab-label" for="chck2">Aromatherapy Skincare</label>
 			<div class="tab-content">
 				<p>Be free of chemical products with aromatherapy! Gain tips on the benefits of using essential oils and other natural ingredients for your daily skincare routine.</p>
 			  	<div class="tbl-wrap"><table class="tbl">
