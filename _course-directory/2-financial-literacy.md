@@ -11,6 +11,7 @@ collection_name: course-directory
 	  <div class="col">
 		<div class="tabs">
 		  <div class="tab">
+			<a name="innovation-learning-journey-dhl"></a>  
 			<input type="checkbox" id="chck1">
 			<label class="tab-label" for="chck1">Innovation Learning Journey @ DHL Asia Pacific Innovation Centre</label>
 			<div class="tab-content">
@@ -52,6 +53,7 @@ collection_name: course-directory
 			</div>
 		  </div>
 		  <div class="tab">
+			<a name="intro-to-effective-comm"></a>   
 			<input type="checkbox" id="chck2">
 			<label class="tab-label" for="chck2">Introduction to Effective Communication with Your Loved Ones</label>
 			<div class="tab-content">
