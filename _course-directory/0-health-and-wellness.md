@@ -11,6 +11,7 @@ collection_name: course-directory
 	  <div class="col">
 		<div class="tabs">
 		  <div class="tab">
+			<a name="aromatherapy-for-travellers"></a>  
 			<input type="checkbox" id="chck1">
 			<label class="tab-label" for="chck1">Aromatherapy for Travellers</label>
 			<div class="tab-content">
@@ -52,6 +53,7 @@ collection_name: course-directory
 			</div>
 		  </div>
 		  <div class="tab">
+			<a name="aromatherapy-skincare"></a>  
 			<input type="checkbox" id="chck2">
 			<label class="tab-label" for="chck2">Aromatherapy Skincare</label>
 			<div class="tab-content">
