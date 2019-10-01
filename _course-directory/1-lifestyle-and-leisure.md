@@ -11,6 +11,7 @@ collection_name: course-directory
 	  <div class="col">
 		<div class="tabs">
 		  <div class="tab">
+			<a name="3d-agar-agar-making"></a>    
 			<input type="checkbox" id="chck1">
 			<label class="tab-label" for="chck1">3D Agar Agar Making</label>
 			<div class="tab-content">
@@ -70,6 +71,7 @@ collection_name: course-directory
 			</div>
 		  </div>
 		  <div class="tab">
+			<a name="basic-cajon-drumset-in-a-box"></a>    
 			<input type="checkbox" id="chck2">
 			<label class="tab-label" for="chck2">Basic Cajon - Drumset in a Box</label>
 			<div class="tab-content">
