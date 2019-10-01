@@ -11,6 +11,7 @@ collection_name: course-directory
 	  <div class="col">
 		<div class="tabs">
 		  <div class="tab">
+			<a name="estate-planning-and-you"></a>    
 			<input type="checkbox" id="chck1">
 			<label class="tab-label" for="chck1">Estate Planning and You!</label>
 			<div class="tab-content">
@@ -64,6 +65,7 @@ collection_name: course-directory
 			</div>
 		  </div>
 		  <div class="tab">
+			<a name="how-to-get-the-best-out-of-cpf-schemes"></a>  
 			<input type="checkbox" id="chck2">
 			<label class="tab-label" for="chck2">How to get the best out of CPF schemes</label>
 			<div class="tab-content">
