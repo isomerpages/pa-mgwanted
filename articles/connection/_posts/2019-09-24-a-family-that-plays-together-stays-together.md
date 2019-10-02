@@ -2,9 +2,9 @@
 layout: post
 title:  A Family That Plays Together Stays Together
 date: 2019-09-24
-permalink: /content-articles/connection/a-family-that-plays-together-stays-together
+permalink: /articles/connection/a-family-that-plays-together-stays-together
 breadcrumb: connection
-collection_name: content-articles
+collection_name: articles
 ---
 ![A Family That Plays Together Stays Together](/images/content-articles/connection/family-stays-together-img1.jpg)
 

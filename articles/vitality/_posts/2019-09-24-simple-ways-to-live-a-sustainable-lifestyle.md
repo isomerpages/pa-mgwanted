@@ -2,9 +2,9 @@
 layout: post
 title:  Simple Ways to Live a Sustainable Lifestyle
 date: 2019-09-24
-permalink: /content-articles/vitality/simple-ways-to-live-a-sustainable-lifestyle
+permalink: /articles/vitality/simple-ways-to-live-a-sustainable-lifestyle
 breadcrumb: Vitality
-collection_name: content-articles
+collection_name: articles
 ---
 ![Simple Ways to Live a Sustainable Lifestyle](/images/content-articles/vitality/sustainable-lifestyle-img1.jpg)
 
