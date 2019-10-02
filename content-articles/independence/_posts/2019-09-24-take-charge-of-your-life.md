@@ -2,9 +2,9 @@
 layout: post
 title:  Take Charge of Your Life
 date: 2019-09-24
-permalink: /articles/leisure/take-charge-of-your-life
-breadcrumb: Leisure
-collection_name: articles
+permalink: /content-articles/independence/take-charge-of-your-life
+breadcrumb: Independence
+collection_name: content-articles
 ---
 ![Take Charge of Your Life](/images/content-articles/independence/take-charge-of-your-life-img1.jpg)
 

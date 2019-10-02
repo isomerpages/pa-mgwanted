@@ -6,17 +6,17 @@
 
 - title: About Us
   url: /about-us/
-- title: Articles
-  url: /articles/
+- title: Content Articles
+  url: /content-articles/
   sub-links:
   - title: All
-    url: /articles/  
-  - title: Leisure
-    url: /articles/leisure/
-  - title: Lifestyle
-    url: /articles/lifestyle/    
-  - title: Wellness
-    url: /articles/wellness/    
+    url: /content-articles/  
+  - title: Connection
+    url: /content-articles/connection/
+  - title: Independence
+    url: /content-articles/independence/
+  - title: Vitality
+    url: /content-articles/vitality/    
 - title: Course Directory
   url: /course-directory/health-and-wellness/
   sub-links:
