@@ -503,7 +503,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Potong Pasir CC</td>
 								<td class="tbl-conval">10 Nov 2019, Sun</td>
 								<td class="tbl-conval">2.00pm to 4.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/cc026725340" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725340" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>

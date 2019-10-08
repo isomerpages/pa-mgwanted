@@ -89,7 +89,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">26 Oct 2019, Sat</td>
 								<td class="tbl-conval">2.00pm to 4.00pm </td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725727" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026744716" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -197,7 +197,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Geylang Serai CC</td>
 								<td class="tbl-conval">03 Nov 2019, Sun</td>
 								<td class="tbl-conval">8.30am to 11.00am</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026736522" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hillview CC</td>
@@ -245,7 +245,7 @@ collection_name: course-directory
 								<td class="tbl-conval">The Frontier CC</td>
 								<td class="tbl-conval">03 Nov 2019, Sun</td>
 								<td class="tbl-conval">8.30am to 11.00am</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026728463" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026731988" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">The Serangoon CC</td>

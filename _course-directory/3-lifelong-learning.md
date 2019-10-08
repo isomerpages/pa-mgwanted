@@ -143,7 +143,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Pek Kio CC</td>
 								<td class="tbl-conval">31 Oct 2019, Thu</td>
 								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725429" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026748578" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hougang CC</td>
@@ -211,7 +211,7 @@ collection_name: course-directory
 				<div class="tab">
 					<a name="understanding-your-personality-through-handwriting"></a>   
 					<input type="checkbox" id="chck5">
-					<label class="tab-label" for="chck">Understanding Your Personality Through Handwriting</label>
+					<label class="tab-label" for="chck5">Understanding Your Personality Through Handwriting</label>
 					<div class="tab-content">
 						<p>What does your handwriting reveal about yourself? Discover your hidden personality, and how you can improve yourself.</p>
 						<div class="tbl-wrap"><table class="tbl">
