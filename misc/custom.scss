@@ -496,17 +496,30 @@ $desktop: 960px + (2 * $gap) !default;
 
 .bg-hero {
 	background-position: center !important;
-	min-height: 40vh;
 }
 
 @media screen and (max-width: 767px) {
   .bg-hero {
 	  background-image: url('/images/home-main-banner-mobile.png') !important;
 	  background-repeat: no-repeat !important;
-	  background-position: 0 40% !important;
-	  background-size: 100% auto !important;
   }
 } 
+
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0) !important;  
+  padding: 0 !important;
+  height: 50vh !important;
+  .margin--top--lg{
+    margin-top: 5rem !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .bp-hero-body {
+    min-height: 30vh !important;
+    height: 100% !important;
+  }
+}
 
 .bp-container .carousel-nav-container {
   display: none !important;
