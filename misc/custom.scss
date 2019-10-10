@@ -510,7 +510,7 @@ $desktop: 960px + (2 * $gap) !default;
   padding: 0 !important;
   height: 50vh !important;
   .margin--top--lg{
-    margin-top: 5rem !important;
+    margin-top: 7rem !important;
   }
 }
 
@@ -518,6 +518,21 @@ $desktop: 960px + (2 * $gap) !default;
   .bp-hero-body {
     min-height: 30vh !important;
     height: 100% !important;
+  }
+}
+
+@media screen and (min-width: 1380px) {
+  .bp-hero-body {
+    .margin--top--lg{
+      margin-top: 10rem !important;
+    }
+  }
+}
+@media screen and (min-width: 1600px) {
+  .bp-hero-body {
+    .margin--top--lg{
+      margin-top: 15rem !important;
+    }
   }
 }
 
