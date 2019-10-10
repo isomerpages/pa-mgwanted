@@ -521,6 +521,21 @@ $desktop: 960px + (2 * $gap) !default;
   }
 }
 
+@media screen and (min-width: 1380px) {
+  .bp-hero-body {
+    .margin--top--lg{
+      margin-top: 10rem !important;
+    }
+  }
+}
+@media screen and (min-width: 1600px) {
+  .bp-hero-body {
+    .margin--top--lg{
+      margin-top: 15rem !important;
+    }
+  }
+}
+
 .bp-container .carousel-nav-container {
   display: none !important;
 }
