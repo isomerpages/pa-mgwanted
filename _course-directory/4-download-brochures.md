@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Downloads Brochures
-permalink: /course-directory/downloads-brochures/
-breadcrumb: Downloads Brochures
+title: Download Brochures
+permalink: /course-directory/download-brochures/
+breadcrumb: Download Brochures
 collection_name: course-directory
 ---
 
-### Courses Brochures
+### Download Brochures
 Here are five brochures with a listing of courses, interest groups and volunteering opportunities available at over 100 Community Clubs island-wide, as well as at PAssion WaVe outlets.
 
 For convenience, the programmes are categorised by residential district, and we welcome everyone to join our MGs!
