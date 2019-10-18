@@ -13,7 +13,7 @@ Make an impression at your next get-together with culinary creations that will w
 ![Be The Talk Of The Potluck](/images/content-articles/leisure/be-the-talk-of-the-potluck-img2.jpg)
 
 ### RENDANG REINVENTED
-Impress your loved ones with a unique fusion of rendang and pau! Turn the well-known dish into bite-sized snacks for everyone to enjoy. Without the need for cutlery or individual plates, you can serve these convenient nibbles within the comfort of your home or even outdoors at the beach or the park, and enjoy the fresh air! Learn how to prepare this delicious dish with the Singapore Halal Culinary Federation at our Rendang Pau Making course.
+Impress your loved ones with a unique fusion of rendang and pau! Turn the well-known dish into bite-sized snacks for everyone to enjoy. Without the need for cutlery or individual plates, you can serve these convenient nibbles within the comfort of your home or even outdoors at the beach or the park, and enjoy the fresh air! Learn how to prepare this delicious dish with the Singapore Halal Culinary Federation at our [Rendang Pau Making](../../course-directory/lifestyle-and-leisure/#rendang-pau-making-halal) course.
 
 ![Be The Talk Of The Potluck](/images/content-articles/leisure/be-the-talk-of-the-potluck-img3.jpg)
 

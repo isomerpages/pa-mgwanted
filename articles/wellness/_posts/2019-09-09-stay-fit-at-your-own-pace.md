@@ -13,14 +13,14 @@ Leading a more active lifestyle can seem daunting, especially when you don't kno
 ![Stay Fit at Your Own Pace](/images/content-articles/wellness/stay-fit-at-your-own-pace-img2.jpg)
 
 ### A LITTLE GOES A LONG WAY
-Improve both your flexibility and mobility with Oxigeno®! Connect with your inner self through harmonious movements intimately linked to your breathing. This calming class will give you the foundation you need before you move on to more challenging fitness styles.
+Improve both your flexibility and mobility with [Oxigeno&regs](../../course-directory/health-and-wellness/#oxigeno)! Connect with your inner self through harmonious movements intimately linked to your breathing. This calming class will give you the foundation you need before you move on to more challenging fitness styles.
 
 ![Stay Fit at Your Own Pace](/images/content-articles/wellness/stay-fit-at-your-own-pace-img3.jpg)
 
 ### MIDDLE GROUND
-Low-impact workouts are a great way to build up your endurance without causing harm to your joints. Cardio Pilates for Beginners will improve your posture and help you tone your core. Get your heart rate up and learn about muscle control in this intermediate intensity course!
+Low-impact workouts are a great way to build up your endurance without causing harm to your joints. [Cardio Pilates for Beginners](../../course-directory/health-and-wellness/#cardio-pilates-for-beginners) will improve your posture and help you tone your core. Get your heart rate up and learn about muscle control in this intermediate intensity course!
 
 ![Stay Fit at Your Own Pace](/images/content-articles/wellness/stay-fit-at-your-own-pace-img4.jpg)
 
 ### FULL SPEED AHEAD
-A form of variable-intensity interval training (VIIT), Mashup® is a convenient way to workout without compromising on intensity! The 1-hour class features low-intensity exercises such as dynamic stretching which help improve joint mobility, while medium-intensity segments focus on agility and endurance. High-intensity intervals then allow your body's fat-burning potential to naturally increase, giving you a well-rounded full-body workout.
+A form of variable-intensity interval training (VIIT), [Mashup®](../../course-directory/health-and-wellness/#mashup) is a convenient way to workout without compromising on intensity! The 1-hour class features low-intensity exercises such as dynamic stretching which help improve joint mobility, while medium-intensity segments focus on agility and endurance. High-intensity intervals then allow your body's fat-burning potential to naturally increase, giving you a well-rounded full-body workout.

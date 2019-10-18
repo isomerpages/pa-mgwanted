@@ -11,9 +11,55 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs">
 				<div class="tab">
-					<a name="innovation-learning-journey-dhl-asia"></a>  
+					<a name="identifying-fake-news-on-social-media"></a>
 					<input type="checkbox" id="chck1">
-					<label class="tab-label" for="chck1">Innovation Learning Journey @ DHL Asia Pacific Innovation Centre</label>
+					<label class="tab-label" for="chck1">Identifying Fake News on Social Media</label>
+					<div class="tab-content">
+						<p>Discuss about facts and opinions, penalties, and avenues for appeal. Identify fake news and find out the effects fake news can have on society.</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">3hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="innovation-101-in-your-everyday-life"></a>
+					<input type="checkbox" id="chck2">
+					<label class="tab-label" for="chck2">Innovation 101 in Your Everyday Life</label>
+					<div class="tab-content">
+						<p>Technology is rapidly advancing! However, there’s nothing scary about it if you understand it. Pick up tips to use digital technology effectively in your life every day!</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">3hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="innovation-learning-journey-dhl-asia"></a>  
+					<input type="checkbox" id="chck3">
+					<label class="tab-label" for="chck3">Innovation Learning Journey @ DHL Asia Pacific Innovation Centre</label>
 					<div class="tab-content">
 						<p>Experience the innovative technologies adopted by DHL to transform the way they handle logistics by the year 2050.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -25,7 +71,7 @@ collection_name: course-directory
 						<tr>
 							<td class="tbl-conval">$3</td>
 							<td class="tbl-conval">NA</td>
-							<td class="tbl-conval">3.5hr</td>
+							<td class="tbl-conval">3.5hrs</td>
 						</tr>
 						</table></div>
 					</div>
@@ -53,9 +99,32 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="innovation-learning-journey-tetra-pak"></a>
+					<input type="checkbox" id="chck4">
+					<label class="tab-label" for="chck4">Innovation Learning Journey @ Tetra Pak</label>
+					<div class="tab-content">
+						<p>This course gives you an exclusive access to Tetra Pak’s Customer Innovation Center, and the opportunity to learn about leading multinational food packaging and processing company.</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">2hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="intro-to-effective-communication"></a>   
-					<input type="checkbox" id="chck2">
-					<label class="tab-label" for="chck2">Introduction to Effective Communication with Your Loved Ones</label>
+					<input type="checkbox" id="chck5">
+					<label class="tab-label" for="chck5">Introduction to Effective Communication with Your Loved Ones</label>
 					<div class="tab-content">
 						<p>Bridge the generation gap! This course offers practical advice on how to effectively bond with the younger people you live and work with.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -67,7 +136,7 @@ collection_name: course-directory
 						<tr>
 							<td class="tbl-conval">$3</td>
 							<td class="tbl-conval">NA</td>
-							<td class="tbl-conval">3hr</td>
+							<td class="tbl-conval">3hrs</td>
 						</tr>
 						</table></div>
 					</div>
@@ -78,12 +147,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Eunos CC</td>
-								<td class="tbl-conval">19 Oct 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725966" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Punggol CC</td>
@@ -95,9 +158,32 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="intro-to-pdp-in-sg"></a>
+					<input type="checkbox" id="chck6">
+					<label class="tab-label" for="chck6">Introduction to Personal Data Protection in Singapore</label>
+					<div class="tab-content">
+						<p>This course provides an introduction to the personal data protection laws in Singapore through the use of case studies.</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">1.5hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="japanese-for-travellers"></a>   
-					<input type="checkbox" id="chck3">
-					<label class="tab-label" for="chck3">Japanese for Travellers</label>
+					<input type="checkbox" id="chck7">
+					<label class="tab-label" for="chck7">Japanese for Travellers</label>
 					<div class="tab-content">
 						<p>Take off with more confidence on your next trip to Japan! This course will highlight the cultural practices and useful conversational tips, which will be useful when communicating with locals in Japan.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -109,7 +195,7 @@ collection_name: course-directory
 						<tr>
 							<td class="tbl-conval">$20</td>
 							<td class="tbl-conval">NA</td>
-							<td class="tbl-conval">3hr</td>
+							<td class="tbl-conval">3hrs</td>
 						</tr>
 						</table></div>
 					</div>
@@ -122,22 +208,16 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Tampines North CC</td>
-								<td class="tbl-conval">17 Oct 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026727533" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Tanglin CC</td>
-								<td class="tbl-conval">19 Oct 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026735203" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Chong Pang CC</td>
 								<td class="tbl-conval">23 Oct 2019, Wed</td>
 								<td class="tbl-conval">1.00pm to 4.00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725545" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Bedok CC</td>
+								<td class="tbl-conval">26 Oct 2019, Sat</td>
+								<td class="tbl-conval">10.00am to 1.00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026743489" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Pek Kio CC</td>
@@ -162,8 +242,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="seoul-hours-korean-cultural-talk"></a>  
-					<input type="checkbox" id="chck4">
-					<label class="tab-label" for="chck4">Seoul Hours (Korean Cultural Talk)</label>
+					<input type="checkbox" id="chck8">
+					<label class="tab-label" for="chck8">Seoul Hours (Korean Cultural Talk)</label>
 					<div class="tab-content">
 						<p>If you love everything K-related, this talk is for you. Learn about the fascinating history of Korea, Korean etiquette, basic conversation, and more!</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -175,7 +255,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$30</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">3hr</td>
+								<td class="tbl-conval">3hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -209,6 +289,29 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="tenancy-101-for-beginners"></a>
+					<input type="checkbox" id="chck9">
+					<label class="tab-label" for="chck9">Tenancy 101 for Beginners</label>
+					<div class="tab-content">
+						<p>Thinking about, or already renting out your flat? Learn about the rights and duties set out in tenancy agreements to ensure a good relationship with tenants.</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">1.25hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="understanding-your-personality-through-handwriting"></a>   
 					<input type="checkbox" id="chck5">
 					<label class="tab-label" for="chck5">Understanding Your Personality Through Handwriting</label>
@@ -223,7 +326,7 @@ collection_name: course-directory
 						<tr>
 							<td class="tbl-conval">$35</td>
 							<td class="tbl-conval">NA</td>
-							<td class="tbl-conval">3hr</td>
+							<td class="tbl-conval">3hrs</td>
 						</tr>
 						</table></div>
 					</div>
