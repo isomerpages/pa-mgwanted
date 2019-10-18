@@ -38,12 +38,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Buona Vista CC</td>
-								<td class="tbl-conval">19 Oct 2019, Sat</td>
-								<td class="tbl-conval">2.30pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725318" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Henderson CC</td>
 								<td class="tbl-conval">06 Nov 2019, Wed</td>
 								<td class="tbl-conval">7.30pm to 10.00pm</td>
@@ -73,7 +67,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$3</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">3hr</td>
+								<td class="tbl-conval">3hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -85,12 +79,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>							
-							<tr>
-								<td class="tbl-conval">Anchorvale CC</td>
-								<td class="tbl-conval">16 Oct 2019, Wed</td>
-								<td class="tbl-conval">6.30pm to 9.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725617" target="_blank">Sign Up Now!</a></td>
-							</tr>
 							<tr>
 								<td class="tbl-conval">Woodgrove CC</td>
 								<td class="tbl-conval">23 Oct 2019, Wed</td>
@@ -148,7 +136,29 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>
-				
+				<div class="tab">
+					<a name="intro-to-will-making"></a>
+					<input type="checkbox" id="chck3">
+					<label class="tab-label" for="chck3">Introduction to Will Making</label>
+					<div class="tab-content">
+						<p>Have you thought about writing a will? Learn why this is important, and other aspects, including common myths and useful tips.</p>
+						<div class="tbl-wrap"><table class="tbl">
+						<tr>
+							<td class="tbl-subhdr">Course Fee</td>
+							<td class="tbl-subhdr">Material Fee</td>
+							<td class="tbl-subhdr">Duration</td>
+						</tr>
+						<tr>
+							<td class="tbl-conval">$3</td>
+							<td class="tbl-conval">NA</td>
+							<td class="tbl-conval">1.25hrs</td>
+						</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>

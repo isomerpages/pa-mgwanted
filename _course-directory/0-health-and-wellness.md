@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Health And Wellness
+title: Health & Wellness
 permalink: /course-directory/health-and-wellness/
-breadcrumb: Health And Wellness
+breadcrumb: Health & Wellness
 collection_name: course-directory
 ---
 
@@ -25,7 +25,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$35</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">2hr</td>
+								<td class="tbl-conval">2hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -38,10 +38,10 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Buona Vista CC</td>
-								<td class="tbl-conval">19 Oct 2019, Sat</td>
-								<td class="tbl-conval">11.00am to 1.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725985" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Bedok CC</td>
+								<td class="tbl-conval">09 Nov 2019, Sat</td>
+								<td class="tbl-conval">2.00pm to 4.00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026743267" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -61,7 +61,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$35</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">2hr</td>
+								<td class="tbl-conval">2hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -74,18 +74,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Buona Vista CC</td>
-								<td class="tbl-conval">19 Oct 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 4.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725989" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Hillview CC</td>
-								<td class="tbl-conval">20 Oct 2019, Sun</td>
-								<td class="tbl-conval">2.00pm to 4.00pm </td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026730542" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">26 Oct 2019, Sat</td>
 								<td class="tbl-conval">2.00pm to 4.00pm </td>
@@ -95,9 +83,78 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="diy-body-scrub"></a>  
+					<a name="aromatherapy-yoga"></a>  
 					<input type="checkbox" id="chck3">
-					<label class="tab-label" for="chck3">D.I.Y Body Scrub</label>
+					<label class="tab-label" for="chck3">Aromatherapy Yoga</label>
+					<div class="tab-content">
+						<p>Elevate your yoga experience by practising simple stretches that ease muscle tension, while soothing your senses with essential oils.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$25</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="bodyart"></a>  
+					<input type="checkbox" id="chck4">
+					<label class="tab-label" for="chck4">BodyART&reg;</label>
+					<div class="tab-content">
+						<p>Based on the principles of Yin and Yang, and the five elements in Traditional Chinese Medicine, BodyART&reg; is a functional fitness programme that helps to heal and restore balance in your body.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$13</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="cardio-pilates-for-beginners"></a>  
+					<input type="checkbox" id="chck5">
+					<label class="tab-label" for="chck5">Cardio Pilates for Beginners</label>
+					<div class="tab-content">
+						<p>Tone your core, and get your heart rate up. This low-impact workout emphasises proper postural alignment, core strength, and muscle balance.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="diy-body-scrub"></a>  
+					<input type="checkbox" id="chck6">
+					<label class="tab-label" for="chck6">D.I.Y Body Scrub</label>
 					<div class="tab-content">
 						<p>Mix it up and have fun in this interactive session to make your very own body scrub using only natural, chemical-free ingredients.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -109,7 +166,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$25</td>
 								<td class="tbl-conval">$12</td>
-								<td class="tbl-conval">2hr</td>
+								<td class="tbl-conval">2hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -131,9 +188,32 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="fitness-through-bodyweights"></a>  
+					<input type="checkbox" id="chck7">
+					<label class="tab-label" for="chck7">Fitness through Bodyweights</label>
+					<div class="tab-content">
+						<p>See your city landscape as your playground! Have a different kind of workout without any equipment and not be confined to indoor studios or classrooms.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$25</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="fun-walk-wellness-talk-ntu"></a>  
-					<input type="checkbox" id="chck4">
-					<label class="tab-label" for="chck4">Fun Walk & Wellness Talk @ NTU</label>
+					<input type="checkbox" id="chck8">
+					<label class="tab-label" for="chck8">Fun Walk & Wellness Talk @ NTU</label>
 					<div class="tab-content">
 						<p>Bring your walking kakis down to NTU for a fun walk, and enjoy the TCM wellness talk to gain useful tips on improving your health and wellbeing.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -145,7 +225,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$5</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">3hr</td>
+								<td class="tbl-conval">2.5hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -281,11 +361,34 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="hoop-fitness-for-beginners"></a>  
-					<input type="checkbox" id="chck5">
-					<label class="tab-label" for="chck5">Hoop Fitness for Beginners</label>
+					<a name="healthy-halal-recipes"></a>  
+					<input type="checkbox" id="chck9">
+					<label class="tab-label" for="chck9">Healthy Halal Recipes</label>
 					<div class="tab-content">
-						<p>Want to know what’s the hoo-ha with hula? It can be a great exercise to train core muscles. Besides learning the basic hoop techniques and postures, this session promises a whole lot of fun.</p>
+						<p>Whipping up healthy recipes is easier than you think. You can make simple ingredient substitutions to create healthy recipes that don't sacrifice taste and enjoyment.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$20</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">2hrs</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="hoop-fitness-for-beginners"></a>  
+					<input type="checkbox" id="chck10">
+					<label class="tab-label" for="chck10">Hoop Fitness for Beginners</label>
+					<div class="tab-content">
+						<p>Want to know what's the hoo-ha with hula? It can be a great exercise to train core muscles. Besides learning the basic hoop techniques and postures, this session promises a whole lot of fun.</p>
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -321,11 +424,34 @@ collection_name: course-directory
 							</tr>
 						</table></div>
 					</div>
-				</div>				
+				</div>
+				<div class="tab">
+					<a name="intro-to-healthy-meal-preparation"></a>  
+					<input type="checkbox" id="chck11">
+					<label class="tab-label" for="chck11">Introduction to Healthy Meal Preparation</label>
+					<div class="tab-content">
+						<p>You don't have to sacrifice good food to stay healthy! All you need are tips on making better meal choices. This course will explore feasible meal plans that will help you achieve your health goals, while ensuring it's still tasty.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">2hrs</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
 				<div class="tab">
 					<a name="jamu-juice"></a>  
-					<input type="checkbox" id="chck6">
-					<label class="tab-label" for="chck6">Jamu Juice!</label>
+					<input type="checkbox" id="chck12">
+					<label class="tab-label" for="chck12">Jamu Juice!</label>
 					<div class="tab-content">
 						<p>Detoxify with Jamu Juice! This traditional Indonesian herbal drink aids in accelerating weight loss, colon cleansing, and clears up clogged skin.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -337,39 +463,112 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$20</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">3hr</td>
+								<td class="tbl-conval">3hrs</td>
 							</tr>
 						</table></div>
 					</div>
 					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="k-kardio-dance"></a>  
+					<input type="checkbox" id="chck13">
+					<label class="tab-label" for="chck13">K-Kardio Dance</label>
+					<div class="tab-content">
+						<p>Ready to sweat it out? Join us for a fun and energising workout to the latest K-pop hits! Incorporating different fitness styles such as kickboxing and aerobics, dance your way to a healthier life.</p>
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Yew Tee CC</td>
-								<td class="tbl-conval">16 Oct 2019, Wed</td>
-								<td class="tbl-conval">9.30am to 12.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026727173" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Whampoa CC</td>
-								<td class="tbl-conval">20 Oct 2019, Sun</td>
-								<td class="tbl-conval">10.00am to 1.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725533" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">$13</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
 							</tr>
 						</table></div>
 					</div>
-				</div>				
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="mashup"></a>  
+					<input type="checkbox" id="chck14">
+					<label class="tab-label" for="chck14">Mashup&reg;</label>
+					<div class="tab-content">
+						<p>In need of a quick yet effective workout? Mashup&reg; can be the go-to option for those in a rush. This course introduces a convenient way to work out without compromising on intensity.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$20</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="oxigeno"></a>  
+					<input type="checkbox" id="chck15">
+					<label class="tab-label" for="chck15">Oxigeno&reg;</label>
+					<div class="tab-content">
+						<p>Built on the fundamentals of Yoga and Pilates, Oxigeno&reg; will help you enhance your flexibility and mobility through a series of harmonious and flowing movements that are intimately connected with breathing. You will be able to connect with your inner self, achieving a state of peace and serenity.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$15</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="resistance-band-toning-exercise"></a>  
+					<input type="checkbox" id="chck16">
+					<label class="tab-label" for="chck16">Resistance Band Toning Exercise</label>
+					<div class="tab-content">
+						<p>Build your muscles with the resistance band - a convenient exercise tool that is easy to carry around! Acquire tips on the optimal ways to use it to tone yourself, at home and even while on holiday.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
 				<div class="tab">
 					<a name="rhythmic-massage"></a>  
-					<input type="checkbox" id="chck7">
-					<label class="tab-label" for="chck7">Rhythmic Massage</label>
+					<input type="checkbox" id="chck17">
+					<label class="tab-label" for="chck17">Rhythmic Massage</label>
 					<div class="tab-content">
-						<p>Feel enlivened and energised with rhythmic massage. Using warm and nurturing strokes, this massage helps to activate the body’s forces, leading to overall health & mental well-being.</p>
+						<p>Feel enlivened and energised with rhythmic massage. Using warm and nurturing strokes, this massage helps to activate the body's forces, leading to overall health & mental well-being.</p>
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -379,7 +578,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$30</td>
 								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">2hr</td>
+								<td class="tbl-conval">2hrs</td>
 							</tr>
 						</table></div>
 					</div>
@@ -392,18 +591,18 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Ci Yuan CC</td>
-								<td class="tbl-conval">16 Oct 2019, Wed</td>
-								<td class="tbl-conval">7.00pm to 9.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026729620" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Bedok CC</td>
+								<td class="tbl-conval">30 Nov 2019, Sat</td>
+								<td class="tbl-conval">10.00am to 12.00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026743553" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
 				</div>
 				<div class="tab">
 					<a name="stay-healthy-with-yoga"></a>  
-					<input type="checkbox" id="chck8">
-					<label class="tab-label" for="chck8">Stay Healthy with Yoga!</label>
+					<input type="checkbox" id="chck18">
+					<label class="tab-label" for="chck18">Stay Healthy with Yoga!</label>
 					<div class="tab-content">
 						<p>Enrol in this course and learn the right way to practice yoga postures, meditations, and breathing techniques for a fitter and healthier you.</p>
 						<div class="tbl-wrap"><table class="tbl">
@@ -444,6 +643,42 @@ collection_name: course-directory
 								<td class="tbl-conval">05 Nov 2019, Tue</td>
 								<td class="tbl-conval">11.00am to 12.00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026730904" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="strength-conditioning-for-a-fitter-you"></a>  
+					<input type="checkbox" id="chck19">
+					<label class="tab-label" for="chck19">Strength and Conditioning for a Fitter You!</label>
+					<div class="tab-content">
+						<p>Get stronger! Stay fitter! Strength, and conditioning training aids in the protection of bone and muscle health, to maintain your fitness at optimum levels.</p>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$25</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Rivervale CC</td>
+								<td class="tbl-conval">29 Oct 2019, Tue</td>
+								<td class="tbl-conval">7.00pm to 8.00pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 						</table></div>
 					</div>
