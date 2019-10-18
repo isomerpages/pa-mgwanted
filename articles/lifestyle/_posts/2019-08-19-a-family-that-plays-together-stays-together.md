@@ -18,7 +18,7 @@ Tired of going to the same places and doing the same things? Why not venture out
 ![A Family That Plays Together Stays Together](/images/content-articles/lifestyle/family-stays-together-img3.jpg)
 
 ### WORK UP A SWEAT
-Keep fit and have some fun while you sweat it out to your favourite K-pop hits! Incorporating different fitness styles like kickboxing and aerobics, our K-Kardio Dance workout is the perfect way to spend some quality time with your kids. Bring the whole family along and dance your way to a healthier lifestyle!
+Keep fit and have some fun while you sweat it out to your favourite K-pop hits! Incorporating different fitness styles like kickboxing and aerobics, our [K-Kardio Dance](../../course-directory/health-and-wellness/#k-kardio-dance) workout is the perfect way to spend some quality time with your kids. Bring the whole family along and dance your way to a healthier lifestyle!
 
 ![A Family That Plays Together Stays Together](/images/content-articles/lifestyle/family-stays-together-img4.jpg)
 
