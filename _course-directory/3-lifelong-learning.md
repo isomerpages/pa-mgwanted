@@ -313,8 +313,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="understanding-your-personality-through-handwriting"></a>   
-					<input type="checkbox" id="chck5">
-					<label class="tab-label" for="chck5">Understanding Your Personality Through Handwriting</label>
+					<input type="checkbox" id="chck10">
+					<label class="tab-label" for="chck10">Understanding Your Personality Through Handwriting</label>
 					<div class="tab-content">
 						<p>What does your handwriting reveal about yourself? Discover your hidden personality, and how you can improve yourself.</p>
 						<div class="tbl-wrap"><table class="tbl">
