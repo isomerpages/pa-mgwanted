@@ -83,7 +83,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Woodgrove CC</td>
 								<td class="tbl-conval">23 Oct 2019, Wed</td>
 								<td class="tbl-conval">6.30pm to 9.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026727783" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tanjong Pagar CC</td>
