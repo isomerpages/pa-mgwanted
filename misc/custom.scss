@@ -11,9 +11,9 @@ $secondary-hover: lighten($secondary, 10%);
 
 $media-color-one: #fedcc4;
 $media-color-two: #bedced;
-$media-color-three: #d7ebd1;
-$media-color-four: #fedcc4;
-$media-color-five: #fedcc4;
+$media-color-three: #fedcc4;
+$media-color-four: #d7ebd1;
+$media-color-five: #d7ebd1;
 
 $cd-color-health-wellness: #70bc55;
 $cd-color-lifestyle-leisure: #f5a21d;
@@ -661,19 +661,18 @@ body #main-content {
   flex-direction: column;
 }
 
-
 .bp-menu-list a {
   color: #000000;
   border-bottom: 1px solid $secondary !important;
-  &:hover {
-    color: $secondary !important;
-    border-bottom: 1px solid $secondary !important;
-  }
-  &.is-active {
-    color: $secondary !important;
-    border-color: $secondary !important;
-    border-bottom: 2px solid$secondary !important;
-  }
+}
+.bp-menu-list a:hover {
+  color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
+}
+.bp-menu-list a.is-active {
+  color: $secondary !important;
+  border-color: $secondary !important;
+  border-bottom: 2px solid$secondary !important;
 }
 
 .bp-menu-list li ul {
