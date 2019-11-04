@@ -431,8 +431,7 @@ $desktop: 960px + (2 * $gap) !default;
     color: #000000;
     background: white;		  
     transition: all .35s;
-    margin-top: 0;	
-    border-color: #fff !important;  
+    margin-top: 0;
   }
   .tab-close {
     display: flex;
