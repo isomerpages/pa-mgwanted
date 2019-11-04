@@ -7,15 +7,29 @@ collection_name: course-directory
 ---
 
 <div class="courseAccordion">
+	<div class="cdDesc">
+        <p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes - Health & Wellness"></p>
+		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
+		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
+    </div>
 	<div class="row">
 	  	<div class="col">
-			<div class="tabs">
+			<div class="tabs healthWellness">
 				<div class="tab">
 					<a name="aromatherapy-for-travellers"></a>  
 					<input type="checkbox" id="chck1">
 					<label class="tab-label" for="chck1">Aromatherapy for Travellers</label>
 					<div class="tab-content">
-						<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-aromatherapy-for-travellers.jpg" alt="Aromatherapy for Travellers"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Aromatherapy makes your travels more enjoyable! This interactive course will teach you how to blend aroma therapeutic lotions with various essential oils to help you adapt to different climates and jetlag.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -51,7 +65,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck2">
 					<label class="tab-label" for="chck2">Aromatherapy Skincare</label>
 					<div class="tab-content">
-						<p>Be free of chemical products with aromatherapy! Gain tips on the benefits of using essential oils and other natural ingredients for your daily skincare routine.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-aromatherapy-skincare.jpg" alt="Aromatherapy Skincare"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Be free of chemical products with aromatherapy! Gain tips on the benefits of using essential oils and other natural ingredients for your daily skincare routine.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -87,7 +110,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck3">
 					<label class="tab-label" for="chck3">Aromatherapy Yoga</label>
 					<div class="tab-content">
-						<p>Elevate your yoga experience by practising simple stretches that ease muscle tension, while soothing your senses with essential oils.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-aromatherapy-yoga.jpg" alt="Aromatherapy Yoga"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Elevate your yoga experience by practising simple stretches that ease muscle tension, while soothing your senses with essential oils.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -110,7 +142,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck4">
 					<label class="tab-label" for="chck4">BodyART&reg;</label>
 					<div class="tab-content">
-						<p>Based on the principles of Yin and Yang, and the five elements in Traditional Chinese Medicine, BodyART&reg; is a functional fitness programme that helps to heal and restore balance in your body.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-bodyart.jpg" alt="BodyART&reg;"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Based on the principles of Yin and Yang, and the five elements in Traditional Chinese Medicine, BodyART&reg; is a functional fitness programme that helps to heal and restore balance in your body.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -133,7 +174,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck5">
 					<label class="tab-label" for="chck5">Cardio Pilates for Beginners</label>
 					<div class="tab-content">
-						<p>Tone your core, and get your heart rate up. This low-impact workout emphasises proper postural alignment, core strength, and muscle balance.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-cardio-pilates-for-beginners.jpg" alt="Cardio Pilates for Beginners"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Tone your core, and get your heart rate up. This low-impact workout emphasises proper postural alignment, core strength, and muscle balance.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -156,7 +206,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck6">
 					<label class="tab-label" for="chck6">D.I.Y Body Scrub</label>
 					<div class="tab-content">
-						<p>Mix it up and have fun in this interactive session to make your very own body scrub using only natural, chemical-free ingredients.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-diy-body-scrub.jpg" alt="D.I.Y Body Scrub"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Mix it up and have fun in this interactive session to make your very own body scrub using only natural, chemical-free ingredients.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -192,7 +251,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck7">
 					<label class="tab-label" for="chck7">Fitness through Bodyweights</label>
 					<div class="tab-content">
-						<p>See your city landscape as your playground! Have a different kind of workout without any equipment and not be confined to indoor studios or classrooms.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-hoop-fitness-for-beginners.jpg" alt="Fitness through Bodyweights"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>See your city landscape as your playground! Have a different kind of workout without any equipment and not be confined to indoor studios or classrooms.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -215,7 +283,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck8">
 					<label class="tab-label" for="chck8">Fun Walk & Wellness Talk @ NTU</label>
 					<div class="tab-content">
-						<p>Bring your walking kakis down to NTU for a fun walk, and enjoy the TCM wellness talk to gain useful tips on improving your health and wellbeing.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-fun-walk-and-wellness-talk-in-ntu.jpg" alt="Fun Walk & Wellness Talk @ NTU"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Bring your walking kakis down to NTU for a fun walk, and enjoy the TCM wellness talk to gain useful tips on improving your health and wellbeing.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -365,7 +442,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck9">
 					<label class="tab-label" for="chck9">Healthy Halal Recipes</label>
 					<div class="tab-content">
-						<p>Whipping up healthy recipes is easier than you think. You can make simple ingredient substitutions to create healthy recipes that don't sacrifice taste and enjoyment.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-healthy-halal-recipes.jpg" alt="Healthy Halal Recipes"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Whipping up healthy recipes is easier than you think. You can make simple ingredient substitutions to create healthy recipes that don't sacrifice taste and enjoyment.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -388,7 +474,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck10">
 					<label class="tab-label" for="chck10">Hoop Fitness for Beginners</label>
 					<div class="tab-content">
-						<p>Want to know what's the hoo-ha with hula? It can be a great exercise to train core muscles. Besides learning the basic hoop techniques and postures, this session promises a whole lot of fun.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-hoop-fitness-for-beginners.jpg" alt="Hoop Fitness for Beginners"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Want to know what's the hoo-ha with hula? It can be a great exercise to train core muscles. Besides learning the basic hoop techniques and postures, this session promises a whole lot of fun.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -430,7 +525,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck11">
 					<label class="tab-label" for="chck11">Introduction to Healthy Meal Preparation</label>
 					<div class="tab-content">
-						<p>You don't have to sacrifice good food to stay healthy! All you need are tips on making better meal choices. This course will explore feasible meal plans that will help you achieve your health goals, while ensuring it's still tasty.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-introduction-to-healthy-meal-preparation.jpg" alt="Introduction to Healthy Meal Preparation"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>You don't have to sacrifice good food to stay healthy! All you need are tips on making better meal choices. This course will explore feasible meal plans that will help you achieve your health goals, while ensuring it's still tasty.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -453,7 +557,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck12">
 					<label class="tab-label" for="chck12">Jamu Juice!</label>
 					<div class="tab-content">
-						<p>Detoxify with Jamu Juice! This traditional Indonesian herbal drink aids in accelerating weight loss, colon cleansing, and clears up clogged skin.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-jamu-juice.jpg" alt="Jamu Juice!"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Detoxify with Jamu Juice! This traditional Indonesian herbal drink aids in accelerating weight loss, colon cleansing, and clears up clogged skin.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -476,7 +589,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck13">
 					<label class="tab-label" for="chck13">K-Kardio Dance</label>
 					<div class="tab-content">
-						<p>Ready to sweat it out? Join us for a fun and energising workout to the latest K-pop hits! Incorporating different fitness styles such as kickboxing and aerobics, dance your way to a healthier life.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-k-kardio-dance.jpg" alt="K-Kardio Dance"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Ready to sweat it out? Join us for a fun and energising workout to the latest K-pop hits! Incorporating different fitness styles such as kickboxing and aerobics, dance your way to a healthier life.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -499,7 +621,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck14">
 					<label class="tab-label" for="chck14">Mashup&reg;</label>
 					<div class="tab-content">
-						<p>In need of a quick yet effective workout? Mashup&reg; can be the go-to option for those in a rush. This course introduces a convenient way to work out without compromising on intensity.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-mashup.jpg" alt="Mashup&reg;"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>In need of a quick yet effective workout? Mashup&reg; can be the go-to option for those in a rush. This course introduces a convenient way to work out without compromising on intensity.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -522,7 +653,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck15">
 					<label class="tab-label" for="chck15">Oxigeno&reg;</label>
 					<div class="tab-content">
-						<p>Built on the fundamentals of Yoga and Pilates, Oxigeno&reg; will help you enhance your flexibility and mobility through a series of harmonious and flowing movements that are intimately connected with breathing. You will be able to connect with your inner self, achieving a state of peace and serenity.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-oxigeno.jpg" alt="Oxigeno&reg;"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Built on the fundamentals of Yoga and Pilates, Oxigeno&reg; will help you enhance your flexibility and mobility through a series of harmonious and flowing movements that are intimately connected with breathing. You will be able to connect with your inner self, achieving a state of peace and serenity.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -545,7 +685,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck16">
 					<label class="tab-label" for="chck16">Resistance Band Toning Exercise</label>
 					<div class="tab-content">
-						<p>Build your muscles with the resistance band - a convenient exercise tool that is easy to carry around! Acquire tips on the optimal ways to use it to tone yourself, at home and even while on holiday.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-resistance-band-toning-exercise.jpg" alt="Resistance Band Toning Exercise"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Build your muscles with the resistance band - a convenient exercise tool that is easy to carry around! Acquire tips on the optimal ways to use it to tone yourself, at home and even while on holiday.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -568,7 +717,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck17">
 					<label class="tab-label" for="chck17">Rhythmic Massage</label>
 					<div class="tab-content">
-						<p>Feel enlivened and energised with rhythmic massage. Using warm and nurturing strokes, this massage helps to activate the body's forces, leading to overall health & mental well-being.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-rhythmic-massage.jpg" alt="Rhythmic Massage"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Feel enlivened and energised with rhythmic massage. Using warm and nurturing strokes, this massage helps to activate the body's forces, leading to overall health & mental well-being.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -604,7 +762,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck18">
 					<label class="tab-label" for="chck18">Stay Healthy with Yoga!</label>
 					<div class="tab-content">
-						<p>Enrol in this course and learn the right way to practice yoga postures, meditations, and breathing techniques for a fitter and healthier you.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-stay-healthy-with-yoga.jpg" alt="Stay Healthy with Yoga!"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Enrol in this course and learn the right way to practice yoga postures, meditations, and breathing techniques for a fitter and healthier you.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
@@ -652,7 +819,16 @@ collection_name: course-directory
 					<input type="checkbox" id="chck19">
 					<label class="tab-label" for="chck19">Strength and Conditioning for a Fitter You!</label>
 					<div class="tab-content">
-						<p>Get stronger! Stay fitter! Strength, and conditioning training aids in the protection of bone and muscle health, to maintain your fitness at optimum levels.</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-strength-and-conditioning-for-a-fitter-you.jpg" alt="Strength and Conditioning for a Fitter You!"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Get stronger! Stay fitter! Strength, and conditioning training aids in the protection of bone and muscle health, to maintain your fitness at optimum levels.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl">
 							<tr>
 								<td class="tbl-subhdr">Course Fee</td>
