@@ -387,6 +387,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
   .row {
     display: flex;
+    margin: 0 !important;
     .col {
       flex: 1;
       &:last-child {
@@ -665,26 +666,26 @@ body #main-content {
   color: #000000;
   border-bottom: 1px solid $secondary !important;
   &:hover {
-    color: $secondary !important;;
+    color: $secondary !important;
     border-bottom: 1px solid $secondary !important;
   }
   &.is-active {
-    color: $secondary !important;;
-    border-color: $secondary !important;;
-    border-bottom: 2px solid$secondary !important;;
+    color: $secondary !important;
+    border-color: $secondary !important;
+    border-bottom: 2px solid$secondary !important;
   }
 }
 
 .bp-menu-list li ul {
-  border-left: 1px dotted $secondary !important;;
+  border-left: 1px dotted $secondary !important;
   margin: 0.75em;
   padding-left: 0.75em;
 }
 .bp-menu-list li:not(:first-child) a {
-  border-top: 1px solid $secondary !important;;
+  border-top: 1px solid $secondary !important;
 }
 .bp-menu-label {
-  color: $secondary !important;;
+  color: $secondary !important;
 }
 
 .media-card-plain{
