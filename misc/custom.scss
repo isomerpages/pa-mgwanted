@@ -430,7 +430,8 @@ $desktop: 960px + (2 * $gap) !default;
     color: #000000;
     background: white;		  
     transition: all .35s;
-	  margin-top: 0;	  
+    margin-top: 0;	
+    border-color: #fff !important;  
   }
   .tab-close {
     display: flex;
@@ -570,6 +571,7 @@ $desktop: 960px + (2 * $gap) !default;
   .img-desc-container{
     display: flex; 
     flex-wrap: nowrap;
+    margin-top: 5px;
     .img-container-left{
       width: 30%;
       margin: 0 10px 0 0;
