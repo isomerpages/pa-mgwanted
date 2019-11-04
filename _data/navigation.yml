@@ -4,19 +4,6 @@
 #                                #
 ##################################
 
-- title: About Us
-  url: /about-us/
-- title: Articles
-  url: /articles/
-  sub-links:
-  - title: All
-    url: /articles/  
-  - title: Leisure
-    url: /articles/leisure/
-  - title: Lifestyle
-    url: /articles/lifestyle/    
-  - title: Wellness
-    url: /articles/wellness/    
 - title: Course Directory
   url: /course-directory/health-and-wellness/
   sub-links:
@@ -30,5 +17,18 @@
     url: /course-directory/lifelong-learning/
   - title: Download Brochures
     url: /course-directory/download-brochures/  
+- title: Articles
+  url: /articles/
+  sub-links:
+  - title: All
+    url: /articles/  
+  - title: Learning
+    url: /articles/learning/
+  - title: Hobbies
+    url: /articles/hobbies/
+  - title: Wellness
+    url: /articles/wellness/ 
+- title: About Us
+  url: /about-us/
 - title: Contact Us
   url: /contact-us/

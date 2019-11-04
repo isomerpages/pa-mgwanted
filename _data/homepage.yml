@@ -17,10 +17,18 @@ google-analytics: UA-149686925-1
 hero-banner: /images/home-main-banner.png
  
 key-highlights:
-  - title: Articles
-    url: /articles/
-  - title: Course Directory
+  - title: Health & Wellness
+    description: Courses
     url: /course-directory/health-and-wellness/
+  - title: Lifestyle & Leisure
+    description: Courses
+    url: /course-directory/lifestyle-and-leisure/
+  - title: Financial Literacy
+    description: Courses
+    url: /course-directory/financial-literacy/
+  - title: Lifelong Learning
+    description: Courses
+    url: /course-directory/lifelong-learning/
   
 # Resources Section
 resources-title: Articles

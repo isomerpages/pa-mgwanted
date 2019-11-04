@@ -6,14 +6,29 @@
 
 // HLB brand colors
 $primary: #000000;
-$secondary: #e11b28;
+$secondary: #ef413d;
 $secondary-hover: lighten($secondary, 10%);
 
-$media-color-one: #069dd8;
-$media-color-two: #6e2d8f;
-$media-color-three: #f9a61a;
-$media-color-four: #069dd8;
-$media-color-five: #069dd8;
+$media-color-one: #fedcc4;
+$media-color-two: #bedced;
+$media-color-three: #fedcc4;
+$media-color-four: #d7ebd1;
+$media-color-five: #d7ebd1;
+
+$cd-color-health-wellness: #70bc55;
+$cd-color-lifestyle-leisure: #f5a21d;
+$cd-color-financial-literacy: #6f2e8d;
+$cd-color-lifelong-learning: #0c9ad5;
+
+$cd-color-light-health-wellness: #d7ebd1;
+$cd-color-light-lifestyle-leisure: #fedcc4;
+$cd-color-light-financial-literacy: #d9d7ec;
+$cd-color-light-lifelong-learning: #bedced;
+
+$cd-color-darken-health-wellness: #467f3c;
+$cd-color-darken-lifestyle-leisure: #a16d29;
+$cd-color-darken-financial-literacy: #4b205f;
+$cd-color-darken-lifelong-learning: #056993;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -362,6 +377,9 @@ $desktop: 960px + (2 * $gap) !default;
 
 //accordion Course
 .courseAccordion {
+  .cdDesc{
+    margin: 0 0 50px;
+  }
   input {
     position: absolute;
     opacity: 0;
@@ -369,11 +387,12 @@ $desktop: 960px + (2 * $gap) !default;
   }
   .row {
     display: flex;
+    margin: 0 !important;
     .col {
       flex: 1;
       &:last-child {
         margin-left: 0;
- 	padding:0
+ 	      padding:0
       }
     }
   }
@@ -412,8 +431,7 @@ $desktop: 960px + (2 * $gap) !default;
     color: #000000;
     background: white;		  
     transition: all .35s;
-	  margin-top: 0;
-	  
+    margin-top: 0;
   }
   .tab-close {
     display: flex;
@@ -437,6 +455,82 @@ $desktop: 960px + (2 * $gap) !default;
     ~ .tab-content {
       max-height: 200vh;
       padding: 1em;
+    }
+  }
+  .tabs.healthWellness {
+    .tab-label {
+      background: $cd-color-health-wellness;
+      &:hover {
+        background: $cd-color-light-health-wellness;
+      }    
+    }
+    .tab-close {
+      background: $cd-color-health-wellness;
+      &:hover {
+        background: $cd-color-light-health-wellness;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $cd-color-darken-health-wellness;
+      }
+    }
+  }
+  .tabs.lifestyleLeisure {
+    .tab-label {
+      background: $cd-color-lifestyle-leisure;
+      &:hover {
+        background: $cd-color-light-lifestyle-leisure;
+      }    
+    }
+    .tab-close {
+      background: $cd-color-lifestyle-leisure;
+      &:hover {
+        background: $cd-color-light-lifestyle-leisure;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $cd-color-darken-lifestyle-leisure;
+      }
+    }
+  }
+  .tabs.financialLiteracy {
+    .tab-label {
+      background: $cd-color-financial-literacy;
+      &:hover {
+        background: $cd-color-light-financial-literacy;
+      }    
+    }
+    .tab-close {
+      background: $cd-color-financial-literacy;
+      &:hover {
+        background: $cd-color-light-financial-literacy;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $cd-color-darken-financial-literacy;
+      }
+    }
+  }
+  .tabs.lifelongLearning {
+    .tab-label {
+      background: $cd-color-lifelong-learning;
+      &:hover {
+        background: $cd-color-light-lifelong-learning;
+      }    
+    }
+    .tab-close {
+      background: $cd-color-lifelong-learning;
+      &:hover {
+        background: $cd-color-light-lifelong-learning;
+      }
+    }
+    input:checked {
+      + .tab-label {
+        background: $cd-color-darken-lifelong-learning;
+      }
     }
   }
   .tbl {
@@ -472,6 +566,19 @@ $desktop: 960px + (2 * $gap) !default;
     .tbl-conval {
       text-align: left;
       vertical-align: top;
+    }
+  }
+  .img-desc-container{
+    display: flex; 
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    .img-container-left{
+      width: 30%;
+      margin: 0 10px 0 0;
+    }
+    .desc-container-right{
+      width: 70%; 
+      margin: 0 0 0 10px;
     }
   }
 }
@@ -545,25 +652,47 @@ $desktop: 960px + (2 * $gap) !default;
 }
 
 .career-container .bg-gradient {
-	background: #e11b28 !important;
+	background: #ef413d !important;
 }
 
 body #main-content {
   display: flex;
   flex-direction: column;
-
-  section {
-    &.bp-section {
-      order: 3;
-    }
-
-    &#key-highlights.bp-section {
-      order: 1;
-    }
-
-    &.bp-section.bg-newssection {
-      order: 2;
-    }
-  }
 }
 
+.bp-menu-list a {
+  color: #000000;
+  border-bottom: 1px solid $secondary !important;
+}
+.bp-menu-list a:hover {
+  color: $secondary !important;
+  border-bottom: 1px solid $secondary !important;
+}
+.bp-menu-list a.is-active {
+  color: $secondary !important;
+  border-color: $secondary !important;
+  border-bottom: 2px solid$secondary !important;
+}
+
+.bp-menu-list li ul {
+  border-left: 1px dotted $secondary !important;
+  margin: 0.75em;
+  padding-left: 0.75em;
+}
+.bp-menu-list li:not(:first-child) a {
+  border-top: 1px solid $secondary !important;
+}
+.bp-menu-label {
+  color: $secondary !important;
+}
+
+.media-card-plain{
+  .has-text-white {
+    color: #000000 !important;
+  }
+  
+  a.has-text-white:hover,
+  a.has-text-white:focus {
+    color: #000000 !important;
+  }
+}
