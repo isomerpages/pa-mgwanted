@@ -579,6 +579,9 @@ $desktop: 960px + (2 * $gap) !default;
     .desc-container-right{
       width: 70%; 
       margin: 0 0 0 10px;
+      p{
+        font-size: 1em;
+      }
     }
   }
 }
