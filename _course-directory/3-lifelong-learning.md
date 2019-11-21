@@ -116,12 +116,6 @@ collection_name: course-directory
 							<th class="tbl-subhdr">Sign Up</th>
 						</tr>
 						<tr>
-							<td class="tbl-conval">Anchorvale CC</td>
-							<td class="tbl-conval">19 Nov 2019, Tue</td>
-							<td class="tbl-conval">2.00pm to 5.30pm</td>
-							<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026733838" target="_blank">Sign Up Now!</a></td>
-						</tr>
-						<tr>
 							<td class="tbl-conval">Woodlands CC</td>
 							<td class="tbl-conval">10 Dec 2019, Tue</td>
 							<td class="tbl-conval">2.00pm to 5.30pm</td>
@@ -191,20 +185,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Punggol CC</td>
-								<td class="tbl-conval">16 Nov 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026734153" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -268,44 +249,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Chong Pang CC</td>
-								<td class="tbl-conval">23 Oct 2019, Wed</td>
-								<td class="tbl-conval">1.00pm to 4.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725545" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bedok CC</td>
-								<td class="tbl-conval">26 Oct 2019, Sat</td>
-								<td class="tbl-conval">10.00am to 1.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026743489" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Pek Kio CC</td>
-								<td class="tbl-conval">31 Oct 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026748578" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Hougang CC</td>
-								<td class="tbl-conval">07 Nov 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026733088" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Timah CC</td>
-								<td class="tbl-conval">14 Nov 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026729265" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -337,32 +281,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Panjang CC</td>
-								<td class="tbl-conval">10 Nov 2019, Sun</td>
-								<td class="tbl-conval">10.00am to 1.00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Timah CC</td>
-								<td class="tbl-conval">10 Nov 2019, Sun</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Yio Chu Kang CC</td>
-								<td class="tbl-conval">16 Nov 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>							
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -426,26 +345,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Siglap South CC</td>
-								<td class="tbl-conval">26 Oct 2019, Sat</td>
-								<td class="tbl-conval">9.30am to 12.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026730949" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Buona Vista CC</td>
-								<td class="tbl-conval">09 Nov 2019, Sat</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725991" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 			</div>

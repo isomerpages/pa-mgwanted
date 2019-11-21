@@ -44,26 +44,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Henderson CC</td>
-								<td class="tbl-conval">06 Nov 2019, Wed</td>
-								<td class="tbl-conval">7.30pm to 10.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725613" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Queenstown CC</td>
-								<td class="tbl-conval">16 Nov 2019, Sat</td>
-								<td class="tbl-conval">2.30pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725457" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -101,54 +82,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>							
-							<tr>
-								<td class="tbl-conval">Woodgrove CC</td>
-								<td class="tbl-conval">23 Oct 2019, Wed</td>
-								<td class="tbl-conval">6.30pm to 9.30pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Tanjong Pagar CC</td>
-								<td class="tbl-conval">24 Oct 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725369" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Punggol West CC</td>
-								<td class="tbl-conval">31 Oct 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026726540" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bishan CC</td>
-								<td class="tbl-conval">06 Nov 2019, Wed</td>
-								<td class="tbl-conval">6.30pm to 9.30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026725336" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bedok CC</td>
-								<td class="tbl-conval">07 Nov 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026729480" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">West Coast CC</td>
-								<td class="tbl-conval">14 Nov 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026734741" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Tampines West CC</td>
-								<td class="tbl-conval">19 Nov 2019, Tue</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026726532" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Fengshan CC</td>
-								<td class="tbl-conval">21 Nov 2019, Thu</td>
-								<td class="tbl-conval">2.00pm to 5.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026726453" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">ACE The Place CC</td>
