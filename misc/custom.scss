@@ -405,6 +405,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     color: white;
     overflow: hidden;
+    &:hover {
+      color: #000;
+    }  
   }
   .tab-label {
     display: flex;
