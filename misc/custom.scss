@@ -475,7 +475,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-health-wellness;
+        background: $cd-color-light-health-wellness;
+        color: #000000;
       }
     }
   }
@@ -494,7 +495,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-lifestyle-leisure;
+        background: $cd-color-light-lifestyle-leisure;
+        color: #000000;
       }
     }
   }
@@ -513,7 +515,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-financial-literacy;
+        background: $cd-color-light-financial-literacy;
+        color: #000000;
       }
     }
   }
@@ -532,7 +535,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-lifelong-learning;
+        background: $cd-color-light-lifelong-learning;
+        color: #000000;
       }
     }
   }
