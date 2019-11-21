@@ -169,7 +169,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifelong-learning/tbn-introduction-to- effective-communication-with-your-loved-ones.jpg" alt="Introduction to Effective Communication with Your Loved Ones"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-introduction-to-effective-communication-with-your-loved-ones.jpg" alt="Introduction to Effective Communication with Your Loved Ones"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Bridge the generation gap! This course offers practical advice on how to effectively bond with the younger people you live and work with.</p>

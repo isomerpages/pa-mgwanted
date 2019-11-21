@@ -22,7 +22,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/financial-literacy/tbn-estate planning-and-you.jpg" alt="Estate Planning and You!"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-estate-planning-and-you.jpg" alt="Estate Planning and You!"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Ever wonder what happens to your estate upon passing unexpectedly or loss of mental capacity? Proper estate planning allows for a smooth and expeditious management of your estate to care for your loved ones. Gain an understanding of this process, as well as the essentials of Lasting Power of Attorney, Wills, and Trusts.</p>
@@ -73,7 +73,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/financial-literacy/tbn-how-to- get-the-best-out-of-cpf-schemes.jpg" alt="How to get the best out of CPF schemes"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-how-to-get-the-best-out-of-cpf-schemes.jpg" alt="How to get the best out of CPF schemes"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Want to know how CPF works? Understand key schemes that can impact one's financial status at this informative session.</p>
