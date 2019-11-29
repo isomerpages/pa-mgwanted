@@ -405,6 +405,9 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
     color: white;
     overflow: hidden;
+    &:hover {
+      color: #000;
+    }  
   }
   .tab-label {
     display: flex;
@@ -472,7 +475,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-health-wellness;
+        background: $cd-color-light-health-wellness;
+        color: #000000;
       }
     }
   }
@@ -491,7 +495,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-lifestyle-leisure;
+        background: $cd-color-light-lifestyle-leisure;
+        color: #000000;
       }
     }
   }
@@ -510,7 +515,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-financial-literacy;
+        background: $cd-color-light-financial-literacy;
+        color: #000000;
       }
     }
   }
@@ -529,7 +535,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     input:checked {
       + .tab-label {
-        background: $cd-color-darken-lifelong-learning;
+        background: $cd-color-light-lifelong-learning;
+        color: #000000;
       }
     }
   }
@@ -573,11 +580,11 @@ $desktop: 960px + (2 * $gap) !default;
     flex-wrap: nowrap;
     margin-top: 5px;
     .img-container-left{
-      width: 30%;
+      width: 40%;
       margin: 0 10px 0 0;
     }
     .desc-container-right{
-      width: 70%; 
+      width: 60%; 
       margin: 0 0 0 10px;
     }
   }
