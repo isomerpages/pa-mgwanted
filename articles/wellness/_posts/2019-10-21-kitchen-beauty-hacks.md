@@ -25,6 +25,7 @@ Does your hair feel dry and damaged? Try garlic oil before you wash your hair to
 
 **Why It Works:**
 These pungent pods are packed with vitamin C and amino acids that promote hair growth and repair hair damage! 
+
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img2.jpg)
 
 
@@ -47,6 +48,7 @@ Use this black pepper body scrub once a week to get rid of acne! And if you are 
 
 **Why It Works:**
 Black pepper is a great organic exfoliator. It helps to clear acne and blackheads by scrubbing away excess oil and bacteria! To learn how to make more nourishing body scrubs at home, join us at our [D.I.Y Body Scrub](../../course-directory/health-and-wellness/#diy-body-scrub) course at a CC near you!
+
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img3.jpg)
 
 
@@ -66,6 +68,7 @@ Use this quick facemask once a week for gorgeous, glowing skin!
 
 **Why It Works:**
 Cloves are rich in antioxidants that can help to heal and even out your skin tone. Be sure to do a patch test on your arm first as its strong anti-bacterial properties can irritate sensitive skin. 
+
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img4.jpg)
 
 
@@ -86,4 +89,5 @@ Try this moisturising lip scrub twice a week for plump, radiant lips.
 
 **Why It Works:**
 Cinnamon has amazing healing and anti-fungal properties. It also promotes blood circulation, which makes it great for dry lips.
+
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img5.jpg)

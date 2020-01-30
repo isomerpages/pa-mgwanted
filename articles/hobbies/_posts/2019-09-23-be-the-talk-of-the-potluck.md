@@ -12,8 +12,10 @@ Make an impression at your next get-together with culinary creations that will w
 
 ### RENDANG REINVENTED
 Impress your loved ones with a unique fusion of rendang and pau! Turn the well-known dish into bite-sized snacks for everyone to enjoy. Without the need for cutlery or individual plates, you can serve these convenient nibbles within the comfort of your home or even outdoors at the beach or the park, and enjoy the fresh air! Learn how to prepare this delicious dish with the Singapore Halal Culinary Federation at our [Rendang Pau Making](../../course-directory/lifestyle-and-leisure/#rendang-pau-making-halal) course.
+
 ![Be The Talk Of The Potluck](/images/content-articles/hobbies/be-the-talk-of-the-potluck-img2.jpg)
 
 ### NOT YOUR AVERAGE AGAR
 Transform traditional agar desserts into three-dimensional works of art! Make your agar cake the centrepiece of the potluck with our [3D Agar-Agar Making](../../course-directory/lifestyle-and-leisure/#3d-agar-agar-making) course. Learn how to create agar flowers and adorn your layered cake with colourful embellishments that will leave your guests in awe!
+
 ![Be The Talk Of The Potluck](/images/content-articles/hobbies/be-the-talk-of-the-potluck-img3.jpg)

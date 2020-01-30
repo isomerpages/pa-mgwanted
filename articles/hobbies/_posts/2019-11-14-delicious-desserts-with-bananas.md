@@ -30,6 +30,7 @@ These popular snacks, also known as jemput jemput, are usually deep-fried. But t
 4. Sift in the flour gradually and stir well until fully combined.
 5. Grease your baking pan with butter or cooking spray and drop heaped tablespoons of the mixture onto the pan.
 6. Bake for 15 minutes on one side. Flip the fritters over and bake for another 15 minutes. 
+
 ![Delicious Desserts With Bananas](/images/content-articles/hobbies/delicious-desserts-with-bananas-img2.jpg)
 
 ### BANANA PANCAKES
@@ -49,7 +50,8 @@ This simple pancake recipe does not use flour or sugar! Have it for breakfast as
 2. Crack in the eggs and whisk them in.
 3. Heat a frying pan on medium heat and place a dollop of the mixture onto the pan.
 4. Fry for a minute or until golden-brown then flip to cook the other side.
-5. Top with sliced bananas and blueberries and finish with a drizzle of honey
+5. Top with sliced bananas and blueberries and finish with a drizzle of honey.
+
 ![Delicious Desserts With Bananas](/images/content-articles/hobbies/delicious-desserts-with-bananas-img3.jpg)
 
 
@@ -68,6 +70,7 @@ This 3-ingredient treat requires no cooking at all! Perfect to cool you down on 
 1. Freeze the bananas for at least an hour and cut them into chunks.
 1. Place the bananas, yoghurt and peanut butter in a blender and blend until smooth. 
 3. Freeze for at least 15 minutes before serving. 
+
  ![Delicious Desserts With Bananas](/images/content-articles/hobbies/delicious-desserts-with-bananas-img4.jpg)
 
 

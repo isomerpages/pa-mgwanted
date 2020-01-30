@@ -12,6 +12,7 @@ Does your house have things you no longer use? Give new life to your old items b
 
 ### GLASSES CASE STORAGE
 Your spectacles case is the perfect multi-purpose storage tool! Reuse this handy container for cable storage when you travel, or fill it with a pincushion, thread and some sewing needles for a portable sewing kit. 
+
 ![From Trash To Treasure](/images/content-articles/hobbies/from-trash-to-treasure-img2.jpg)
 
 ### NECKLACE CAMERA STRAP 
@@ -20,6 +21,7 @@ Turn an old necklace into a one-of-a-kind camera strap. Combine it with a statem
 
 ### CRIB SLATS DISPLAY RACK
 Repurpose a convertible crib for convenient storage. Prop an unused side rail against a wall to display magazines or hang blankets and scarves for easy access and organisation.
+
  ![From Trash To Treasure](/images/content-articles/hobbies/from-trash-to-treasure-img4.jpg)
 
 If these DIY projects seem daunting, start small by learning how to transform empty bottles and jars into decorative pieces for your home. Join us for our [Upcycle your bottle](../../course-directory/lifestyle-and-leisure/#upcycle-your-bottle) course at a CC near you!

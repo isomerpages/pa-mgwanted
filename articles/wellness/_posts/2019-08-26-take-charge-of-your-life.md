@@ -12,12 +12,15 @@ Independence is something we often take for granted. Always being in charge can 
 
 ### PRACTISE MINDFULNESS
 Mindfulness is all about building your sense of self-awareness. By being present in the moment, you open yourself up to a greater sense of peace and confidence. Practising yoga not only improves your physical health but also teaches self-reliance and mental fortitude. [Stay Healthy with Yoga](../../course-directory/health-and-wellness/#stay-healthy-with-yoga) and begin your journey of empowerment!
+
 ![Take Charge of Your Life](/images/content-articles/wellness/take-charge-of-your-life-img2.jpg)
 
 ### EAT HEALTHY
 Maintaining a well-balanced diet is great for your mind and body! Too much sugar can have an adverse effect on your mental health, making you more susceptible to anxiety and depression. But that doesn’t mean you have to ditch your favourite sweet treats altogether! Take control of your diet and learn how to make [Heavenly Healthy Treats](../../course-directory/lifestyle-and-leisure/#healthy-heavenly-treats) with less sugar without compromising on flavour.
+
 ![Take Charge of Your Life](/images/content-articles/wellness/take-charge-of-your-life-img3.jpg)
 
 ### MANAGE YOUR MONEY
 Learning how to manage your funds and assets will allow you to be financially independent. And as we get older, learning about CPF schemes and how it can impact our financial status is a key component in achieving personal autonomy. Understand [How to Get the Best Out of CPF Schemes](../../course-directory/financial-literacy/#how-to-get-the-best-out-of-cpf-schemes) and lead a more independent life today!
+
 ![Take Charge of Your Life](/images/content-articles/wellness/take-charge-of-your-life-img4.jpg)
