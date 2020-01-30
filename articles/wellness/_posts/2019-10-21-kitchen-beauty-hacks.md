@@ -23,7 +23,7 @@ Does your hair feel dry and damaged? Try garlic oil before you wash your hair to
 3. Massage your scalp and leave on for 5-10 minutes.
 4. Wash off with warm water, and shampoo and condition as usual.
 
-**Why It Works:**
+**Why It Works:**  
 These pungent pods are packed with vitamin C and amino acids that promote hair growth and repair hair damage! 
 
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img2.jpg)
@@ -46,7 +46,7 @@ Use this black pepper body scrub once a week to get rid of acne! And if you are 
 4. Wait for the scrub to cool down. Then, apply it to your body and rub in circular motions to remove dead skin cells. 
 5. Wash off with lukewarm water.
 
-**Why It Works:**
+**Why It Works:**  
 Black pepper is a great organic exfoliator. It helps to clear acne and blackheads by scrubbing away excess oil and bacteria! To learn how to make more nourishing body scrubs at home, join us at our [D.I.Y Body Scrub](../../course-directory/health-and-wellness/#diy-body-scrub) course at a CC near you!
 
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img3.jpg)
@@ -66,7 +66,7 @@ Use this quick facemask once a week for gorgeous, glowing skin!
 3. Apply the paste to your face and leave on for 5 minutes.
 4. Wash away with lukewarm water.
 
-**Why It Works:**
+**Why It Works:**  
 Cloves are rich in antioxidants that can help to heal and even out your skin tone. Be sure to do a patch test on your arm first as its strong anti-bacterial properties can irritate sensitive skin. 
 
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img4.jpg)
@@ -87,7 +87,7 @@ Try this moisturising lip scrub twice a week for plump, radiant lips.
 3. Remove the scrub with a wet wipe.
 4. Follow up with a lip balm of your choice.
 
-**Why It Works:**
+**Why It Works:**  
 Cinnamon has amazing healing and anti-fungal properties. It also promotes blood circulation, which makes it great for dry lips.
 
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img5.jpg)

@@ -13,7 +13,7 @@ Bananas are packed with important nutrients like fibre and potassium. They are a
 ### BANANA FRITTERS
 These popular snacks, also known as jemput jemput, are usually deep-fried. But take a look at this baked version that’s both delicious and oil-free!
 
-**Serves:**
+**Serves:**  
 2-3
 
 **Ingredients:**
@@ -36,7 +36,7 @@ These popular snacks, also known as jemput jemput, are usually deep-fried. But t
 ### BANANA PANCAKES
 This simple pancake recipe does not use flour or sugar! Have it for breakfast as a healthy alternative to traditional pancakes.
 
-**Serves:**
+**Serves:**  
 1-2
 
 **Ingredients:**
@@ -58,7 +58,7 @@ This simple pancake recipe does not use flour or sugar! Have it for breakfast as
 ### BANANA FROYO
 This 3-ingredient treat requires no cooking at all! Perfect to cool you down on a sunny day in Singapore.
 
-**Serves:**
+**Serves:**  
 2-3
 
 **Ingredients:**
