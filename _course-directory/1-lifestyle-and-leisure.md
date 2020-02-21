@@ -1477,12 +1477,6 @@ collection_name: course-directory
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779670" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Sengkang CC</td>
-								<td class="tbl-conval">30 May 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776214" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">06 Jun 2020, Sat</td>
 								<td class="tbl-conval">1:00pm to 4:00pm</td>
@@ -1640,11 +1634,11 @@ collection_name: course-directory
 				<div class="tab">
 					<a name="the-secrets-to-nonya-cooking"></a>  
 					<input type="checkbox" id="chck2020_16">
-					<label class="tab-label" for="chck2020_16">The secrets to Nonya Cooking</label>
+					<label class="tab-label" for="chck2020_16">The Secrets to Nonya Cooking</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="The secrets to Nonya Cooking"></p>
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="The Secrets to Nonya Cooking"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Nonya cooking results from blending Chinese ingredients with Malay spices. Learn how to make specialties like Durian Pengat and Chap Chye.</p>
@@ -1675,22 +1669,22 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Nee Soon Central CC</td>
-								<td class="tbl-conval">23 Feb 2020, Sun</td>
-								<td class="tbl-conval">2:30pm to 4:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776203" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">25 Feb 2020, Tue</td>
 								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776280" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">01 Mar 2020, Sun</td>
 								<td class="tbl-conval">2:00pm to 5:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776423" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Bukit Merah CC</td>
+								<td class="tbl-conval">10 Mar 2020, Tue</td>
+								<td class="tbl-conval">2:00pm to 5:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776278" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Clementi CC</td>
@@ -1709,12 +1703,12 @@ collection_name: course-directory
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 1:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776430" target="_blank">Sign Up Now!</a></td>
-							</tr>							
+							</tr>
 							<tr>
-								<td class="tbl-conval">Tampines East CC</td>
-								<td class="tbl-conval">TBA</td>
-								<td class="tbl-conval">TBA</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval">Bukit Merah CC</td>
+								<td class="tbl-conval">24 Mar 2020, Tue</td>
+								<td class="tbl-conval">2:00pm to 5:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776280" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
