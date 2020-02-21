@@ -439,24 +439,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Chong Pang CC</td>
-								<td class="tbl-conval">21 Feb 2020, Fri</td>
-								<td class="tbl-conval">10:30am to 12:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776436" target="_blank">Sign Up Now!</a></td>
-							</tr>							
-							<tr>
-								<td class="tbl-conval">Nee Soon Central CC</td>
-								<td class="tbl-conval">22 Feb 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776197" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">MacPherson CC</td>
-								<td class="tbl-conval">23 Feb 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026775989" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Toa Payoh Central CC</td>
 								<td class="tbl-conval">28 Feb 2020, Fri</td>
 								<td class="tbl-conval">7:30pm to 9:30pm</td>
@@ -579,7 +561,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">Nee Soon East CC</td>
 								<td class="tbl-conval">14 Feb 2020, Fri</td>
-								<td class="tbl-conval">10:30am to 12:30pm</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776422" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
@@ -1210,7 +1192,7 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hougang CC</td>
-								<td class="tbl-conval">15 Mar 2020, Sun</td>
+								<td class="tbl-conval">16 Mar 2020, Mon</td>
 								<td class="tbl-conval">10:00am to 11:00am</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780106" target="_blank">Sign Up Now!</a></td>
 							</tr>

@@ -215,7 +215,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nanyang CC</td>
 								<td class="tbl-conval">20 Mar 2020, Fri</td>
 								<td class="tbl-conval">1:30pm to 3:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777344" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026783608" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Ci Yuan CC</td>
@@ -261,18 +261,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Hwi Yoh CC</td>
-								<td class="tbl-conval">22 Feb 2020, Sat</td>
-								<td class="tbl-conval">3:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776402" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nanyang CC</td>
-								<td class="tbl-conval">22 Feb 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 4:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776549" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Punggol Park CC</td>
@@ -357,6 +345,12 @@ collection_name: course-directory
 								<td class="tbl-conval">30 May 2020, Sat</td>
 								<td class="tbl-conval">2:00pm to 4:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026775946" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nanyang CC</td>
+								<td class="tbl-conval">06 Jun 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782816" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -813,7 +807,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nanyang CC</td>
 								<td class="tbl-conval">19 Apr 2020, Sun</td>
 								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777261" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026783571" target="_blank">Sign Up Now!</a></td>
 							</tr>							
 							<tr>
 								<td class="tbl-conval">Keat Hong CC</td>
@@ -1147,7 +1141,7 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">29 May 2020, Fri/td>
+								<td class="tbl-conval">29 May 2020, Fri</td>
 								<td class="tbl-conval">7:30pm to 9:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776613" target="_blank">Sign Up Now!</a></td>
 							</tr>
