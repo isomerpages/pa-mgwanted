@@ -109,7 +109,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Hillview CC</td>
 								<td class="tbl-conval">06 Jun 2020, Sat</td>
 								<td class="tbl-conval">9:00am to 11:00am</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026783811" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Jurong Spring CC</td>
@@ -301,41 +301,9 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="fast-at-terminal-4"></a>
-					<input type="checkbox" id="chck2020_4">
-					<label class="tab-label" for="chck2020_4">FAST (Fast and Seamless Travel) at Terminal 4</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifelong-learning/tbn-identifying-fake-news-on-social-media.jpg" alt="FAST (Fast and Seamless Travel) at Terminal 4"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Join a tour of Terminal 4 to learn about automated departure processes, to understand how passengers can self-serve from check-in to departure, to enjoy a faster and more seamless travel experience.Visitors will also learn about the various facilities designed for passengers in Terminal 4.</p>
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-						<tr>
-							<td class="tbl-subhdr">Course Fee</td>
-							<td class="tbl-subhdr">Material Fee</td>
-							<td class="tbl-subhdr">Duration</td>
-						</tr>
-						<tr>
-							<td class="tbl-conval">$3</td>
-							<td class="tbl-conval">NA</td>
-							<td class="tbl-conval">2hrs</td>
-						</tr>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap">Course schedule available soon.</div>
-					</div>
-				</div>
-				<div class="tab">
 					<a name="go-digital-be-future-ready"></a>
-					<input type="checkbox" id="chck2020_5">
-					<label class="tab-label" for="chck2020_5">Go-Digital: Be Future Ready</label>
+					<input type="checkbox" id="chck2020_4">
+					<label class="tab-label" for="chck2020_4">Go-Digital: Be Future Ready</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -388,8 +356,8 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands CC</td>
-								<td class="tbl-conval">22 Mar 2020, Sun</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
+								<td class="tbl-conval">07 Mar 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 1:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780072" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
@@ -619,8 +587,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="intro-to-smartphone-photography-gbtb"></a>
-					<input type="checkbox" id="chck2020_6">
-					<label class="tab-label" for="chck2020_6">Introduction to Smartphone Photography - Gardens by the Bay</label>
+					<input type="checkbox" id="chck2020_5">
+					<label class="tab-label" for="chck2020_5">Introduction to Smartphone Photography - Gardens by the Bay</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -664,8 +632,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="intro-to-smartphone-photography-little-india"></a>
-					<input type="checkbox" id="chck2020_7">
-					<label class="tab-label" for="chck2020_7">Introduction to Smartphone Photography - Little India</label>
+					<input type="checkbox" id="chck2020_6">
+					<label class="tab-label" for="chck2020_6">Introduction to Smartphone Photography - Little India</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -696,8 +664,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="intro-to-smartphone-photography-chinatown"></a>
-					<input type="checkbox" id="chck2020_8">
-					<label class="tab-label" for="chck2020_8">Introduction to Smartphone Photography - Chinatown</label>
+					<input type="checkbox" id="chck2020_7">
+					<label class="tab-label" for="chck2020_7">Introduction to Smartphone Photography - Chinatown</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -773,8 +741,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="jurong-frog-farm-tour"></a>
-					<input type="checkbox" id="chck2020_9">
-					<label class="tab-label" for="chck2020_9">Jurong Frog Farm Tour</label>
+					<input type="checkbox" id="chck2020_8">
+					<label class="tab-label" for="chck2020_8">Jurong Frog Farm Tour</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -818,8 +786,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="keep-your-mind-sharp-with-suduko"></a>
-					<input type="checkbox" id="chck2020_10">
-					<label class="tab-label" for="chck2020_10">Keep Your Mind Sharp with Suduko</label>
+					<input type="checkbox" id="chck2020_9">
+					<label class="tab-label" for="chck2020_9">Keep Your Mind Sharp with Suduko</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -875,8 +843,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="kfc-open-kitchen-tour"></a>
-					<input type="checkbox" id="chck2020_11">
-					<label class="tab-label" for="chck2020_11">KFC Open Kitchen Tour</label>
+					<input type="checkbox" id="chck2020_10">
+					<label class="tab-label" for="chck2020_10">KFC Open Kitchen Tour</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -927,8 +895,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="kok-fah-technology-farm-tour"></a>
-					<input type="checkbox" id="chck2020_12">
-					<label class="tab-label" for="chck2020_12">Kok Fah Technology Farm Tour</label>
+					<input type="checkbox" id="chck2020_11">
+					<label class="tab-label" for="chck2020_11">Kok Fah Technology Farm Tour</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1007,7 +975,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Canberra CC</td>
 								<td class="tbl-conval">23 May 2020, Sat</td>
 								<td class="tbl-conval">9:00am to 11:00am</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026781124" target="_blank">Sign Up Now!</a></td>c026782255
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782255" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Changi Simei CC</td>
@@ -1026,8 +994,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="nurturing-your-loved-ones-through-effective-coaching-conversations "></a>
-					<input type="checkbox" id="chck2020_13">
-					<label class="tab-label" for="chck2020_13">Nurturing your Loved Ones through effective coaching conversations</label>
+					<input type="checkbox" id="chck2020_12">
+					<label class="tab-label" for="chck2020_12">Nurturing your Loved Ones through effective coaching conversations</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1077,8 +1045,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="photography-101-guide-to-mobile-photography"></a>
-					<input type="checkbox" id="chck2020_14">
-					<label class="tab-label" for="chck2020_14">Photography 101: Guide to Mobile Photography</label>
+					<input type="checkbox" id="chck2020_13">
+					<label class="tab-label" for="chck2020_13">Photography 101: Guide to Mobile Photography</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1152,8 +1120,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="qian-hu-farm-tour"></a>
-					<input type="checkbox" id="chck2020_15">
-					<label class="tab-label" for="chck2020_15">Qian Hu Farm Tour</label>
+					<input type="checkbox" id="chck2020_14">
+					<label class="tab-label" for="chck2020_14">Qian Hu Farm Tour</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
