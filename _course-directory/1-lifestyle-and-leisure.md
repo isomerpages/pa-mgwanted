@@ -283,7 +283,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">Ang Mo Kio CC</td>
 								<td class="tbl-conval">13 Mar 2020, Fri</td>
-								<td class="tbl-conval">7:00pm to 9:00pm/td>
+								<td class="tbl-conval">7:00pm to 9:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777214" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
@@ -295,7 +295,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">Senja Cashew CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 4:00pm/td>
+								<td class="tbl-conval">2:00pm to 4:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780495" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>

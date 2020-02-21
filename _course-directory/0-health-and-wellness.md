@@ -543,7 +543,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">Yuhua CC</td>
 								<td class="tbl-conval">12 Apr 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 12:00pm/td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776425" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
