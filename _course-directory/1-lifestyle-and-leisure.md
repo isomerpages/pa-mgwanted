@@ -892,43 +892,11 @@ collection_name: course-directory
 							</tr>
 						</table></div>
 					</div>
-				</div>
-				<div class="tab">
-					<a name="intro-to-recreational-choral-singing"></a>  
-					<input type="checkbox" id="chck2020_7">
-					<label class="tab-label" for="chck2020_7">Introduction to Recreational Choral Singing</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Recreational Choral Singing"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Love singing, but not hitting the right notes? This session will teach participants how to stimulate their aural sense through appreciation of music. With the aid of musical instruments, acquire tips, as you sing to your favourite tunes.</p>
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">						
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<td class="tbl-subhdr">Course Fee</td>
-								<td class="tbl-subhdr">Material Fee</td>
-								<td class="tbl-subhdr">Duration</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">$10</td>
-								<td class="tbl-conval">NA</td>
-								<td class="tbl-conval">1hr</td>
-							</tr>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap">Course schedule available soon.</div>
-					</div>
-				</div>				
+				</div>			
 				<div class="tab">
 					<a name="intro-to-social-dance-adult"></a>  
-					<input type="checkbox" id="chck2020_8">
-					<label class="tab-label" for="chck2020_8">Introduction to Social Dance (Adult)</label>
+					<input type="checkbox" id="chck2020_7">
+					<label class="tab-label" for="chck2020_7">Introduction to Social Dance (Adult)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -984,8 +952,8 @@ collection_name: course-directory
 				</div>				
 				<div class="tab">
 					<a name="intro-to-taiko-drumming-adult"></a>  
-					<input type="checkbox" id="chck2020_9">
-					<label class="tab-label" for="chck2020_9">Introduction to Taiko Drumming (Adults)</label>
+					<input type="checkbox" id="chck2020_8">
+					<label class="tab-label" for="chck2020_8">Introduction to Taiko Drumming (Adults)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1029,8 +997,8 @@ collection_name: course-directory
 				</div>				
 				<div class="tab">
 					<a name="intro-to-traditional-hakka-delights"></a>  
-					<input type="checkbox" id="chck2020_10">
-					<label class="tab-label" for="chck2020_10">Introduction to Traditional Hakka Delights</label>
+					<input type="checkbox" id="chck2020_9">
+					<label class="tab-label" for="chck2020_9">Introduction to Traditional Hakka Delights</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1093,8 +1061,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="life-a-stage-chinese-drama"></a>  
-					<input type="checkbox" id="chck2020_11">
-					<label class="tab-label" for="chck2020_11">Life's a Stage: Chinese Drama</label>
+					<input type="checkbox" id="chck2020_10">
+					<label class="tab-label" for="chck2020_10">Life's a Stage: Chinese Drama</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1246,8 +1214,8 @@ collection_name: course-directory
 				</div>				
 				<div class="tab">
 					<a name="pattern-making-on-bread"></a>  
-					<input type="checkbox" id="chck2020_12">
-					<label class="tab-label" for="chck2020_12">Pattern making on Bread</label>
+					<input type="checkbox" id="chck2020_11">
+					<label class="tab-label" for="chck2020_11">Pattern making on Bread</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1329,8 +1297,8 @@ collection_name: course-directory
 				</div>								
 				<div class="tab">
 					<a name="savouring-old-hokkien-flavours"></a>  
-					<input type="checkbox" id="chck2020_13">
-					<label class="tab-label" for="chck2020_13">Savouring Old Hokkien Flavours</label>
+					<input type="checkbox" id="chck2020_12">
+					<label class="tab-label" for="chck2020_12">Savouring Old Hokkien Flavours</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1393,8 +1361,8 @@ collection_name: course-directory
 				</div>								
 				<div class="tab">
 					<a name="sumptuous-cantonese-cuisine"></a>  
-					<input type="checkbox" id="chck2020_14">
-					<label class="tab-label" for="chck2020_14">Sumptuous Cantonese Cuisine</label>
+					<input type="checkbox" id="chck2020_13">
+					<label class="tab-label" for="chck2020_13">Sumptuous Cantonese Cuisine</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1551,8 +1519,8 @@ collection_name: course-directory
 				</div>								
 				<div class="tab">
 					<a name="tasty-teochew-memories"></a>  
-					<input type="checkbox" id="chck2020_15">
-					<label class="tab-label" for="chck2020_15">Tasty Teochew Memories</label>
+					<input type="checkbox" id="chck2020_14">
+					<label class="tab-label" for="chck2020_14">Tasty Teochew Memories</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1633,8 +1601,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="the-secrets-to-nonya-cooking"></a>  
-					<input type="checkbox" id="chck2020_16">
-					<label class="tab-label" for="chck2020_16">The Secrets to Nonya Cooking</label>
+					<input type="checkbox" id="chck2020_15">
+					<label class="tab-label" for="chck2020_15">The Secrets to Nonya Cooking</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">

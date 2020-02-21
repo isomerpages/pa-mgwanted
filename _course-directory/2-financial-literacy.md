@@ -89,7 +89,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="I-Banking 101: Digital Banking Services by POSB"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>You no longer have to wait in long line for your banking needs, as it is now available in your fingertips! This workshop teaches you about the convenient features of I-Banking. Find out how to make payments using your mobile phones or through the POSB Digibank and how to utilise the self-service banking machines. Banking can be easier, safer and simpler for you! </p>
+								<p>Everyday banking can be done at your fingertips without queueing! This workshop provides a step-by-step guide to the various POSB digital banking services, including digibank, PayNow and PayLah! Plus learn some security tips on how to protect yourself online with POSB #BSHARP pillars! Join this workshop to learn how you can bank with ease of mind!</p>
 							</div>
 						</div>
 					</div>
@@ -230,13 +230,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Nanyang CC</td>
 								<td class="tbl-conval">11 Mar 2020, Wed</td>
 								<td class="tbl-conval">7:30pm to 10:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776494" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776849" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tampines West CC</td>
 								<td class="tbl-conval">18 Mar 2020, Wed</td>
 								<td class="tbl-conval">7:30pm to 10:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776127" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780569" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Yishun Link CC</td>
@@ -299,7 +299,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Self Service Banking by POSB"></p>
 							</div>
 							<div class="desc-container-right">
-								<p></p>
+								<p>You no longer have to wait in long line for your banking needs! This workshop teaches you about the convenient features of the self-service banking machines such as making deposits, withdrawals, and updating your passbook. Banking can be made easier, safer and simpler for you!</p>
 							</div>
 						</div>
 					</div>
@@ -396,18 +396,6 @@ collection_name: course-directory
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">13 Mar 2020, Fri</td>
-								<td class="tbl-conval">7:30pm to 9:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">28 Mar 2020, Sat</td>
-								<td class="tbl-conval">11:00am to 12:30pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Canberra CC</td>
 								<td class="tbl-conval">04 Apr 2020, Sat</td>
 								<td class="tbl-conval">11:00am to 12:30pm</td>
@@ -438,6 +426,12 @@ collection_name: course-directory
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780498" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">05 Jun 2020, Fri</td>
+								<td class="tbl-conval">7:30pm to 9:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782282" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
 								<td class="tbl-conval">Leng Kee CC</td>
 								<td class="tbl-conval">12 Jun 2020, Fri</td>
 								<td class="tbl-conval">7:00pm to 8:30pm</td>
@@ -454,6 +448,12 @@ collection_name: course-directory
 								<td class="tbl-conval">18 Jun 2020, Thu</td>
 								<td class="tbl-conval">11:00am to 12:30pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776279" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">20 Jun 2020, Sat</td>
+								<td class="tbl-conval">11:00am to 12:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782298" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Chua Chu Kang CC</td>
@@ -499,12 +499,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Gek Poh Ville CC</td>
-								<td class="tbl-conval">22 Feb 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 3:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776044" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
@@ -564,13 +558,19 @@ collection_name: course-directory
 								<td class="tbl-conval">Clementi CC</td>
 								<td class="tbl-conval">25 Apr 2020, Sat</td>
 								<td class="tbl-conval">3:30pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026773532" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782367" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Keat Hong CC</td>
 								<td class="tbl-conval">25 Apr 2020, Sat</td>
 								<td class="tbl-conval">1:00pm to 2:30pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776140" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Gek Poh Ville CC</td>
+								<td class="tbl-conval">09 May 2020, Sat</td>
+								<td class="tbl-conval">2:00pm to 3:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776044" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Nee Soon Central CC</td>
