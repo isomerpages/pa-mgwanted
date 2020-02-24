@@ -112,6 +112,57 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="bbarreless-dance-pilates"></a>  
+					<input type="checkbox" id="chck2020_1">
+					<label class="tab-label" for="chck2020_1">Bbarreless: Dance Pilates</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Bbarreless: Dance Pilates"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>A fun, energetic, workout that fuses techniques from Dance, Pilates, and Yoga. Participants to bring own Yoga mat, resistance exercise band and core ball. </p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Cheng San CC</td>
+								<td class="tbl-conval">01 Mar 2020, Sun</td>
+								<td class="tbl-conval">1:30pm to 2:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778324" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Ang Mo Kio CC</td>
+								<td class="tbl-conval">15 Mar 2020, Sun</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778518" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="bodyart"></a>  
 					<input type="checkbox" id="chck4">
 					<label class="tab-label" for="chck4">BodyART&reg;</label>
@@ -141,6 +192,87 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="body-toning-101"></a>  
+					<input type="checkbox" id="chck2020_2">
+					<label class="tab-label" for="chck2020_2">Body Toning 101</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Body Toning 101"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Looking to attain a lean, tone body but don’t enjoy high impact cardiovascular exercises? This exercise programme will help strengthen muscles, burn fat and improve your body posture.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Bukit Merah CC</td>
+								<td class="tbl-conval">01 Mar 2020, Sun</td>
+								<td class="tbl-conval">11:30am to 12:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776377" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">05 Mar 2020, Thu</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776554" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Senja Cashew CC</td>
+								<td class="tbl-conval">14 Mar 2020, Sat</td>
+								<td class="tbl-conval">3:00pm to 4:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780487" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Tampines East CC</td>
+								<td class="tbl-conval">15 Mar 2020, Sun</td>
+								<td class="tbl-conval">12:00pm to 1:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777861" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Kampong Ubi CC</td>
+								<td class="tbl-conval">23 Apr 2020, Thu</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776427" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Bukit Merah CC</td>
+								<td class="tbl-conval">14 May 2020, Thu</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776093" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Yio Chu Kang CC</td>
+								<td class="tbl-conval">09 Jun 2020, Tue</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779511" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -176,6 +308,63 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
+					<a name="cardio-pilates-workout"></a>  
+					<input type="checkbox" id="chck2020_3">
+					<label class="tab-label" for="chck2020_3">Cardio Pilates Workout</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Cardio Pilates Workout"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Want a fun and effective workout? Combining aerobics with Pilates moves, this programme is scientifically developed to streamline the body without building bulk or putting stress on the joints.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Teck Ghee CC</td>
+								<td class="tbl-conval">16 Mar 2020, Mon</td>
+								<td class="tbl-conval">5:00pm to 6:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777768" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Senja Cashew CC</td>
+								<td class="tbl-conval">20 Mar 2020, Fri</td>
+								<td class="tbl-conval">7:00pm to 8:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780492" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Sengkang CC</td>
+								<td class="tbl-conval">14 Apr 2020, Tue</td>
+								<td class="tbl-conval">5:30pm to 6:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776110" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
+					</div>
+				</div>
+				<div class="tab">
 					<a name="diy-body-scrub"></a>  
 					<input type="checkbox" id="chck6">
 					<label class="tab-label" for="chck6">D.I.Y Body Scrub</label>
@@ -205,6 +394,159 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="eating-well-for-health-tcm"></a>  
+					<input type="checkbox" id="chck2020_4">
+					<label class="tab-label" for="chck2020_4">Eating Well for Health: TCM Diet & Health Improvement</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Eating Well for Health: TCM Diet & Health Improvement"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Traditional Chinese Medicine (TCM) emphasises the importance of prevention over cure. This class will introduce the concept of Weak Symptoms of Qi Xue Yin Yang, and the common medicinal herbs.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$15</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">2hrs</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Jurong Green CC</td>
+								<td class="tbl-conval">04 Mar 2020, Wed</td>
+								<td class="tbl-conval">7:30pm to 9:30pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Teck Ghee CC</td>
+								<td class="tbl-conval">07 Mar 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777766" target="_blank">Sign Up Now!</a></td>
+							</tr>							
+							<tr>
+								<td class="tbl-conval">Yishun Link CC</td>
+								<td class="tbl-conval">08 Mar 2020, Sun</td>
+								<td class="tbl-conval">3:00pm to 5:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780843" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Woodlands Galaxy CC</td>
+								<td class="tbl-conval">13 Mar 2020, Fri</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780147" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Canberra CC</td>
+								<td class="tbl-conval">14 Mar 2020, Sat</td>
+								<td class="tbl-conval">12:30pm to 2:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782130" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Clementi CC</td>
+								<td class="tbl-conval">14 Mar 2020, Sat</td>
+								<td class="tbl-conval">2:00pm to 4:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026773156" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">The Serangoon CC</td>
+								<td class="tbl-conval">14 Mar 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777117" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Tampines Central CC</td>
+								<td class="tbl-conval">20 Mar 2020, Fri</td>
+								<td class="tbl-conval">7:30pm to 9:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776518" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Leng Kee CC</td>
+								<td class="tbl-conval">21 Mar 2020, Sat</td>
+								<td class="tbl-conval">2:00pm to 4:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776056" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Punggol Vista CC</td>
+								<td class="tbl-conval">04 Apr 2020, Sat</td>
+								<td class="tbl-conval">9:30am to 11:30am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776379" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon South CC</td>
+								<td class="tbl-conval">05 Apr 2020, Sun</td>
+								<td class="tbl-conval">10:30am to 12:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780765" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Keat Hong CC</td>
+								<td class="tbl-conval">11 Apr 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026775990" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Yuhua CC</td>
+								<td class="tbl-conval">12 Apr 2020, Sun</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776425" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Sengkang CC</td>
+								<td class="tbl-conval">21 Apr 2020, Tue</td>
+								<td class="tbl-conval">2:00pm to 4:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776132" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Chua Chu Kang CC</td>
+								<td class="tbl-conval">25 Apr 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778169" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Aljunied CC</td>
+								<td class="tbl-conval">02 May 2020, Sat</td>
+								<td class="tbl-conval">3:00pm to 5:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776400" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Taman Jurong CC</td>
+								<td class="tbl-conval">09 May 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777849" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Ci Yuan CC</td>
+								<td class="tbl-conval">23 May 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776442" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">06 Jun 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776422" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -334,6 +676,75 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
+				</div>				
+				<div class="tab">
+					<a name="intro-to-chair-yoga"></a>  
+					<input type="checkbox" id="chck2020_5">
+					<label class="tab-label" for="chck2020_5">Introduction to Chair Yoga</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Chair Yoga"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Bored of normal Yoga? Chair Yoga is a gentler form of Hatha Yoga that adapts traditional poses using a chair for support. A natural stress-buster for all ages. </p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Ci Yuan CC</td>
+								<td class="tbl-conval">07 Mar 2020, Sat</td>
+								<td class="tbl-conval">1:00pm to 2:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776414" target="_blank">Sign Up Now!</a></td>
+							</tr>							
+							<tr>
+								<td class="tbl-conval">Queenstown CC</td>
+								<td class="tbl-conval">08 Mar 2020, Sun</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776323" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Canberra CC</td>
+								<td class="tbl-conval">14 Mar 2020, Sat</td>
+								<td class="tbl-conval">3:30pm to 4:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782226" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Hwi Yoh CC</td>
+								<td class="tbl-conval">14 Apr 2020, Tue</td>
+								<td class="tbl-conval">7:30pm to 8:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776502" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Chong Pang CC</td>
+								<td class="tbl-conval">19 Jun 2020, Fri</td>
+								<td class="tbl-conval">9:30am to 10:30am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776460" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
+					</div>
 				</div>
 				<div class="tab">
 					<a name="intro-to-healthy-meal-preparation"></a>  
@@ -365,6 +776,57 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>				
+				<div class="tab">
+					<a name="intro-to-k-kardio-dance-fitness"></a>  
+					<input type="checkbox" id="chck2020_6">
+					<label class="tab-label" for="chck2020_6">Introduction to K-Kardio Dance Fitness</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to K-Kardio Dance Fitness"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Dance your way to a healthier life with a fun and energising workout set to the latest K-pop hits, with different moves like kickboxing and aerobics! Suitable for all ages. </p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$12</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>							
+							<tr>
+								<td class="tbl-conval">Kebun Baru CC</td>
+								<td class="tbl-conval">22 Mar 2020, Sun</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780515" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Punggol Park CC</td>
+								<td class="tbl-conval">30 May 2020, Sat</td>
+								<td class="tbl-conval">4:30pm to 5:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776581" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -429,6 +891,51 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="kpopx-fitness-lite"></a>  
+					<input type="checkbox" id="chck2020_7">
+					<label class="tab-label" for="chck2020_7">KpopX&reg; Fitness Lite</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="KpopX&reg; Fitness Lite"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Workout to popular K-Pop hits while improving your fitness, stamina and coordination - no dance background needed! Suitable for beginners or those looking for a lower intensity workout.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Tampines West CC</td>
+								<td class="tbl-conval">19 Apr 2020, Sun</td>
+								<td class="tbl-conval">11:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776099" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -556,20 +1063,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bedok CC</td>
-								<td class="tbl-conval">30 Nov 2019, Sat</td>
-								<td class="tbl-conval">10.00am to 12.00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026743553" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -634,6 +1128,63 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap">Course schedule available soon.</div>
+					</div>
+				</div>				
+				<div class="tab">
+					<a name="zumba_gold"></a>  
+					<input type="checkbox" id="chck2020_8">
+					<label class="tab-label" for="chck2020_8">Zumba Gold&reg;</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Zumba Gold&reg;"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Work up a healthy sweat with Zumba Gold&reg;, modified to suit the needs of active older participants. Move to the beat of zesty Latin music in an invigorating, party-like atmosphere. </p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">						
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$10</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">1hr</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Hwi Yoh CC </td>
+								<td class="tbl-conval">09 Mar 2020, Mon</td>
+								<td class="tbl-conval">6:30pm to 7:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776863" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Hougang CC</td>
+								<td class="tbl-conval">16 Mar 2020, Mon</td>
+								<td class="tbl-conval">10:00am to 11:00am</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780106" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Buona Vista CC</td>
+								<td class="tbl-conval">25 Mar 2020, Wed</td>
+								<td class="tbl-conval">2:00pm to 3:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778961" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 			</div>
