@@ -337,18 +337,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Punggol Park CC</td>
-								<td class="tbl-conval">21 Feb 2020, Fri</td>
-								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026774049" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Teck Ghee CC</td>
-								<td class="tbl-conval">29 Feb 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778053" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Chong Pang CC</td>
 								<td class="tbl-conval">13 Mar 2020, Fri</td>
 								<td class="tbl-conval">2:00pm to 5:00pm</td>
@@ -954,7 +942,7 @@ collection_name: course-directory
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780360" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Nee Soon Spring CC</td>
+								<td class="tbl-conval">Yishun Link CC</td>
 								<td class="tbl-conval">18 Apr 2020, Sat</td>
 								<td class="tbl-conval">9:00am to 11:00am</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026781321" target="_blank">Sign Up Now!</a></td>
@@ -1164,7 +1152,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Yuhua CC</td>
 								<td class="tbl-conval">22 May 2020, Fri</td>
 								<td class="tbl-conval">9:30am to 11:30am</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782777" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Canberra CC</td>

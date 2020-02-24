@@ -148,12 +148,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Taman Jurong CC</td>
-								<td class="tbl-conval">29 Feb 2020, Sat</td>
-								<td class="tbl-conval">1:00pm to 2:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777875" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Cheng San CC</td>
 								<td class="tbl-conval">01 Mar 2020, Sun</td>
 								<td class="tbl-conval">1:30pm to 2:30pm</td>
@@ -439,18 +433,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Toa Payoh Central CC</td>
-								<td class="tbl-conval">28 Feb 2020, Fri</td>
-								<td class="tbl-conval">7:30pm to 9:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776383" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Batok East CC</td>
-								<td class="tbl-conval">29 Feb 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776340" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Jurong Green CC</td>
 								<td class="tbl-conval">04 Mar 2020, Wed</td>
 								<td class="tbl-conval">7:30pm to 9:30pm</td>
@@ -560,7 +542,7 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">14 Feb 2020, Fri</td>
+								<td class="tbl-conval">06 Jun 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776422" target="_blank">Sign Up Now!</a></td>
 							</tr>
