@@ -927,7 +927,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Kampong Ubi CC</td>
 								<td class="tbl-conval">20 Mar 2020, Fri</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780652" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Toa Payoh South CC</td>
