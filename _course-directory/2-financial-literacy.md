@@ -122,13 +122,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">21 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Punggol Park CC</td>
+								<td class="tbl-conval">Hougang CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
@@ -170,13 +164,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Hougang CC</td>
+								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Nee Soon South CC</td>
+								<td class="tbl-conval">Punggol Park CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
@@ -350,7 +344,20 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap">Course schedule available soon.</div>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon South CC</td>
+								<td class="tbl-conval">16 May 2020, Sat</td>
+								<td class="tbl-conval">3:00pm to 6:00pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
