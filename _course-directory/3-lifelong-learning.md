@@ -344,9 +344,15 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
+								<td class="tbl-conval">28 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 1:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780072" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Teck Ghee CC</td>
+								<td class="tbl-conval">28 Mar 2020, Sat</td>
+								<td class="tbl-conval">2:00pm to 5:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778053" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Sengkang CC</td>
@@ -933,7 +939,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nee Soon East CC</td>
 								<td class="tbl-conval">28 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782588" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands Galaxy CC</td>
@@ -1025,8 +1031,8 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">Anchorvale CC</td>
 								<td class="tbl-conval">06 Jun 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval">2:30pm to 5:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785158" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>

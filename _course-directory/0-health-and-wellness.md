@@ -442,8 +442,8 @@ collection_name: course-directory
 								<td class="tbl-conval">Teck Ghee CC</td>
 								<td class="tbl-conval">07 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777766" target="_blank">Sign Up Now!</a></td>
-							</tr>							
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785727" target="_blank">Sign Up Now!</a></td>
+							</tr>
 							<tr>
 								<td class="tbl-conval">Yishun Link CC</td>
 								<td class="tbl-conval">08 Mar 2020, Sun</td>
@@ -545,6 +545,12 @@ collection_name: course-directory
 								<td class="tbl-conval">06 Jun 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776422" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">06 Jun 2020, Sat</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026784681" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -723,13 +729,19 @@ collection_name: course-directory
 								<td class="tbl-conval">Queenstown CC</td>
 								<td class="tbl-conval">08 Mar 2020, Sun</td>
 								<td class="tbl-conval">10:00am to 11:00am</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776323" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Canberra CC</td>
 								<td class="tbl-conval">14 Mar 2020, Sat</td>
 								<td class="tbl-conval">3:30pm to 4:30pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782226" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Pek Kio CC</td>
+								<td class="tbl-conval">17 Mar 2020, Tue</td>
+								<td class="tbl-conval">2:00pm to 3:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779262" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hwi Yoh CC</td>
