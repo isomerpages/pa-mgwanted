@@ -637,6 +637,12 @@ collection_name: course-directory
 								<td class="tbl-conval">07 Mar 2020, Sat</td>
 								<td class="tbl-conval">7:30pm to 9:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778239" target="_blank">Sign Up Now!</a></td>
+							</tr>							
+							<tr>
+								<td class="tbl-conval">Nee Soon East CC</td>
+								<td class="tbl-conval">07 Apr 2020, Tue</td>
+								<td class="tbl-conval">7:30pm to 9:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026781579" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -814,12 +820,6 @@ collection_name: course-directory
 								<td class="tbl-conval">31 May 2020, Sun</td>
 								<td class="tbl-conval">1:00pm to 4:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778698" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">14 Jun 2020, Sun</td>
-								<td class="tbl-conval">2:30pm to 5:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782184" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Nee Soon East CC</td>
