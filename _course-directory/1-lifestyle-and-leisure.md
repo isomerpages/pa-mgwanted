@@ -1040,7 +1040,7 @@ collection_name: course-directory
 							</tr>
 							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">04 Mar 2020, Wedd</td>
+								<td class="tbl-conval">04 Mar 2020, Wed</td>
 								<td class="tbl-conval">6:30pm to 9:30pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776216" target="_blank">Sign Up Now!</a></td>
 							</tr>
