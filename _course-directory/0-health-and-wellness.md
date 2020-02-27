@@ -442,13 +442,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Teck Ghee CC</td>
 								<td class="tbl-conval">07 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785727" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777766" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Yishun Link CC</td>
 								<td class="tbl-conval">08 Mar 2020, Sun</td>
 								<td class="tbl-conval">3:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780843" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785727" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands Galaxy CC</td>
