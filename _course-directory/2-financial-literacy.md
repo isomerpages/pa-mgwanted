@@ -101,7 +101,7 @@ collection_name: course-directory
 							<td class="tbl-subhdr">Duration</td>
 						</tr>
 						<tr>
-							<td class="tbl-conval">TBC</td>
+							<td class="tbl-conval">$3</td>
 							<td class="tbl-conval">NA</td>
 							<td class="tbl-conval">3hrs</td>
 						</tr>
@@ -122,13 +122,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">21 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Punggol Park CC</td>
+								<td class="tbl-conval">Hougang CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
@@ -170,13 +164,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Hougang CC</td>
+								<td class="tbl-conval">Bukit Merah CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Nee Soon South CC</td>
+								<td class="tbl-conval">Punggol Park CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
 								<td class="tbl-conval">Sign Up Now!</td>
@@ -318,7 +312,20 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap">Course schedule available soon.</div>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nee Soon South CC</td>
+								<td class="tbl-conval">16 May 2020, Sat</td>
+								<td class="tbl-conval">3:00pm to 6:00pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -390,6 +397,12 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
+								<td class="tbl-conval">Hwi Yoh CC</td>
+								<td class="tbl-conval">19 Mar 2020, Thu</td>
+								<td class="tbl-conval">2:00pm to 3:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
 								<td class="tbl-conval">Canberra CC</td>
 								<td class="tbl-conval">04 Apr 2020, Sat</td>
 								<td class="tbl-conval">11:00am to 12:30pm</td>
@@ -423,7 +436,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nee Soon East CC</td>
 								<td class="tbl-conval">05 Jun 2020, Fri</td>
 								<td class="tbl-conval">7:30pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782282" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785396" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Leng Kee CC</td>
@@ -447,7 +460,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nee Soon East CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">11:00am to 12:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782298" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785404" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Chua Chu Kang CC</td>
