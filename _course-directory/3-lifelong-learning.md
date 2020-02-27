@@ -82,12 +82,6 @@ collection_name: course-directory
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779602" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Jurong Green CC</td>
-								<td class="tbl-conval">16 May 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Tampines North CC</td>
 								<td class="tbl-conval">23 May 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
@@ -98,6 +92,12 @@ collection_name: course-directory
 								<td class="tbl-conval">30 May 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780304" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Jurong Green CC</td>
+								<td class="tbl-conval">31 May 2020, Sun</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hong Kah North CC</td>
@@ -512,7 +512,20 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap">Course schedule available soon.</div>
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<th class="tbl-subhdr">Location</th>
+								<th class="tbl-subhdr">Date</th>
+								<th class="tbl-subhdr">Time</th>
+								<th class="tbl-subhdr">Sign Up</th>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Nanyang CC</td>
+								<td class="tbl-conval">16 Apr 2020, Thu</td>
+								<td class="tbl-conval">2:00pm to 4:00pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785998" target="_blank">Sign Up Now!</a></td>
+							</tr>
+						</table></div>
 					</div>
 				</div>
 				<div class="tab">
@@ -924,12 +937,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Kampong Ubi CC</td>
-								<td class="tbl-conval">20 Mar 2020, Fri</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Toa Payoh South CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
@@ -940,6 +947,12 @@ collection_name: course-directory
 								<td class="tbl-conval">28 Mar 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782588" target="_blank">Sign Up Now!</a></td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">Kampong Ubi CC</td>
+								<td class="tbl-conval">31 Mar 2020, Tue</td>
+								<td class="tbl-conval">10:00am to 12:00pm</td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands Galaxy CC</td>
