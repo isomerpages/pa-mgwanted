@@ -97,7 +97,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Jurong Green CC</td>
 								<td class="tbl-conval">31 May 2020, Sun</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786189" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hong Kah North CC</td>
@@ -632,7 +632,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Jurong Green CC</td>
 								<td class="tbl-conval">16 May 2020, Sat</td>
 								<td class="tbl-conval">10:00am to 1:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786175" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
