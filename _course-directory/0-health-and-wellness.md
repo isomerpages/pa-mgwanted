@@ -151,7 +151,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Cheng San CC</td>
 								<td class="tbl-conval">01 Mar 2020, Sun</td>
 								<td class="tbl-conval">1:30pm to 2:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778324" target="_blank">Sign Up Now!</a></td>
+								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Ang Mo Kio CC</td>

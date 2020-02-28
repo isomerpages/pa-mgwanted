@@ -242,7 +242,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Jurong Green CC</td>
 								<td class="tbl-conval">25 Apr 2020, Sat</td>
 								<td class="tbl-conval">2:30pm to 5:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786209" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Cheng San CC</td>
