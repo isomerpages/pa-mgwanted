@@ -1,0 +1,52 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-mgswanted.ico
+
+# Agency logo
+agency-logo: /images/wanted_logo.png
+
+# Google analytics
+google-analytics: UA-149686925-1
+
+# Hero Banner
+hero-banner: /images/home-main-banner.png
+ 
+key-highlights:
+  - title: Health & Wellness
+    description: Courses
+    url: /course-directory/health-and-wellness/
+  - title: Lifestyle & Leisure
+    description: Courses
+    url: /course-directory/lifestyle-and-leisure/
+  - title: Financial Literacy
+    description: Courses
+    url: /course-directory/financial-literacy/
+  - title: Lifelong Learning
+    description: Courses
+    url: /course-directory/lifelong-learning/
+  
+# Resources Section
+resources-title: Articles
+resources-subtitle: Be in the know
+resources-more-button: More Articles
+resources-more-button-url: /articles/
+
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: Why not use the $100 top-up value on your PAssion Silver Card to pay for courses?*
+    section-description: Sign up for any course and receive a limited edition collectible!**<br> *Applicable for Merdeka Generation seniors only.<br> **Terms and conditions apply.
+    section-more-button: Learn more
+    section-more-button-url: /course-directory/health-and-wellness/
+    section-image-path: /images/homepage/sign-up-collectible-redemption.png
+    
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: 
+careers-description: 

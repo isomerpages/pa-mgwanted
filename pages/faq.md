@@ -1,6 +1,8 @@
 ---
-title: FAQ
+layout: simple-page
 permalink: /faq/
+breadcrumb: FAQ
+title: FAQ
 ---
 
 ### **FAQ**

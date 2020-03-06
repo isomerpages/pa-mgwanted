@@ -1,26 +1,6 @@
 ---
 layout: homepage
-title: Merdeka Generation Wanted
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: MGs Wanted
 permalink: /
-notification: Here's a notification bar you can use!
-sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-
 ---
+<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
