@@ -86,7 +86,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="I-Banking 101: Digital Banking Services by POSB"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-ibanking-101-digital-banking-services-by-posb.jpg" alt="I-Banking 101: Digital Banking Services by POSB"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Everyday banking can be done at your fingertips without queueing! This workshop provides a step-by-step guide to the various POSB digital banking services, including digibank, PayNow and PayLah! Plus learn some security tips on how to protect yourself online with POSB #BSHARP pillars! Join this workshop to learn how you can bank with ease of mind!</p>
@@ -119,25 +119,25 @@ collection_name: course-directory
 								<td class="tbl-conval">Aljunied CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786313" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hougang CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786326" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Buona Vista CC</td>
 								<td class="tbl-conval">18 Apr 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786418" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tampines North CC</td>
 								<td class="tbl-conval">18 Apr 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786080" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Yio Chu Kang CC</td>
@@ -149,13 +149,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Kampong Ubi CC</td>
 								<td class="tbl-conval">16 May 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786014" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Queenstown CC</td>
 								<td class="tbl-conval">16 May 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786412" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tampines East CC</td>
@@ -173,13 +173,13 @@ collection_name: course-directory
 								<td class="tbl-conval">Punggol Park CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026787412" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Teck Ghee CC</td>
 								<td class="tbl-conval">20 Jun 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786756" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -191,7 +191,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Estate Planning "></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-introduction-to-estate-planning.jpg" alt="Introduction to Estate Planning "></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Proper estate planning allows for a smooth and expeditious management of your estate.  Gain an understanding of this process, as well as the essentials of the Lasting Power of Attorney, Wills, and Trusts.</p>
@@ -219,12 +219,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nanyang CC</td>
-								<td class="tbl-conval">11 Mar 2020, Wed</td>
-								<td class="tbl-conval">7:30pm to 10:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776849" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tampines West CC</td>
@@ -290,7 +284,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Self Service Banking by POSB"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-introduction-to-self-service-banking-by-posb.jpg" alt="Introduction to Self Service Banking by POSB"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>You no longer have to wait in long line for your banking needs! This workshop teaches you about the convenient features of the self-service banking machines such as making deposits, withdrawals, and updating your passbook. Banking can be made easier, safer and simpler for you!</p>
@@ -323,7 +317,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Nee Soon South CC</td>
 								<td class="tbl-conval">16 May 2020, Sat</td>
 								<td class="tbl-conval">3:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026787179" target="_blank">Sign Up Now!</a></td>
 							</tr>
 						</table></div>
 					</div>
@@ -367,7 +361,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Lasting Power of Attorney"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-lasting-power-of-attorney.jpg" alt="Lasting Power of Attorney"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>A Lasting Power of Attorney (LPA) is a legal document which allows a person who is at least 21 years old to pre-select a decision maker to act on your behalf in the event of a loss of mental capacity.  The workshop will share the importance of planning for one. </p>
@@ -478,7 +472,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Understanding the Process of Preparing a Will"></p>
+								<p><img src="/images/course-directory/financial-literacy/tbn-understanding-the-process-of-preparing-a-will.jpg" alt="Understanding the Process of Preparing a Will"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Empower the future of your family and yourself by learning the importance of drawing up a will. A will helps families during important decision making in the event of death or loss of mental capacity. Attend this workshop to gain information about how a will is prepared and to ensure that loved ones receive the best of what you have to give them.  </p>
@@ -506,18 +500,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:00pm to 4:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776601" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Taman Jurong CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">11:00am to 12:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777853" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Ang Mo Kio CC</td>
