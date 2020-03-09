@@ -22,8 +22,7 @@ locations:
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6344 8222
-    - line: pa_lifeskills_lifestyle@pa.gov.sg (email)
+    - line: PA_lifeskills_lifestyle@pa.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
 # Image
