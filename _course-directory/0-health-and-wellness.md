@@ -471,7 +471,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-hoop-fitness-for-beginners.jpg" alt="Fitness through Bodyweights"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-fitness-through-bodyweights.jpg" alt="Fitness through Bodyweights"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>See your city landscape as your playground! Have a different kind of workout without any equipment and not be confined to indoor studios or classrooms.</p>
