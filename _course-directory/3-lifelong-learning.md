@@ -244,7 +244,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Be a Handyman - Home Plumbing Maintenance!"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-be-a-handyman-home-plumbing-maintenance.jpg" alt="Be a Handyman - Home Plumbing Maintenance!"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>For simple home repairs and maintenance, just do-it-yourself! Learn how to tackle common pluming woes, such as leaking taps, chocked sinks, gully trap maintenance, and more. </p>
@@ -593,7 +593,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Smartphone Photography - Gardens by the Bay"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-introduction-to-smartphone-photography-gardens-by-the-bay.jpg" alt="Introduction to Smartphone Photography - Gardens by the Bay"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Along a scenic walk at Gardens by the Bay learn how to take great snapshots on your smartphone, and how to share your photos and keep them safe.</p>
@@ -638,7 +638,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Smartphone Photography - Little India"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-introduction-to-smartphone-photography-little-india.jpg" alt="Introduction to Smartphone Photography - Little India"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Along a scenic walk through Little India learn how to take great snapshots on your smartphone, and how to share your photos and keep them safe. </p>
@@ -670,7 +670,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Smartphone Photography - Chinatown"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-introduction-to-smartphone-photography-chinatown.jpg" alt="Introduction to Smartphone Photography - Chinatown"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Along a scenic walk through Chinatown learn how to take great snapshots on your smartphone, and how to share your photos and keep them safe.</p>
@@ -747,7 +747,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Jurong Frog Farm Tour"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-jurong-frog-farm-tour.jpg" alt="Jurong Frog Farm Tour"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Jump your way to fabulous fun at the Jurong Frog Farm!  Learn more about frog farming, how to feed the frogs and strike your best poses with them during a customised show and tell session. Enjoy a complimentary Hashima Dessert! </p>
@@ -792,7 +792,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Keep Your Mind Sharp with Suduko"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-keep-your-mind-sharp-with-suduko.jpg" alt="Keep Your Mind Sharp with Suduko"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Sudoku is a fun and challenging logic puzzle that helps train brain power and improve memory. This is an introductory course for beginners with no prior knowledge of Sudoku.</p>
@@ -849,7 +849,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="KFC Open Kitchen Tour"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-kfc-open-kitchen-tour.jpg" alt="KFC Open Kitchen Tour"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Love KFC? Here is your chance to find out how your favourite fried chicken is prepared. Take a peek into the exclusive kitchen to discover, Colonel Sander’s breading technique and how the signature Original Recipe Chicken, Zinger burgers and Cheese fries are cooked.  A mouth-watering meal awaits you at the end of the tour!  </p>
