@@ -22,7 +22,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Agricultural Farm Tour: Grow your own vegetables!"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-agricultural-farm-tour-grow-vegetables.jpg" alt="Agricultural Farm Tour: Grow your own vegetables!"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Learn how farming practices help the growth of vegetables (mushrooms), how technology boosts farming processes and productivity and learn to make a miniature garden!</p>
@@ -50,12 +50,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Siglap South CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026781053" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Bukit Merah CC</td>
@@ -145,7 +139,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Be a Handyman - Home Electrical Maintenance!"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-be-a-handyman-home-electrical-maintenance.jpg" alt="Be a Handyman - Home Electrical Maintenance!"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>For simple electrical repairs and maintenance, just do-it-yourself! Understand what the buttons on the various circuits in your home can solve common electrical issues, such as short circuit and more.</p>
@@ -297,6 +291,12 @@ collection_name: course-directory
 								<td class="tbl-conval">2:00pm to 4:30pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776544" target="_blank">Sign Up Now!</a></td>
 							</tr>
+							<tr>
+								<td class="tbl-conval">Ang Mo Kio CC</td>
+								<td class="tbl-conval">30 May 2020, Sat</td>
+								<td class="tbl-conval">2:00pm to 4:30pm</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026788270" target="_blank">Sign Up Now!</a></td>
+							</tr>
 						</table></div>
 					</div>
 				</div>
@@ -307,7 +307,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Go-Digital: Be Future Ready"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-go-digital-be-future-ready.jpg" alt="Go-Digital: Be Future Ready"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>With technology advancing, booking a taxi or buying dinner can be made conveninet with a tap of a button. Join us to learn basic digital skills, from popular apps such as 'GRAB', 'Food Panda', and more that will help you in your everyday life.</p>
@@ -335,12 +335,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Chong Pang CC</td>
-								<td class="tbl-conval">13 Mar 2020, Fri</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776524" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands CC</td>
@@ -907,7 +901,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Kok Fah Technology Farm Tour"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-kok-fah-technology-farm-tour.jpg" alt="Kok Fah Technology Farm Tour"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Enjoy a leafy adventure at the Kok Fah Technology Farm!  Learn gardening tips, Aloe Vera extraction, tea recipes, and about the benefits of various herbs farming. Round off the day with a wonderful tea session! Enjoy a complimentary packet of fresh greens and a bottle of KF's Honey Aloe Vera drink.</p>
@@ -952,7 +946,7 @@ collection_name: course-directory
 								<td class="tbl-conval">Kampong Ubi CC</td>
 								<td class="tbl-conval">31 Mar 2020, Tue</td>
 								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
+								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780652" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Woodlands Galaxy CC</td>
@@ -1006,7 +1000,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Nurturing your Loved Ones through effective coaching conversations"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-nurturing-loved-ones-through-conversation.jpg" alt="Nurturing your Loved Ones through effective coaching conversations"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Meaningful conversations with loved ones is essential in strenghtening relationships. Learn to handle conversational barriers and foster shared understanding during a crisis. Speaking openly may seem simple, but everyone needs a little support sometimes.</p>
@@ -1057,7 +1051,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Photography 101: Guide to Mobile Photography"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-photography-101-mphotography.jpg" alt="Photography 101: Guide to Mobile Photography"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Learn how to take more compelling and exciting pictures with your smartphone camera! Participants are to bring along their own smartphones and power banks.</p>
@@ -1085,12 +1079,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Ang Mo Kio CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 4:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776488" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Aljunied CC</td>
@@ -1132,7 +1120,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Qian Hu Farm Tour"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-qian-hu-farm-tour.jpg" alt="Qian Hu Farm Tour"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Hundreds of species and millions of fishes literally pass through our farm. Our guided tour takes the guests through a more informative tour, describing in greater detail some unique fishes, which continent they come from, and their native/natural habitats. With our world being 70% water mass, there is a great deal to learn about our underwater friends. </p>

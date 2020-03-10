@@ -182,7 +182,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Cookies Decorating Workshop"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-cookies-decorating-workshop.jpg" alt="Cookies Decorating Workshop"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Gel colours, royal icing, and decorator brushes are not stuff you would associate with cookies, but painting on them has never been more fun! Learn simple decorating techniques, and bring home your masterpieces to enjoy.</p>
@@ -233,7 +233,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Creative Pressed Flowers Workshop"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-creative-pressed-flowers-workshop.jpg" alt="Creative Pressed Flowers Workshop"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>A workshop for those who love flowers and homemade crafts. Use materials easily found at home to craft items from pressed flowers, such as photo frames and bookmarks. </p>
@@ -261,24 +261,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Punggol Park CC</td>
-								<td class="tbl-conval">11 Mar 2020, Wed</td>
-								<td class="tbl-conval">7:30pm to 9:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777481" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Ang Mo Kio CC</td>
-								<td class="tbl-conval">13 Mar 2020, Fri</td>
-								<td class="tbl-conval">7:00pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777214" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Queenstown CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 4:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776342" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Senja Cashew CC</td>
@@ -522,7 +504,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Fun with Paper Quilling Workshop"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-fun-with-paper-quilling-workshop.jpg" alt="Fun with Paper Quilling Workshop"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Paper quilling, is an art of passion and expression. Learn how to transform everyday materials into decorations, picture frames, greeting cards, bookmarks, and more. </p>
@@ -591,7 +573,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Fun with Ukelele"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-fun-with-ukelele.jpg" alt="Fun with Ukelele"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>The Ukulele is a small 4-string musical instrument that’s one of the easiest musical instrument to play. Strum and sing along in this fun and refreshing musical experience. </p>
@@ -619,24 +601,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nee Soon East CC</td>
-								<td class="tbl-conval">03 Mar 2020, Tue</td>
-								<td class="tbl-conval">7:30pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776605" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Cheng San CC</td>
-								<td class="tbl-conval">05 Mar 2020, Thu</td>
-								<td class="tbl-conval">7:30pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778265" target="_blank">Sign Up Now!</a></td>
-							</tr>							
-							<tr>
-								<td class="tbl-conval">Hillview CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">7:30pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778239" target="_blank">Sign Up Now!</a></td>
 							</tr>							
 							<tr>
 								<td class="tbl-conval">Nee Soon East CC</td>
@@ -750,7 +714,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Home-Made Bread right in your kitchen"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-home-made-bread-right-in-your-kitchen.jpg" alt="Home-Made Bread right in your kitchen"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Learn how to make your own bread at home. This course will teach you how choose the traits to bread making. Turn your raisin roll into dinner rolls with a simple change in ingredients.</p>
@@ -780,18 +744,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Hong Kah North CC</td>
-								<td class="tbl-conval">01 Mar 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 1:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778344" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Woodgrove CC</td>
-								<td class="tbl-conval">15 Mar 2020, Sun</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776822" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Kebun Baru CC</td>
 								<td class="tbl-conval">22 Mar 2020, Sun</td>
 								<td class="tbl-conval">2:00pm to 5:00pm</td>
@@ -803,12 +755,6 @@ collection_name: course-directory
 								<td class="tbl-conval">10:00am to 1:00pm</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780846" target="_blank">Sign Up Now!</a></td>
 							</tr>
-							<tr>
-								<td class="tbl-conval">Woodlands CC</td>
-								<td class="tbl-conval">12 Apr 2020, Sun</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>							
 							<tr>
 								<td class="tbl-conval">Nanyang CC</td>
 								<td class="tbl-conval">19 Apr 2020, Sun</td>
@@ -843,7 +789,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Character Bread Making"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-introduction-to-character-bread-making.jpg" alt="Introduction to Character Bread Making"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Enhance the look of your go-to breakfast - bread! Learn techniques to design your bread to look like different characters, and bring home this yummy looking delight to enjoy!</p>
@@ -906,7 +852,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Social Dance (Adult)"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-introduction-to-social-dance-adult.jpg" alt="Introduction to Social Dance (Adult)"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Discover the dancer within in this elementary course that will cover Cha-Cha, Disco Rock, Rock-n-Roll and Waltz. Participants will learn about rhythm, time, tempo, accents, phrasing and more. </p>
@@ -928,34 +874,9 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Ci Yuan CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:30pm to 4:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776419" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nanyang CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">8:00pm to 9:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776479" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Anchorvale CC</td>
-								<td class="tbl-conval">11 Mar 2020, Wed</td>
-								<td class="tbl-conval">7:00pm to 8:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026784693" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
-				</div>				
+				</div>
 				<div class="tab">
 					<a name="intro-to-taiko-drumming-adult"></a>  
 					<input type="checkbox" id="chck2020_8">
@@ -963,7 +884,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Taiko Drumming (Adults)"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-introduction-to-taiko-drumming-adults.jpg" alt="Introduction to Taiko Drumming (Adults)"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>The majestic sounds and rhythmic movements of Taiko Drumming make it more than an instrument – it’s a great physical workout as well. Get toned, and enjoy the mesmerising beats!</p>
@@ -1008,7 +929,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Traditional Hakka Delights"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-introduction-to-traditional-hakka-delights.jpg" alt="Introduction to Traditional Hakka Delights"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Hakka food is characterised by its unique textures. Learn how to make dishes like Yam Abacus seed, salt-baked chicken and more!</p>
@@ -1039,24 +960,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Sign Up</th>
 							</tr>
 							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">04 Mar 2020, Wed</td>
-								<td class="tbl-conval">6:30pm to 9:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776216" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Nanyang CC</td>
-								<td class="tbl-conval">06 Mar 2020, Fri</td>
-								<td class="tbl-conval">10:00am to 1:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026784480" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">MacPherson CC</td>
-								<td class="tbl-conval">15 Mar 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 1:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776806" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
 								<td class="tbl-conval">Ang Mo Kio CC</td>
 								<td class="tbl-conval">21 Mar 2020, Sat</td>
 								<td class="tbl-conval">1:00pm to 4:00pm</td>
@@ -1084,7 +987,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Life's a Stage: Chinese Drama"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-life-a-stage-chinese-drama.jpg" alt="Life's a Stage: Chinese Drama"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>This course offers participants an opportunity to explore their potential in stage acting. Learn all about vocal (singing) pronunciation, script reading and the skills of stage acting.</p>
@@ -1237,7 +1140,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Pattern making on Bread"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-pattern-making-on-bread.jpg" alt="Pattern making on Bread"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Make your bread more appetising, by creating patterns on them! Acquire the basic techniques of pattern making on breads, and create unique patterns on your own at the comfort of your kitchen! </p>
@@ -1265,12 +1168,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Changi Simei CC</td>
-								<td class="tbl-conval">08 Mar 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 1:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776704" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Punggol Park CC</td>
@@ -1320,7 +1217,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Savouring Old Hokkien Flavours"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-savouring-old-hokkien-flavours.jpg" alt="Savouring Old Hokkien Flavours"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Bring out the ingredients’ aroma and texture through Hokkien cooking techniques. Learn to make Yam Rice, Ang Ku Kueh and more! </p>
@@ -1384,7 +1281,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Sumptuous Cantonese Cuisine"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-sumptuous-cantonese-cuisine.jpg" alt="Sumptuous Cantonese Cuisine"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Cantonese cuisine is all about the balance of flavours. Pick up tips on making delectable Dim Sum, yummy soups and more!</p>
@@ -1524,7 +1421,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Tasty Teochew Memories"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-tasty-teochew-memories.jpg" alt="Tasty Teochew Memories"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Delicate cooking methods like poaching and steaming are common in Teochew cuisine, which features dishes like braised duck and yam paste.</p>
@@ -1553,18 +1450,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Jurong Green CC</td>
-								<td class="tbl-conval">05 Mar 2020, Thu</td>
-								<td class="tbl-conval">7:00pm to 10:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Taman Jurong CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">1:00pm to 4:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">MacPherson CC</td>
@@ -1606,7 +1491,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="The Secrets to Nonya Cooking"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-the-Secrets-to-nonya-cooking.jpg" alt="The Secrets to Nonya Cooking"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Nonya cooking results from blending Chinese ingredients with Malay spices. Learn how to make specialties like Durian Pengat and Chap Chye.</p>
@@ -1635,18 +1520,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">01 Mar 2020, Sun</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">10 Mar 2020, Tue</td>
-								<td class="tbl-conval">2:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776278" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Clementi CC</td>

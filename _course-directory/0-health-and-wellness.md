@@ -118,7 +118,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Bbarreless: Dance Pilates"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-bbarreless-dance-pilates.jpg" alt="Bbarreless: Dance Pilates"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>A fun, energetic, workout that fuses techniques from Dance, Pilates, and Yoga. Participants to bring own Yoga mat, resistance exercise band and core ball. </p>
@@ -140,26 +140,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl">
-							<tr>
-								<th class="tbl-subhdr">Location</th>
-								<th class="tbl-subhdr">Date</th>
-								<th class="tbl-subhdr">Time</th>
-								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Cheng San CC</td>
-								<td class="tbl-conval">01 Mar 2020, Sun</td>
-								<td class="tbl-conval">1:30pm to 2:30pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Ang Mo Kio CC</td>
-								<td class="tbl-conval">15 Mar 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 11:00am</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778518" target="_blank">Sign Up Now!</a></td>
-							</tr>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>
 				<div class="tab">
@@ -201,7 +182,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Body Toning 101"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-body-toning-101.jpg" alt="Body Toning 101"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Looking to attain a lean, tone body but don’t enjoy high impact cardiovascular exercises? This exercise programme will help strengthen muscles, burn fat and improve your body posture.</p>
@@ -229,24 +210,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Bukit Merah CC</td>
-								<td class="tbl-conval">01 Mar 2020, Sun</td>
-								<td class="tbl-conval">11:30am to 12:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776377" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Senja Cashew CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:00pm to 4:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780487" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Tampines East CC</td>
-								<td class="tbl-conval">15 Mar 2020, Sun</td>
-								<td class="tbl-conval">12:00pm to 1:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777861" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Kampong Ubi CC</td>
@@ -308,7 +271,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Cardio Pilates Workout"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-cardio-pilates-workout.jpg" alt="Cardio Pilates Workout"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Want a fun and effective workout? Combining aerobics with Pilates moves, this programme is scientifically developed to streamline the body without building bulk or putting stress on the joints.</p>
@@ -397,7 +360,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Eating Well for Health: TCM Diet & Health Improvement"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-eating-well-for-health-tcm-health.jpg" alt="Eating Well for Health: TCM Diet & Health Improvement"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Traditional Chinese Medicine (TCM) emphasises the importance of prevention over cure. This class will introduce the concept of Weak Symptoms of Qi Xue Yin Yang, and the common medicinal herbs.</p>
@@ -425,48 +388,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Jurong Green CC</td>
-								<td class="tbl-conval">04 Mar 2020, Wed</td>
-								<td class="tbl-conval">7:30pm to 9:30pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Teck Ghee CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777766" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Yishun Link CC</td>
-								<td class="tbl-conval">08 Mar 2020, Sun</td>
-								<td class="tbl-conval">3:00pm to 5:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785727" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Woodlands Galaxy CC</td>
-								<td class="tbl-conval">13 Mar 2020, Fri</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780147" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Canberra CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">12:30pm to 2:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782130" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Clementi CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">2:00pm to 4:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026773156" target="_blank">Sign Up Now!</a></td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">The Serangoon CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">10:00am to 12:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777117" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Tampines Central CC</td>
@@ -550,7 +471,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-hoop-fitness-for-beginners.jpg" alt="Fitness through Bodyweights"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-fitness-through-bodyweights.jpg" alt="Fitness through Bodyweights"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>See your city landscape as your playground! Have a different kind of workout without any equipment and not be confined to indoor studios or classrooms.</p>
@@ -678,7 +599,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Chair Yoga"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-introduction-to-chair-yoga.jpg" alt="Introduction to Chair Yoga"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Bored of normal Yoga? Chair Yoga is a gentler form of Hatha Yoga that adapts traditional poses using a chair for support. A natural stress-buster for all ages. </p>
@@ -706,24 +627,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Ci Yuan CC</td>
-								<td class="tbl-conval">07 Mar 2020, Sat</td>
-								<td class="tbl-conval">1:00pm to 2:00pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776414" target="_blank">Sign Up Now!</a></td>
-							</tr>							
-							<tr>
-								<td class="tbl-conval">Queenstown CC</td>
-								<td class="tbl-conval">08 Mar 2020, Sun</td>
-								<td class="tbl-conval">10:00am to 11:00am</td>
-								<td class="tbl-conval">Sign Up Now!</td>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Canberra CC</td>
-								<td class="tbl-conval">14 Mar 2020, Sat</td>
-								<td class="tbl-conval">3:30pm to 4:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782226" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Pek Kio CC</td>
@@ -785,7 +688,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to K-Kardio Dance Fitness"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-introduction-to-k-kardio-dance-fitness.jpg" alt="Introduction to K-Kardio Dance Fitness"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Dance your way to a healthier life with a fun and energising workout set to the latest K-pop hits, with different moves like kickboxing and aerobics! Suitable for all ages. </p>
@@ -819,12 +722,6 @@ collection_name: course-directory
 								<td class="tbl-conval">22 Mar 2020, Sun</td>
 								<td class="tbl-conval">10:00am to 11:00am</td>
 								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780515" target="_blank">Sign Up Now!</a></td>
-							</tr>							
-							<tr>
-								<td class="tbl-conval">Bukit Batok CC</td>
-								<td class="tbl-conval">15 Apr 2020, Wed</td>
-								<td class="tbl-conval">5:00pm to 6:00pm</td>
-								<td class="tbl-conval">Sign Up Now!</td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Punggol Park CC</td>
@@ -906,7 +803,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="KpopX&reg; Fitness Lite"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-kpopx-fitness-lite.jpg" alt="KpopX&reg; Fitness Lite"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Workout to popular K-Pop hits while improving your fitness, stamina and coordination - no dance background needed! Suitable for beginners or those looking for a lower intensity workout.</p>
@@ -1143,7 +1040,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Zumba Gold&reg;"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-zumba-gold.jpg" alt="Zumba Gold&reg;"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Work up a healthy sweat with Zumba Gold&reg;, modified to suit the needs of active older participants. Move to the beat of zesty Latin music in an invigorating, party-like atmosphere. </p>
@@ -1171,12 +1068,6 @@ collection_name: course-directory
 								<th class="tbl-subhdr">Date</th>
 								<th class="tbl-subhdr">Time</th>
 								<th class="tbl-subhdr">Sign Up</th>
-							</tr>
-							<tr>
-								<td class="tbl-conval">Hwi Yoh CC </td>
-								<td class="tbl-conval">09 Mar 2020, Mon</td>
-								<td class="tbl-conval">6:30pm to 7:30pm</td>
-								<td class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776863" target="_blank">Sign Up Now!</a></td>
 							</tr>
 							<tr>
 								<td class="tbl-conval">Hougang CC</td>
