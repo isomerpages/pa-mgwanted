@@ -631,6 +631,8 @@ $desktop: 960px + (2 * $gap) !default;
       tr { 
         display: block; 
         margin-bottom: .625em; 
+        border-bottom: 1px solid #dbdbdb;
+        &:last-child { border-bottom: 0; }
       }  
       td { 
         display: block; 
@@ -638,7 +640,7 @@ $desktop: 960px + (2 * $gap) !default;
         text-align: left; 
         &::before {
           content: attr(data-label); 
-          display: block; 
+          display: inline-block; 
           font-weight: bold;
           min-width: 5em;
         } 
