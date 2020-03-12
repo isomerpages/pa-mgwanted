@@ -11,6 +11,7 @@ collection_name: course-directory
 		<p><img src="/images/course-directory/cd-banner-lifestyleleisure.png" alt="Merdeka Generation programmes - Lifestyle & Leisure"></p>
 		<p>Taking on a new hobby isn't just for fun. Hobbies open up new experiences, which allow you to discover your talents and make new friends.</p>
 		<p>Keen to find out if you'd make a great dim sum chef? Or are you artistically gifted in brush calligraphy? Browse and participate in our array of Lifestyle & Leisure courses and programmes!</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
     </div>
 	<div class="row">
 		<div class="col">
@@ -579,13 +580,13 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="fun-with-ukelele"></a>  
+					<a name="fun-with-ukulele"></a>  
 					<input type="checkbox" id="chck2020_4">
-					<label class="tab-label" for="chck2020_4">Fun with Ukelele</label>
+					<label class="tab-label" for="chck2020_4">Fun with Ukulele</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-fun-with-ukelele.jpg" alt="Fun with Ukelele"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-fun-with-ukulele.jpg" alt="Fun with Ukulele"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>The Ukulele is a small 4-string musical instrument that’s one of the easiest musical instrument to play. Strum and sing along in this fun and refreshing musical experience. </p>

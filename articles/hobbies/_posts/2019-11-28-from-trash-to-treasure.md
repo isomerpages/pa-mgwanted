@@ -17,6 +17,7 @@ Your spectacles case is the perfect multi-purpose storage tool! Reuse this handy
 
 ### NECKLACE CAMERA STRAP 
 Turn an old necklace into a one-of-a-kind camera strap. Combine it with a statement brooch for vintage flair and add a personal touch by creating unique combinations to complement your style.
+
 ![From Trash To Treasure](/images/content-articles/hobbies/from-trash-to-treasure-img3.jpg)
 
 ### CRIB SLATS DISPLAY RACK

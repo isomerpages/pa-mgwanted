@@ -11,6 +11,7 @@ collection_name: course-directory
 		<p><img src="/images/course-directory/cd-banner-financialliteracy.png" alt="Merdeka Generation programmes - Financial Literacy"></p>
 		<p>Taking charge of your financial matters is a good way to safeguard your family's future. It's never too early to find out what you can do to ensure that your assets are carefully managed.</p>
 		<p>Looking to refresh your understanding or wondering where to start? Take action through our series of Financial Literacy courses, including estate planning and will making.</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
     </div>
 	<div class="row">
 		<div class="col">
@@ -170,7 +171,7 @@ collection_name: course-directory
 									<td data-label="Location" class="tbl-conval">Bukit Merah CC</td>
 									<td data-label="Date" class="tbl-conval">20 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026788671" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Punggol Park CC</td>
