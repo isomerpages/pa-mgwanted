@@ -11,6 +11,7 @@ collection_name: course-directory
         <p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes - Health & Wellness"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
 		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
     </div>
 	<div class="row">
 	  	<div class="col">

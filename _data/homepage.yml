@@ -39,11 +39,11 @@ resources-more-button-url: /articles/
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: Why not use the $100 top-up value on your PAssion Silver Card to pay for courses?*
-    section-description: Sign up for any course and receive a limited edition collectible!**<br> *Applicable for Merdeka Generation seniors only.<br> **Terms and conditions apply.
+    section-subtitle: Celebrate your PAssion for life
+    section-description: There’s so much to experience as a MG! Explore your interests with our selection of articles and find the perfect course for your needs.<br><br>Live your passion and start your learning journey with us today!
     section-more-button: Learn more
     section-more-button-url: /course-directory/health-and-wellness/
-    section-image-path: /images/homepage/sign-up-collectible-redemption.png
+    section-image-path: /images/course-directory/cd-thn-no-image.jpg
     
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
