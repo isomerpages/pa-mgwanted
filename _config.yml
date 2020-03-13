@@ -45,3 +45,5 @@ collections:
   course-directory:
     output: true
 resources_name: articles
+
+facebook-pixel: 3139632349401840
