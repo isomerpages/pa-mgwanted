@@ -397,6 +397,55 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
+				</div>				
+				<div class="tab">
+					<a name="innovation-learning-journey-tetra-pak"></a>
+					<input type="checkbox" id="chck2019_4">
+					<label class="tab-label" for="chck2019_4">Innovation Learning Journey @ Tetra Pak</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/lifelong-learning/tbn-innovation-learning-journey-at-tetra-pak.jpg" alt="Innovation Learning Journey @ Tetra Pak"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>This course gives you an exclusive access to Tetra Pak's Customer Innovation Center, and the opportunity to learn about leading multinational food packaging and processing company.</p>
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl">
+							<tr>
+								<td class="tbl-subhdr">Course Fee</td>
+								<td class="tbl-subhdr">Material Fee</td>
+								<td class="tbl-subhdr">Duration</td>
+							</tr>
+							<tr>
+								<td class="tbl-conval">$3</td>
+								<td class="tbl-conval">NA</td>
+								<td class="tbl-conval">2hrs</td>
+							</tr>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Location</th>
+									<th scope="col" class="tbl-subhdr">Date</th>
+									<th scope="col" class="tbl-subhdr">Time</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Nanyang CC</td>
+									<td data-label="Date" class="tbl-conval">16 Apr 2020, Thu</td>
+									<td data-label="Time" class="tbl-conval">2:00pm to 4:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026785998" target="_blank">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
 				</div>
 				<div class="tab">
 					<a name="intro-to-smartphone-photography-gbtb"></a>
