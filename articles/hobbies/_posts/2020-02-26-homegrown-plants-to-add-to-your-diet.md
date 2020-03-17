@@ -8,7 +8,7 @@ collection_name: articles
 ---
 ![Homegrown Plants To Add To Your Diet](/images/content-articles/hobbies/homegrown-plants-to-add-to-your-diet-img1.jpg)
 
-We all know fruits and vegetables are an important part of our diet. But did you know that some of these superfoods can be grown from the comfort of your own home? Reap the health benefits of these homegrown veggies and understand how they can enhance your wellbeing! Join us for our [Agricultural Farm Tour](../../course-directory/lifelong-learning/#agricultural-farm-tour-grow-your-own-veg) and learn how you can get started on your very own urban garden. 
+We all know fruits and vegetables are an important part of our diet. But did you know that some of these superfoods can be grown from the comfort of your own home? Reap the health benefits of these homegrown veggies and understand how they can enhance your wellbeing! Join us for our [Agricultural Farm Tour](../../course-directory/lifelong-learning/#agriculturalfarmtourgrowveg) and learn how you can get started on your very own urban garden. 
 
 ### BRINJALS
 **Why they’re great:** Brinjals are a great source of fibre and B-6 vitamins. They’re also packed full of antioxidants that improve cholesterol levels and heart health. 

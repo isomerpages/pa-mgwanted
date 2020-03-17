@@ -17,7 +17,7 @@ collection_name: course-directory
 	  	<div class="col">
 			<div class="tabs healthWellness">
 				<div class="tab">
-					<a name="bbarreless-dance-pilates"></a>  
+					<a name="bbarrelessdancepilates">&nbsp;</a>  
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">Bbarreless: Dance Pilates</label>
 					<div class="tab-content">
@@ -49,7 +49,7 @@ collection_name: course-directory
 					</div>
 				</div>				
 				<div class="tab">
-					<a name="body-toning-101"></a>  
+					<a name="bodytoning101"></a>  
 					<input type="checkbox" id="chck2020_2">
 					<label class="tab-label" for="chck2020_2">Body Toning 101</label>
 					<div class="tab-content">
@@ -110,7 +110,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="cardio-pilates-workout"></a>  
+					<a name="cardiopilatesworkout"></a>  
 					<input type="checkbox" id="chck2020_3">
 					<label class="tab-label" for="chck2020_3">Cardio Pilates Workout</label>
 					<div class="tab-content">
@@ -171,7 +171,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="eating-well-for-health-tcm"></a>  
+					<a name="eatingwellforhealthtcm">&nbsp;</a>  
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Eating Well for Health: TCM Diet & Health Improvement</label>
 					<div class="tab-content">
@@ -286,7 +286,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-chair-yoga"></a>  
+					<a name="introtochairyoga"></a>  
 					<input type="checkbox" id="chck2020_5">
 					<label class="tab-label" for="chck2020_5">Introduction to Chair Yoga</label>
 					<div class="tab-content">
@@ -341,7 +341,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-k-kardio-dance-fitness"></a>  
+					<a name="introtokkardiodancefitness"></a>  
 					<input type="checkbox" id="chck2020_6">
 					<label class="tab-label" for="chck2020_6">Introduction to K-Kardio Dance Fitness</label>
 					<div class="tab-content">
@@ -396,7 +396,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="kpopx-fitness-lite"></a>  
+					<a name="kpopxfitnesslite"></a>  
 					<input type="checkbox" id="chck2020_7">
 					<label class="tab-label" for="chck2020_7">KpopX&reg; Fitness Lite</label>
 					<div class="tab-content">
@@ -445,7 +445,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="zumba_gold"></a>  
+					<a name="zumbagold"></a>  
 					<input type="checkbox" id="chck2020_8">
 					<label class="tab-label" for="chck2020_8">Zumba Gold&reg;</label>
 					<div class="tab-content">

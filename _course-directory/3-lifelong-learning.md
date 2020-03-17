@@ -17,7 +17,7 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<div class="tab">
-					<a name="agricultural-farm-tour-grow-your-own-veg"></a>
+					<a name="agriculturalfarmtourgrowveg">&nbsp;</a>
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">Agricultural Farm Tour: Grow your own vegetables!</label>
 					<div class="tab-content">
@@ -138,7 +138,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="be-a-handyman-home-electrical-maintenance"></a>
+					<a name="beahandymanhomeelectricalmaintenance"></a>
 					<input type="checkbox" id="chck2020_2">
 					<label class="tab-label" for="chck2020_2">Be a Handyman - Home Electrical Maintenance!</label>
 					<div class="tab-content">
@@ -247,7 +247,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="be-a-handyman-home-plumbing-maintenance"></a>
+					<a name="beahandymanhomeplumbingmaintenance"></a>
 					<input type="checkbox" id="chck2020_3">
 					<label class="tab-label" for="chck2020_3">Be a Handyman - Home Plumbing Maintenance!</label>
 					<div class="tab-content">
@@ -314,7 +314,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="go-digital-be-future-ready"></a>
+					<a name="godigitalbefutureready"></a>
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Go-Digital: Be Future Ready</label>
 					<div class="tab-content">
@@ -448,7 +448,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-smartphone-photography-gbtb"></a>
+					<a name="introtophotographygbtb"></a>
 					<input type="checkbox" id="chck2020_5">
 					<label class="tab-label" for="chck2020_5">Introduction to Smartphone Photography - Gardens by the Bay</label>
 					<div class="tab-content">
@@ -497,7 +497,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-smartphone-photography-little-india"></a>
+					<a name="introtophotographylittleindia">&nbsp;</a>
 					<input type="checkbox" id="chck2020_6">
 					<label class="tab-label" for="chck2020_6">Introduction to Smartphone Photography - Little India</label>
 					<div class="tab-content">
@@ -529,7 +529,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-smartphone-photography-chinatown"></a>
+					<a name="introtophotographychinatown"></a>
 					<input type="checkbox" id="chck2020_7">
 					<label class="tab-label" for="chck2020_7">Introduction to Smartphone Photography - Chinatown</label>
 					<div class="tab-content">
@@ -578,7 +578,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="jurong-frog-farm-tour"></a>
+					<a name="jurongfrogfarmtour"></a>
 					<input type="checkbox" id="chck2020_8">
 					<label class="tab-label" for="chck2020_8">Jurong Frog Farm Tour</label>
 					<div class="tab-content">
@@ -627,7 +627,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="keep-your-mind-sharp-with-suduko"></a>
+					<a name="keepyourmindsharpwithsuduko"></a>
 					<input type="checkbox" id="chck2020_9">
 					<label class="tab-label" for="chck2020_9">Keep Your Mind Sharp with Suduko</label>
 					<div class="tab-content">
@@ -688,7 +688,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="kfc-open-kitchen-tour"></a>
+					<a name="kfcopenkitchentour"></a>
 					<input type="checkbox" id="chck2020_10">
 					<label class="tab-label" for="chck2020_10">KFC Open Kitchen Tour</label>
 					<div class="tab-content">
@@ -743,7 +743,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="kok-fah-technology-farm-tour"></a>
+					<a name="kokfahfarmtour"></a>
 					<input type="checkbox" id="chck2020_11">
 					<label class="tab-label" for="chck2020_11">Kok Fah Technology Farm Tour</label>
 					<div class="tab-content">
@@ -846,7 +846,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="nurturing-your-loved-ones-through-effective-coaching-conversations "></a>
+					<a name="nurturingthrougheffectivecoachingconversations"></a>
 					<input type="checkbox" id="chck2020_12">
 					<label class="tab-label" for="chck2020_12">Nurturing your Loved Ones through effective coaching conversations</label>
 					<div class="tab-content">
@@ -901,7 +901,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="photography-101-guide-to-mobile-photography"></a>
+					<a name="photography101mobilephotography"></a>
 					<input type="checkbox" id="chck2020_13">
 					<label class="tab-label" for="chck2020_13">Photography 101: Guide to Mobile Photography</label>
 					<div class="tab-content">
@@ -974,7 +974,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="qian-hu-farm-tour"></a>
+					<a name="qianhufarmtour"></a>
 					<input type="checkbox" id="chck2020_14">
 					<label class="tab-label" for="chck2020_14">Qian Hu Farm Tour</label>
 					<div class="tab-content">

@@ -25,4 +25,4 @@ The way you prepare your food can greatly alter its effects on your health. Inst
 
 ![3 Simple Tips For A Healthier Diet](/images/content-articles/wellness/3-simple-tips-for-a-healthier-diet-img4.jpg)
 
-Learn more tips on healthy eating at our [TCM Diet & Health Improvement](../../course-directory/health-and-wellness/#eating-well-for-health-tcm) course!
+Learn more tips on healthy eating at our [TCM Diet & Health Improvement](../../course-directory/health-and-wellness/#eatingwellforhealthtcm) course!

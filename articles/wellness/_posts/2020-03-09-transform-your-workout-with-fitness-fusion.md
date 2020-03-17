@@ -25,4 +25,4 @@ If you don’t have much time to spare on your workouts, fitness fusion is the p
 
 ![Transform Your Workout With Fitness Fusion](/images/content-articles/wellness/transform-your-workout-with-fitness-fusion-img4.jpg)
 
-Give fitness fusion a try with Bbarreless: [Dance Pilates! Bbarreless](../../course-directory/health-and-wellness/#bbarreless-dance-pilates) combines dance, pilates and yoga for a fun, full body workout that enhances both strength and flexibility. 
+Give fitness fusion a try with Bbarreless: [Dance Pilates! Bbarreless](../../course-directory/health-and-wellness/#bbarrelessdancepilates) combines dance, pilates and yoga for a fun, full body workout that enhances both strength and flexibility. 

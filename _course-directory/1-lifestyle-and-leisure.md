@@ -17,7 +17,7 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs lifestyleLeisure">				
 				<div class="tab">
-					<a name="cookies-decorating-workshop"></a>  
+					<a name="cookiesdecoratingworkshop"></a>  
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">Cookies Decorating Workshop</label>
 					<div class="tab-content">
@@ -72,7 +72,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="creative-pressed-flowers-workshop"></a>  
+					<a name="creativepressedflowersworkshop"></a>  
 					<input type="checkbox" id="chck2020_2">
 					<label class="tab-label" for="chck2020_2">Creative Pressed Flowers Workshop</label>
 					<div class="tab-content">
@@ -187,7 +187,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="fun-with-paper-quilling-workshop"></a>  
+					<a name="funwithpaperquilling-workshop"></a>  
 					<input type="checkbox" id="chck2020_3">
 					<label class="tab-label" for="chck2020_3">Fun with Paper Quilling Workshop</label>
 					<div class="tab-content">
@@ -260,7 +260,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="fun-with-ukulele"></a>  
+					<a name="funwithukulele">&nbsp;</a>  
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Fun with Ukulele</label>
 					<div class="tab-content">
@@ -309,7 +309,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="home-made-bread-right-in-your-kitchen"></a>  
+					<a name="homemadebreadrightinyourkitchen"></a>  
 					<input type="checkbox" id="chck2020_5">
 					<label class="tab-label" for="chck2020_5">Home-Made Bread right in your kitchen</label>
 					<div class="tab-content">
@@ -388,7 +388,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-character-bread-making"></a>  
+					<a name="introtocharacterbreadmaking"></a>  
 					<input type="checkbox" id="chck2020_6">
 					<label class="tab-label" for="chck2020_6">Introduction to Character Bread Making</label>
 					<div class="tab-content">
@@ -455,7 +455,7 @@ collection_name: course-directory
 					</div>
 				</div>			
 				<div class="tab">
-					<a name="intro-to-social-dance-adult"></a>  
+					<a name="introtosocialdanceadult"></a>  
 					<input type="checkbox" id="chck2020_7">
 					<label class="tab-label" for="chck2020_7">Introduction to Social Dance (Adult)</label>
 					<div class="tab-content">
@@ -487,7 +487,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-taiko-drumming-adult"></a>  
+					<a name="intrototaikodrummingadult"></a>  
 					<input type="checkbox" id="chck2020_8">
 					<label class="tab-label" for="chck2020_8">Introduction to Taiko Drumming (Adults)</label>
 					<div class="tab-content">
@@ -536,7 +536,7 @@ collection_name: course-directory
 					</div>
 				</div>				
 				<div class="tab">
-					<a name="intro-to-traditional-hakka-delights"></a>  
+					<a name="intrototraditionalhakkadelights"></a>  
 					<input type="checkbox" id="chck2020_9">
 					<label class="tab-label" for="chck2020_9">Introduction to Traditional Hakka Delights</label>
 					<div class="tab-content">
@@ -598,7 +598,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="life-a-stage-chinese-drama"></a>  
+					<a name="lifestagechinesedrama"></a>  
 					<input type="checkbox" id="chck2020_10">
 					<label class="tab-label" for="chck2020_10">Life's a Stage: Chinese Drama</label>
 					<div class="tab-content">
@@ -659,7 +659,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="pattern-making-on-bread"></a>  
+					<a name="patternmakingonbread"></a>  
 					<input type="checkbox" id="chck2020_11">
 					<label class="tab-label" for="chck2020_11">Pattern making on Bread</label>
 					<div class="tab-content">
@@ -708,7 +708,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="savouring-old-hokkien-flavours"></a>  
+					<a name="savouringoldhokkienflavours"></a>  
 					<input type="checkbox" id="chck2020_12">
 					<label class="tab-label" for="chck2020_12">Savouring Old Hokkien Flavours</label>
 					<div class="tab-content">
@@ -776,7 +776,7 @@ collection_name: course-directory
 					</div>
 				</div>								
 				<div class="tab">
-					<a name="sumptuous-cantonese-cuisine"></a>  
+					<a name="sumptuouscantonesecuisine"></a>  
 					<input type="checkbox" id="chck2020_13">
 					<label class="tab-label" for="chck2020_13">Sumptuous Cantonese Cuisine</label>
 					<div class="tab-content">
@@ -850,7 +850,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="tasty-teochew-memories"></a>  
+					<a name="tastyteochewmemories"></a>  
 					<input type="checkbox" id="chck2020_14">
 					<label class="tab-label" for="chck2020_14">Tasty Teochew Memories</label>
 					<div class="tab-content">
@@ -924,7 +924,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="the-secrets-to-nonya-cooking"></a>  
+					<a name="thesecretstononyacooking">&nbsp;</a>  
 					<input type="checkbox" id="chck2020_15">
 					<label class="tab-label" for="chck2020_15">The Secrets to Nonya Cooking</label>
 					<div class="tab-content">

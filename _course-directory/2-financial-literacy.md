@@ -17,7 +17,7 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs financialLiteracy">				
 				<div class="tab">
-					<a name="ibanking-101-posb"></a>
+					<a name="ibanking101posb"></a>
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">I-Banking 101: Digital Banking Services by POSB</label>
 					<div class="tab-content">
@@ -126,7 +126,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-estate-planning"></a>
+					<a name="introtoestateplanning"></a>
 					<input type="checkbox" id="chck2020_2">
 					<label class="tab-label" for="chck2020_2">Introduction to Estate Planning </label>
 					<div class="tab-content">
@@ -223,7 +223,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="intro-to-self-service-banking-posb"></a>
+					<a name="introtoselfservicebankingposb"></a>
 					<input type="checkbox" id="chck2020_3">
 					<label class="tab-label" for="chck2020_3">Introduction to Self Service Banking by POSB</label>
 					<div class="tab-content">
@@ -272,7 +272,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="lasting-power-of-attorney"></a>
+					<a name="lastingpowerofattorney"></a>
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Lasting Power of Attorney</label>
 					<div class="tab-content">
@@ -387,7 +387,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="understanding-the-process-of-preparing-a-will"></a>
+					<a name="understandingtheprocessofpreparingawill">&nbsp;</a>
 					<input type="checkbox" id="chck2020_5">
 					<label class="tab-label" for="chck2020_5">Understanding the Process of Preparing a Will</label>
 					<div class="tab-content">
