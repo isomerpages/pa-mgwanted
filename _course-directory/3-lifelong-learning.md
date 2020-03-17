@@ -399,7 +399,7 @@ collection_name: course-directory
 					</div>
 				</div>				
 				<div class="tab">
-					<a name="innovation-learning-journey-tetra-pak"></a>
+					<a name="innovationljtetrapak"></a>
 					<input type="checkbox" id="chck2019_4">
 					<label class="tab-label" for="chck2019_4">Innovation Learning Journey @ Tetra Pak</label>
 					<div class="tab-content">
