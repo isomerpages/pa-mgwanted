@@ -25,4 +25,4 @@ Repurpose a convertible crib for convenient storage. Prop an unused side rail ag
 
  ![From Trash To Treasure](/images/content-articles/hobbies/from-trash-to-treasure-img4.jpg)
 
-If these DIY projects seem daunting, start small by learning how to transform empty bottles and jars into decorative pieces for your home. Join us for our [Upcycle your bottle](../../course-directory/lifestyle-and-leisure/#upcycle-your-bottle) course at a CC near you!
+If these DIY projects seem daunting, start small by learning how to transform empty bottles and jars into decorative pieces for your home. Join us for our Upcycle your bottle course at a CC near you!

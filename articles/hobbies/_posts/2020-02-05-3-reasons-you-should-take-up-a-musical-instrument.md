@@ -25,4 +25,4 @@ Whether it’s the drums, guitar or piano, learning how to play an instrument of
 
  ![3 Reasons You Should Take Up A Musical Instrument](/images/content-articles/hobbies/3-reasons-you-should-take-up-a-musical-instrument-img4.jpg)
 
-So, what are you waiting for? Reap the benefits of picking up a new instrument and join us for [Fun with Ukulele](../../course-directory/lifestyle-and-leisure/#fun-with-ukulele) at a CC near you!
+So, what are you waiting for? Reap the benefits of picking up a new instrument and join us for [Fun with Ukulele](../../course-directory/lifestyle-and-leisure/#funwithukulele) at a CC near you!

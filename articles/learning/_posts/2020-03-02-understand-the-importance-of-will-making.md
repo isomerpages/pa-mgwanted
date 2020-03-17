@@ -25,4 +25,4 @@ Discussing your decisions with your family beforehand is the easiest way to avoi
 
 ![Understand The Importance Of Will Making](/images/content-articles/learning/understand-the-importance-of-will-making-img4.jpg)
 
-Join us for our [Preparing a Will](../../course-directory/financial-literacy/#understanding-the-process-of-preparing-a-will) course at a CC near you for a deeper understanding and step-by-step guide on the process.
+Join us for our [Preparing a Will](../../course-directory/financial-literacy/#understandingtheprocessofpreparingawill) course at a CC near you for a deeper understanding and step-by-step guide on the process.

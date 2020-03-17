@@ -5,6 +5,8 @@ permalink: /about-us/
 breadcrumb: About Us
 ---
 
+![About Us](/images/about-us/about-us.jpg)
+
 #### **About MGs Wanted**
 
 MGs Wanted is a community created for you to discover & pursue your passions as a member of the Merdeka Generation! With a wide array of courses ranging from health & lifestyle to finance & lifelong learning, there’s always something new to learn at PA. 

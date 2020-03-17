@@ -74,4 +74,4 @@ This 3-ingredient treat requires no cooking at all! Perfect to cool you down on 
  ![Delicious Desserts With Bananas](/images/content-articles/hobbies/delicious-desserts-with-bananas-img4.jpg)
 
 
-Join us for [Healthy Heavenly Treats](../../course-directory/lifestyle-and-leisure/#healthy-heavenly-treats) to learn how to make more delicious, healthy desserts
+Join us for Healthy Heavenly Treats to learn how to make more delicious, healthy desserts

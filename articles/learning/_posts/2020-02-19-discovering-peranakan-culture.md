@@ -25,4 +25,4 @@ In addition to the Chinese Peranakan, there are many other smaller communities. 
 
 ![Discovering Peranakan Culture](/images/content-articles/learning/discovering-peranakan-culture-img4.jpg)
 
-Immerse yourself in Peranakan culture and learn how to make your favourite Nonya dishes! Sign up for our [Secrets to Nonya Cooking](../../course-directory/lifestyle-and-leisure/#the-secrets-to-nonya-cooking) course at a CC near you today. 
+Immerse yourself in Peranakan culture and learn how to make your favourite Nonya dishes! Sign up for our [Secrets to Nonya Cooking](../../course-directory/lifestyle-and-leisure/#thesecretstononyacooking) course at a CC near you today. 
