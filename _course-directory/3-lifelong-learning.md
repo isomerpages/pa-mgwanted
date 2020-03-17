@@ -17,7 +17,7 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<div class="tab">
-					<a name="agriculturalfarmtourgrowveg">&nbsp;</a>
+					<a name="agriculturalfarmtourgrowveg"></a>
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">Agricultural Farm Tour: Grow your own vegetables!</label>
 					<div class="tab-content">
@@ -497,7 +497,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="introtophotographylittleindia">&nbsp;</a>
+					<a name="introtophotographylittleindia"></a>
 					<input type="checkbox" id="chck2020_6">
 					<label class="tab-label" for="chck2020_6">Introduction to Smartphone Photography - Little India</label>
 					<div class="tab-content">

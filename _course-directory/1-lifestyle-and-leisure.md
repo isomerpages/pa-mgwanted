@@ -260,7 +260,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="funwithukulele">&nbsp;</a>  
+					<a name="funwithukulele"></a>  
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Fun with Ukulele</label>
 					<div class="tab-content">
@@ -924,7 +924,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="thesecretstononyacooking">&nbsp;</a>  
+					<a name="thesecretstononyacooking"></a>  
 					<input type="checkbox" id="chck2020_15">
 					<label class="tab-label" for="chck2020_15">The Secrets to Nonya Cooking</label>
 					<div class="tab-content">

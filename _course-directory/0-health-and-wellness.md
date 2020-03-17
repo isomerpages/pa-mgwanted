@@ -17,7 +17,7 @@ collection_name: course-directory
 	  	<div class="col">
 			<div class="tabs healthWellness">
 				<div class="tab">
-					<a name="bbarrelessdancepilates">&nbsp;</a>  
+					<a name="bbarrelessdancepilates"></a>  
 					<input type="checkbox" id="chck2020_1">
 					<label class="tab-label" for="chck2020_1">Bbarreless: Dance Pilates</label>
 					<div class="tab-content">
@@ -171,7 +171,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="eatingwellforhealthtcm">&nbsp;</a>  
+					<a name="eatingwellforhealthtcm"></a>  
 					<input type="checkbox" id="chck2020_4">
 					<label class="tab-label" for="chck2020_4">Eating Well for Health: TCM Diet & Health Improvement</label>
 					<div class="tab-content">

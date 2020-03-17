@@ -387,7 +387,7 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="understandingtheprocessofpreparingawill">&nbsp;</a>
+					<a name="understandingtheprocessofpreparingawill"></a>
 					<input type="checkbox" id="chck2020_5">
 					<label class="tab-label" for="chck2020_5">Understanding the Process of Preparing a Will</label>
 					<div class="tab-content">
