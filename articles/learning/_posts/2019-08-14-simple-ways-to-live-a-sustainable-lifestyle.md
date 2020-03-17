@@ -16,7 +16,7 @@ In the past, you wouldn’t have dreamed of single-use bottles or cups. But thes
 ![Simple Ways to Live a Sustainable Lifestyle](/images/content-articles/learning/sustainable-lifestyle-img2.jpg)
 
 ### CUT DOWN ON FOOD WASTE
-Making food last longer is a great way to minimise food waste. Squeeze a little lemon juice over avocados or put leftover apple slices in lemon water to keep the fruits from browning! Learn more about food preservation and the science behind keeping food fresh on our [Innovation Learning Journey @ Tetra Pak](../../course-directory/lifelong-learning/#innovation-learning-journey-tetra-pak).
+Making food last longer is a great way to minimise food waste. Squeeze a little lemon juice over avocados or put leftover apple slices in lemon water to keep the fruits from browning! Learn more about food preservation and the science behind keeping food fresh on our [Innovation Learning Journey @ Tetra Pak](../../course-directory/lifelong-learning/#innovationljtetrapak).
 
 ![Simple Ways to Live a Sustainable Lifestyle](/images/content-articles/learning/sustainable-lifestyle-img3.jpg)
 
