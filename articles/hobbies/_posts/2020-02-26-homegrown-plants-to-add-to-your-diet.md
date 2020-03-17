@@ -20,8 +20,7 @@ We all know fruits and vegetables are an important part of our diet. But did you
 ### CHERRY TOMATOES 
 **Why they’re great:** This potassium-rich fruit lowers blood pressure and reduces the risk of cardiovascular diseases. It is also rich in vitamin C that boosts immunity and collagen production.
 
-**How to grow:** Get a wire cage or find a spot close to a railing that can support the tomato vines as they grow. Water daily and feed your seedlings with organic fertiliser once a week
-. 
+**How to grow:** Get a wire cage or find a spot close to a railing that can support the tomato vines as they grow. Water daily and feed your seedlings with organic fertiliser once a week. 
 
 ![Homegrown Plants To Add To Your Diet](/images/content-articles/hobbies/homegrown-plants-to-add-to-your-diet-img3.jpg)
 
