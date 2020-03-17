@@ -11,7 +11,7 @@ collection_name: articles
 If you are new to massage, it might be a little confusing to decide on the different kinds out there. From Balinese to Swedish, there are so many to choose from, and they all have different benefits and healing techniques. Don't worry, we have created a list of massages and why you should try them to aid you in finding the suitable massage! 
 
 ### BEGINNER – RHYTHMIC MASSAGE
-This massage balances the body with warm, nurturing strokes that promote healing. Focused on warmth, breathing and rhythm, the therapist uses suction to target tense muscle tissue. Join us for our [Rhythmic Massage](../../course-directory/health-and-wellness/#rhythmic-massage) course to learn how to activate your body’s forces to promote physical and mental wellbeing. 
+This massage balances the body with warm, nurturing strokes that promote healing. Focused on warmth, breathing and rhythm, the therapist uses suction to target tense muscle tissue. Join us for our Rhythmic Massage course to learn how to activate your body’s forces to promote physical and mental wellbeing. 
 
 **Try it if:** You feel a sense of imbalance and want a healing, invigorating massage.
 

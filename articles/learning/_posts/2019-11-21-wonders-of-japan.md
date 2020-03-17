@@ -25,4 +25,4 @@ Just 30 minutes from central Kyoto, the towering Sagano Bamboo Forest is a tranq
 
 ![Wonders of Japan](/images/content-articles/learning/wonders-of-japan-img4.jpg)
 
-Get ready for your trip to Japan with our [Japanese for Travellers](../../course-directory/lifelong-learning/#japanese-for-travellers) course! Learn about Japanese culture and pick up some basic conversational skills to communicate with ease.
+Get ready for your trip to Japan with our Japanese for Travellers course! Learn about Japanese culture and pick up some basic conversational skills to communicate with ease.
