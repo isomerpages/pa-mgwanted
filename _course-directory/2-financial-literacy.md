@@ -15,7 +15,7 @@ collection_name: course-directory
     </div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs financialLiteracy">				
+			<div class="tabs financialLiteracy">
 				<div class="tab">
 					<a name="ibanking101posb"></a>
 					<input type="checkbox" id="chck2020_1">
