@@ -101,19 +101,13 @@ collection_name: course-directory
 									<td data-label="Location" class="tbl-conval">Punggol Park CC</td>
 									<td data-label="Date" class="tbl-conval">20 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026787412" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026789761" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Teck Ghee CC</td>
 									<td data-label="Date" class="tbl-conval">20 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786756" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Punggol Park CC</td>
-									<td data-label="Date" class="tbl-conval">30 Jun 2020, Tue</td>
-									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026789761" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Aljunied CC</td>
