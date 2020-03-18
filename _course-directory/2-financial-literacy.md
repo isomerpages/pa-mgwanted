@@ -56,18 +56,6 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Aljunied CC</td>
-									<td data-label="Date" class="tbl-conval">21 Mar 2020, Sat</td>
-									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786313" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Hougang CC</td>
-									<td data-label="Date" class="tbl-conval">21 Mar 2020, Sat</td>
-									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786326" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Buona Vista CC</td>
 									<td data-label="Date" class="tbl-conval">18 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
@@ -80,10 +68,10 @@ collection_name: course-directory
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786080" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Yio Chu Kang CC</td>
+									<td data-label="Location" class="tbl-conval">Tampines East CC</td>
 									<td data-label="Date" class="tbl-conval">18 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026788356" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Kampong Ubi CC</td>
@@ -98,10 +86,10 @@ collection_name: course-directory
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786412" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Tampines East CC</td>
-									<td data-label="Date" class="tbl-conval">16 May 2020, Sat</td>
+									<td data-label="Location" class="tbl-conval">Yio Chu Kang CC</td>
+									<td data-label="Date" class="tbl-conval">20 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026788590" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Bukit Merah CC</td>
@@ -120,6 +108,24 @@ collection_name: course-directory
 									<td data-label="Date" class="tbl-conval">20 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026786756" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Punggol Park CC</td>
+									<td data-label="Date" class="tbl-conval">30 Jun 2020, Tue</td>
+									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026789761" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Aljunied CC</td>
+									<td data-label="Date" class="tbl-conval">18 Jul 2020, Sat</td>
+									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026790392" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Hougang CC</td>
+									<td data-label="Date" class="tbl-conval">18 Jul 2020, Sat</td>
+									<td data-label="Time" class="tbl-conval">3:00pm to 6:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026790349" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -164,12 +170,6 @@ collection_name: course-directory
 								</tr>
 							</thead>
 							<tbody>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Tampines West CC</td>
-									<td data-label="Date" class="tbl-conval">18 Mar 2020, Wed</td>
-									<td data-label="Time" class="tbl-conval">7:30pm to 10:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026780569" target="_blank">Sign Up Now!</a></td>
-								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Yishun Link CC</td>
 									<td data-label="Date" class="tbl-conval">22 Apr 2020, Wed</td>
