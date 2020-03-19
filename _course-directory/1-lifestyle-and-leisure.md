@@ -414,24 +414,6 @@ collection_name: course-directory
 									<td data-label="Time" class="tbl-conval">6:00pm to 9:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779515" target="_blank">Sign Up Now!</a></td>
 								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Toa Payoh South CC</td>
-									<td data-label="Date" class="tbl-conval">01 Apr 2020, Wed</td>
-									<td data-label="Time" class="tbl-conval">TBC</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Hong Kah North CC</td>
-									<td data-label="Date" class="tbl-conval">06 Apr 2020, Mon</td>
-									<td data-label="Time" class="tbl-conval">7:00pm to 9:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Bukit Merah CC</td>
-									<td data-label="Date" class="tbl-conval">24 Apr 2020, Fri</td>
-									<td data-label="Time" class="tbl-conval">10:00am to 12:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
-								</tr>
 							</tbody>
 						</table></div>
 					</div>
@@ -799,7 +781,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Toa Payoh East CC</td>
-									<td data-label="Date" class="tbl-conval">21 Mar 2020, Sat</td>
+									<td data-label="Date" class="tbl-conval">06 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">10:00am to 1:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777758" target="_blank">Sign Up Now!</a></td>
 								</tr>
