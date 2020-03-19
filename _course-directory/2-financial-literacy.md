@@ -451,7 +451,7 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date" class="tbl-conval">20 April 2020, Mon</td>
+									<td data-label="Date" class="tbl-conval">20 Apr 2020, Mon</td>
 									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776911" target="_blank">Sign Up Now!</a></td>
 								</tr>
