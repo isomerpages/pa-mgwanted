@@ -930,7 +930,7 @@ collection_name: course-directory
 							<tr>
 								<td class="tbl-conval">$20</td>
 								<td class="tbl-conval">$10</td>
-								<td class="tbl-conval">3hrs</td>
+								<td class="tbl-conval">2.5hrs</td>
 							</tr>
 						</table></div>
 					</div>
