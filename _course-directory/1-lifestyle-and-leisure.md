@@ -947,13 +947,13 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Geylang Serai CC</td>
-									<td data-label="Date" class="tbl-conval">4 Apr 2929, Sat</td>
+									<td data-label="Date" class="tbl-conval">4 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">2.30pm to 5.00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026789853" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Geylang Serai CC</td>
-									<td data-label="Date" class="tbl-conval">15 Apr 2929, Wed</td>
+									<td data-label="Date" class="tbl-conval">15 Apr 2020, Wed</td>
 									<td data-label="Time" class="tbl-conval">7.00pm to 9.30pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026787920" target="_blank">Sign Up Now!</a></td>
 								</tr>
