@@ -780,12 +780,6 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Toa Payoh East CC</td>
-									<td data-label="Date" class="tbl-conval">06 Jun 2020, Sat</td>
-									<td data-label="Time" class="tbl-conval">10:00am to 1:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777758" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
 									<td data-label="Date" class="tbl-conval">04 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">1:00pm to 4:00pm</td>
@@ -808,6 +802,12 @@ collection_name: course-directory
 									<td data-label="Date" class="tbl-conval">06 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">1:00pm to 4:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776585" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Toa Payoh East CC</td>
+									<td data-label="Date" class="tbl-conval">06 Jun 2020, Sat</td>
+									<td data-label="Time" class="tbl-conval">10:00am to 1:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777758" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>

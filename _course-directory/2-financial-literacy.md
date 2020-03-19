@@ -305,16 +305,16 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date" class="tbl-conval">16 Apr 2020, Thu</td>
-									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Canberra CC</td>
 									<td data-label="Date" class="tbl-conval">04 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">11:00am to 12:30pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782278" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
+									<td data-label="Date" class="tbl-conval">16 Apr 2020, Thu</td>
+									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Yio Chu Kang CC</td>
