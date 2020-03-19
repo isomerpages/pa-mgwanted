@@ -43,26 +43,9 @@ collection_name: course-directory
 								<td class="tbl-conval">1hr</td>
 							</tr>
 						</table></div>
-					</div>
+					</div>					
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Location</th>
-									<th scope="col" class="tbl-subhdr">Date</th>
-									<th scope="col" class="tbl-subhdr">Time</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
-									<td data-label="Date" class="tbl-conval">29 Mar 2020, Sun</td>
-									<td data-label="Time" class="tbl-conval">10:00am to 11:00am</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778518" target="_blank">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>				
 				<div class="tab">
@@ -484,7 +467,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Buona Vista CC</td>
-									<td data-label="Date" class="tbl-conval">25 Mar 2020, Wed</td>
+									<td data-label="Date" class="tbl-conval">8 Apr 2020, Wed</td>
 									<td data-label="Time" class="tbl-conval">2:00pm to 3:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778961" target="_blank">Sign Up Now!</a></td>
 								</tr>

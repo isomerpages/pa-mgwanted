@@ -305,16 +305,16 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date" class="tbl-conval">19 Mar 2020, Thu</td>
-									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Canberra CC</td>
 									<td data-label="Date" class="tbl-conval">04 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">11:00am to 12:30pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782278" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
+									<td data-label="Date" class="tbl-conval">16 Apr 2020, Thu</td>
+									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776871" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Yio Chu Kang CC</td>
@@ -420,22 +420,10 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
-									<td data-label="Date" class="tbl-conval">18 Mar 2020, Wed</td>
-									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777219" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Canberra CC</td>
 									<td data-label="Date" class="tbl-conval">21 Mar 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">11:00am to 12:30pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026782271" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date" class="tbl-conval">23 Mar 2020, Mon</td>
-									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776911" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Bukit Batok CC</td>
@@ -451,9 +439,21 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
+									<td data-label="Date" class="tbl-conval">15 Apr 2020, Wed</td>
+									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777219" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
 									<td data-label="Date" class="tbl-conval">18 Apr 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">2:30pm to 4:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777221" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Hwi Yoh CC</td>
+									<td data-label="Date" class="tbl-conval">20 Apr 2020, Mon</td>
+									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776911" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Ci Yuan CC</td>
@@ -490,12 +490,6 @@ collection_name: course-directory
 									<td data-label="Date" class="tbl-conval">06 Jun 2020, Sat</td>
 									<td data-label="Time" class="tbl-conval">10:00am to 11:30am</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026776317" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Location" class="tbl-conval">Anchorvale CC</td>
-									<td data-label="Date" class="tbl-conval">TBC</td>
-									<td data-label="Time" class="tbl-conval">TBC</td>
-									<td data-label="Sign Up" class="tbl-conval">Sign Up Now!</td>
 								</tr>
 							</tbody>
 						</table></div>
