@@ -13,8 +13,6 @@ Whatever sparks your passions or fire up your interests, there is always somethi
 
 Download the brochure to find out the listing of courses, interest groups and volunteering opportunities at over 100 Community Club island-wide.
 
-![PA Merdeka Generation programmes](/images/course-directory/sample-central-brochure.jpg)
-
 * Central District Brochure (Coming Soon)
 * North-West District Brochure (Coming Soon)
 * South-West District Brochure (Coming Soon)
