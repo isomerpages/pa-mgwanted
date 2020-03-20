@@ -432,16 +432,16 @@ collection_name: course-directory
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026779388" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
-									<td data-label="Location" class="tbl-conval">Chong Pang CC</td>
-									<td data-label="Date" class="tbl-conval">17 Apr 2020, Fri</td>
-									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778284" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
 									<td data-label="Date" class="tbl-conval">15 Apr 2020, Wed</td>
 									<td data-label="Time" class="tbl-conval">7:30pm to 9:00pm</td>
 									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026777219" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Location" class="tbl-conval">Chong Pang CC</td>
+									<td data-label="Date" class="tbl-conval">17 Apr 2020, Fri</td>
+									<td data-label="Time" class="tbl-conval">2:00pm to 3:30pm</td>
+									<td data-label="Sign Up" class="tbl-conval"><a href="https://www.onepa.sg/class/details/c026778284" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Location" class="tbl-conval">Ang Mo Kio CC</td>
