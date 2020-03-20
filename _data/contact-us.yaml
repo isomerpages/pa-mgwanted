@@ -5,11 +5,12 @@
 ##################################
 
 #Contact Us
-#locations:
-#  # HQ Address [REQUIRED]
-#  - title: People's Association Headquarters
-#    address: 9 King George's Avenue<br>Singapore 208581
-#    find-directions: https://goo.gl/maps/BR3UhBwJJmX2aXQF8
+
+locations:
+   # HQ Address [REQUIRED]
+  - title: People's Association Headquarters
+    address: 9 King George's Avenue<br>Singapore 208581
+    find-directions: https://goo.gl/maps/BR3UhBwJJmX2aXQF8
 #  # Operating Hours [OPTIONAL]
 #    operating-hours:
 #      - days: Mon - Fri
