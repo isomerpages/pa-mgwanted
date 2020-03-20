@@ -15,4 +15,4 @@ Download the brochure to find out the listing of courses, interest groups and vo
 
 ![PA Merdeka Generation programmes](/images/course-directory/sample-brochure-v2.jpg)
 
-* Issue 2 (April to July 2020) Brochure (Coming Soon)
+* Issue 2 Brochure - April to July 2020 (Coming Soon)
