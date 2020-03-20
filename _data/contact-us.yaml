@@ -25,7 +25,7 @@ column:
     - line: PA_lifeskills_lifestyle@pa.gov.sg (email)
     # If you have an email, put (email) after the actual email
 
-   - title: Hotline
+  - title: Hotline
     content:
     - line: +65 6344 8222 / 6225 5322
 
