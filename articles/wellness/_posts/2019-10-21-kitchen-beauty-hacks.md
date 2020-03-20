@@ -47,7 +47,7 @@ Use this black pepper body scrub once a week to get rid of acne! And if you are 
 5. Wash off with lukewarm water.
 
 **Why It Works:**  
-Black pepper is a great organic exfoliator. It helps to clear acne and blackheads by scrubbing away excess oil and bacteria! To learn how to make more nourishing body scrubs at home, join us at our [D.I.Y Body Scrub](../../course-directory/health-and-wellness/#diy-body-scrub) course at a CC near you!
+Black pepper is a great organic exfoliator. It helps to clear acne and blackheads by scrubbing away excess oil and bacteria! To learn how to make more nourishing body scrubs at home, join us at our D.I.Y Body Scrub course at a CC near you!
 
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img3.jpg)
 

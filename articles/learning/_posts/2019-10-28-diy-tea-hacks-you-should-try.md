@@ -25,6 +25,6 @@ Used tea leaves are a great eco fertiliser. They contain nitrogen, phosphorus an
 
 ![DIY Tea Hacks You Should Try](/images/content-articles/learning/diy-tea-hacks-you-should-try-img4.jpg)
 
-There are so many things you can do with this versatile beverage but I’m sure we can all agree that drinking it is still at the top of the list. Connect with other tea lovers at [Theanine! Colours of Tea](../../course-directory/lifestyle-and-leisure/#theanine-colours-of-tea) and discover how different teas are processed. And if you love local dishes, sign up for our [Theanine! Tea pairing with Savoury & Spicy Food](../../course-directory/lifestyle-and-leisure/#theanine-tea-pairing-with-savoury-spicy-food) course to learn how to pair specialty teas with favourites like laksa, mee rebus and even local kuehs!
+There are so many things you can do with this versatile beverage but I’m sure we can all agree that drinking it is still at the top of the list. Connect with other tea lovers at Theanine! Colours of Tea and discover how different teas are processed. And if you love local dishes, sign up for our Theanine! Tea pairing with Savoury & Spicy Food course to learn how to pair specialty teas with favourites like laksa, mee rebus and even local kuehs!
 
 

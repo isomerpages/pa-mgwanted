@@ -16,11 +16,11 @@ Turn your kitchen into a world of wonder! From cooking to baking, there are so m
 ![A Family-Friendly Guide To Bad Weather Days](/images/content-articles/hobbies/a-family-friendly-guide-to-bad-weather-days-img2.jpg)
 
 ### PASTEL NAGOMI ART
-Who needs paintbrushes when you can use your fingers? Japanese Nagomi Art gives your grandchildren all the hands-on fun of finger-painting, without the mess! Using soft pastels, create colourful, calming works of art that soothe the mind and reduce stress. Gain an understanding of [Basic Pastel Nagomi Art](../../course-directory/lifestyle-and-leisure/#basic-pastel-nagomi-art) and share your knowledge with your loved ones!
+Who needs paintbrushes when you can use your fingers? Japanese Nagomi Art gives your grandchildren all the hands-on fun of finger-painting, without the mess! Using soft pastels, create colourful, calming works of art that soothe the mind and reduce stress. Gain an understanding of Basic Pastel Nagomi Art and share your knowledge with your loved ones!
 
 ![A Family-Friendly Guide To Bad Weather Days](/images/content-articles/hobbies/a-family-friendly-guide-to-bad-weather-days-img3.jpg)
 
 ### HOME GARDENING
-Get the whole family involved with some home gardening! Pick up a few containers and tools and start your own simple garden with a few seeds. You can even grow plants like jade and rosemary by placing cuttings of their leaves or stems in water! Join us for [Home Gardening](../../course-directory/lifestyle-and-leisure/#home-gardening) to pick up some tips on gardening techniques and the best plants to grow in our tropical climate.
+Get the whole family involved with some home gardening! Pick up a few containers and tools and start your own simple garden with a few seeds. You can even grow plants like jade and rosemary by placing cuttings of their leaves or stems in water! Join us for Home Gardening to pick up some tips on gardening techniques and the best plants to grow in our tropical climate.
 
 ![A Family-Friendly Guide To Bad Weather Days](/images/content-articles/hobbies/a-family-friendly-guide-to-bad-weather-days-img4.jpg)
