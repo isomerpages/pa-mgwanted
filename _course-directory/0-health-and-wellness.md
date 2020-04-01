@@ -43,6 +43,9 @@ collection_name: course-directory
 								<td class="tbl-conval">1hr</td>
 							</tr>
 						</table></div>
+					</div>										
+					<div class="tab-content">
+						<div class="tbl-wrap">Course schedule available soon.</div>
 					</div>
 				</div>				
 				<div class="tab">
