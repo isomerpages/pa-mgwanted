@@ -14,12 +14,9 @@ So, when the craving strikes or if it’s not convenient to head out to a dim su
 
 ### HAR GOW (SHRIMP DUMPLING)
 
-**PREP TIME:** 
-1 hr
-**COOK TIME:** 
-20 mins
-**TOTAL TIME:** 
-1 hr 20 mins
+**PREP TIME:** 1 hr
+**COOK TIME:** 20 mins
+**TOTAL TIME:** 1 hr 20 mins
 
 Makes 18 dumplings, 3 dumplings per serving.
 
@@ -59,12 +56,9 @@ Mix wheat starch and corn starch in a mixing bowl. Add boiling water slowly whil
 
 ### CHICKEN SHUMAI
 
-**PREP TIME:** 
-40 mins
-**COOK TIME:** 
-8 mins
-**TOTAL TIME:** 
-48 mins
+**PREP TIME:** 40 mins
+**COOK TIME:** 8 mins
+**TOTAL TIME:** 48 mins
 
 Makes 25 – 30 dumplings.
 
@@ -98,12 +92,9 @@ Makes 25 – 30 dumplings.
 
 ### TARO CAKE
 
-**PREP TIME:** 
-25 mins
-**COOK TIME:** 
-35 mins
-**TOTAL TIME:** 
-41 hr
+**PREP TIME:** 25 mins
+**COOK TIME:** 35 mins
+**TOTAL TIME:** 1 hr
 
 **Ingredients A:**
 - 140g taro (weight after removing the skin)
