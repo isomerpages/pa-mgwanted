@@ -14,8 +14,8 @@ So, when the craving strikes or if it’s not convenient to head out to a dim su
 
 ### HAR GOW (SHRIMP DUMPLING)
 
-**PREP TIME:** 1 hr
-**COOK TIME:** 20 mins
+**PREP TIME:** 1 hr<br>
+**COOK TIME:** 20 mins<br>
 **TOTAL TIME:** 1 hr 20 mins
 
 Makes 18 dumplings, 3 dumplings per serving.
@@ -41,10 +41,10 @@ Makes 18 dumplings, 3 dumplings per serving.
 
 **Instructions:**
 
-**For the filling:**
+**For the filling:**<br>
 Mix everything together, except the bamboo shoots. Whip in one direction for a few minutes until the mixture starts to look sticky. Add bamboo shoots next and mix everything together. Cover and refrigerate while preparing the dough.
 
-**For the dough:**
+**For the dough:**<br>
 Mix wheat starch and corn starch in a mixing bowl. Add boiling water slowly while stirring rapidly. Now add the lard and continue stirring. Knead the dough for a couple of minutes until it turns into a smooth dough ball. Roll the dough into a long cylinder, and divide it into 18 equal pieces. Cover the dough pieces with a damp paper towel.
 
 **Assembling and cooking the dumplings:**
@@ -56,8 +56,8 @@ Mix wheat starch and corn starch in a mixing bowl. Add boiling water slowly whil
 
 ### CHICKEN SHUMAI
 
-**PREP TIME:** 40 mins
-**COOK TIME:** 8 mins
+**PREP TIME:** 40 mins<br>
+**COOK TIME:** 8 mins<br>
 **TOTAL TIME:** 48 mins
 
 Makes 25 – 30 dumplings.
@@ -92,8 +92,8 @@ Makes 25 – 30 dumplings.
 
 ### TARO CAKE
 
-**PREP TIME:** 25 mins
-**COOK TIME:** 35 mins
+**PREP TIME:** 25 mins<br>
+**COOK TIME:** 35 mins<br>
 **TOTAL TIME:** 1 hr
 
 **Ingredients A:**
@@ -135,4 +135,5 @@ Makes 25 – 30 dumplings.
 
  ![Dim Sum Delights](/images/content-articles/hobbies/dim-sum-delights-img4.jpg)
 
-Have an appetite for good Chinese fare? Then join us for [Sumptuous Cantonese Cuisine](../../course-directory/lifestyle-and-leisure/#sumptuouscantonesecuisine) at a CC near you and learn how to whip up delicious Cantonese dishes at home!
+Have an appetite for good Chinese fare?<br>
+Then join us for [Sumptuous Cantonese Cuisine](../../course-directory/lifestyle-and-leisure/#sumptuouscantonesecuisine) at a CC near you and learn how to whip up delicious Cantonese dishes at home!

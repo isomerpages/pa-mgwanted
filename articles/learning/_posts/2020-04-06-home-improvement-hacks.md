@@ -25,5 +25,5 @@ Don't give up on removing a stripped or worn-out screw – the situation is stil
 
 ![Home Improvement Hacks](/images/content-articles/learning/home-improvement-hacks-img4.jpg)
 
-Inspired to become a handyman in your own household?
+Inspired to become a handyman in your own household?<br>
 Learn more tips by signing up for [Be a Handyman – Home Electrical Maintenance!](../../course-directory/lifelong-learning/#beahandymanhomeelectricalmaintenanceb) course at a CC near you!
