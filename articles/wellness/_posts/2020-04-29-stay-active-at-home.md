@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stay Active at Home
-date: 2020-05-04
+date: 2020-04-29
 permalink: /articles/wellness/stay-active-at-home
 breadcrumb: Wellness
 collection_name: articles

@@ -31,3 +31,10 @@ Join us for our online class [Keep Your Mind Sharp with Sudoku](../../course-dir
     data-width="auto"
     data-show-captions="false">
 </div>
+
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
