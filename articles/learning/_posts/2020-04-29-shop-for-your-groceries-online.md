@@ -34,25 +34,25 @@ Once you’ve checked out your items, all that’s left to do is wait for your g
 Take a look at the list below so you know where to shop for your dietary needs:
 
 **General Groceries:**
-- [fairprice.com.sg](https://www.fairprice.com.sg/)
-- [coldstorage.com.sg](https://coldstorage.com.sg/)
-- [shengsiong.com.sg](http://shengsiong.com.sg/)
-- [giant.sg](https://giant.sg/)
+- [fairprice.com.sg](https://www.fairprice.com.sg/){:target="_blank"}
+- [coldstorage.com.sg](https://coldstorage.com.sg/){:target="_blank"}
+- [shengsiong.com.sg](http://shengsiong.com.sg/){:target="_blank"}
+- [giant.sg](https://giant.sg/){:target="_blank"}
 
 **Fresh Produce**
-- [songfish.com.sg](https://songfish.com.sg/)
-- [marketfresh.com.sg](https://marketfresh.com.sg/)
-- [purelyfresh.com.sg](hhttps://purelyfresh.com.sg/)
+- [songfish.com.sg](https://songfish.com.sg/){:target="_blank"}
+- [marketfresh.com.sg](https://marketfresh.com.sg/){:target="_blank"}
+- [purelyfresh.com.sg](hhttps://purelyfresh.com.sg/){:target="_blank"}
 
 **Halal Certified**
-- [mynikmart.sg](https://mynikmart.sg/)
-- [adamhalal.sg](https://adamhalal.sg/)
-- [csfoods.sg](https://csfoods.sg/)
+- [mynikmart.sg](https://mynikmart.sg/){:target="_blank"}
+- [adamhalal.sg](https://adamhalal.sg/){:target="_blank"}
+- [csfoods.sg](https://csfoods.sg/){:target="_blank"}
 
 **Premium Produce**
-- [ryansgrocery.com](https://www.ryansgrocery.com/)
-- [thefarmersmarket.com.sg](https://www.farmersmarket.com.sg/)
-- [sashasfinefoods.com](https://sashasfinefoods.com/)
+- [ryansgrocery.com](https://www.ryansgrocery.com/){:target="_blank"}
+- [thefarmersmarket.com.sg](https://www.farmersmarket.com.sg/){:target="_blank"}
+- [sashasfinefoods.com](https://sashasfinefoods.com/){:target="_blank"}
 
 Learn from PA Trainer Chua Li Huay in our Virtual CC video below, as she provides step-by-step instructions on how to shop and pay for your groceries online!
 
