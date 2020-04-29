@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stay Smart and Sharp during Circuit Breaker
-date: 2020-05-04
+date: 2020-04-29
 permalink: /articles/learning/stay-smart-and-sharp-during-circuit-breaker
 breadcrumb: Learning
 collection_name: articles
@@ -25,16 +25,6 @@ Keeping your mind active can be difficult when you have the same routine everyda
 
 Join us for our online class [Keep Your Mind Sharp with Sudoku](../../course-directory/lifelong-learning/#keepyourmindsharpwithsuduko), and occupy your time with a brain-boosting activity at home. 
 
-<script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-<div class="fb-video"
-    data-href="https://www.facebook.com/watch/?v=669740517154793"
-    data-width="auto"
-    data-show-captions="false">
+<div class="facebook-responsive">
+    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMGsWanted%2Fvideos%2F669740517154793%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
 </div>
-
-
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
