@@ -23,13 +23,4 @@ Giving yourself a break is crucial to your ability to stay mindful and focused. 
 ### TAKE BRAIN BREAKS
 Keeping your mind active can be difficult when you have the same routine everyday without a change of scenery. But there are actually many simple ways to stay sharp. Take short breaks for your brain by playing a card game or completing puzzles like crosswords and jigsaws. 
 
-Join us for our online class [Keep Your Mind Sharp with Sudoku](../../course-directory/lifelong-learning/#keepyourmindsharpwithsuduko), and occupy your time with a brain-boosting activity at home. 
-
-<div class="facebook-responsive">
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMGsWanted%2Fvideos%2F247586753280916%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
-
-<div class="facebook-responsive">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BU1tzWTeCNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+Join us for our online class [Keep Your Mind Sharp with Sudoku](https://www.facebook.com/721451948309789/videos/247586753280916/){:target="_blank"}, and occupy your time with a brain-boosting activity at home.
