@@ -44,8 +44,4 @@ If you want to impress your grandkids or just prefer being caffeine-free, whip u
 
  ![Homemade Dalgona Drinks](/images/content-articles/hobbies/homemade-dalgona-drinks-img4.jpg)
 
-Watch our e-learning video below and learn how to make your very own Dalgona coffee with PA Trainer Anthony Lee!
-
-<div class="facebook-responsive">
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMGsWanted%2Fvideos%2F268740457619727%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
+Watch our [e-learning video](https://www.facebook.com/MGsWanted/videos/268740457619727/){:target="_blank"} and learn how to make your very own Dalgona coffee with PA Trainer Anthony Lee!

@@ -54,8 +54,4 @@ Take a look at the list below so you know where to shop for your dietary needs:
 - [thefarmersmarket.com.sg](https://www.farmersmarket.com.sg/){:target="_blank"}
 - [sashasfinefoods.com](https://sashasfinefoods.com/){:target="_blank"}
 
-Learn from PA Trainer Chua Li Huay in our Virtual CC video below, as she provides step-by-step instructions on how to shop and pay for your groceries online!
-
-<div class="facebook-responsive">
-    <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMGsWanted%2Fvideos%2F669740517154793%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-</div>
+Learn from PA Trainer Chua Li Huay in our [Virtual CC video](https://www.facebook.com/721451948309789/videos/669740517154793/){:target="_blank"}, as she provides step-by-step instructions on how to shop and pay for your groceries online!
