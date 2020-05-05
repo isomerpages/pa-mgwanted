@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Homemade Dalgona Drinks
-date: 2020-04-29
+date: 2020-05-05
 permalink: /articles/hobbies/homemade-dalgona-drinks
 breadcrumb: Hobbies
 collection_name: articles
@@ -26,7 +26,6 @@ Dalgona coffee is the new viral favourite of coffee lovers in self-isolation –
 3. Pour the milk into a tall glass, leaving ¼ of the glass empty. You can add ice or warm the milk for a hot coffee.
 4. Spoon the coffee cream into the glass of milk and let it dissolve or stir to combine more quickly. 
 5. Savour your homemade Dalgona coffee!
-
 
 ![Homemade Dalgona Drinks](/images/content-articles/hobbies/homemade-dalgona-drinks-img2.jpg)
 
