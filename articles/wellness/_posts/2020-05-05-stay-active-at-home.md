@@ -21,5 +21,4 @@ Turn housework into mini games so you have a fun way to exercise. Vacuum the roo
 ![Stay Active at Home](/images/content-articles/wellness/stay-active-at-home-img3.jpg)
 
 ### GO ONLINE
-Follow an online exercise class like our [Cardio Pilates Workout](https://www.facebook.com/1605595636318543/videos/211582556830281/){:target="_blank"} so you have a guided routine to do at home. Most online classes require little to no equipment, and you can decide what kind of exercise you prefer as well as which level of intensity is right for you. 
-
+Follow an online exercise class like our [Cardio Pilates Workout](https://www.facebook.com/1605595636318543/videos/211582556830281/){:target="_blank"} so you have a guided routine to do at home. Most online classes require little to no equipment, and you can decide what kind of exercise you prefer as well as which level of intensity is right for you.

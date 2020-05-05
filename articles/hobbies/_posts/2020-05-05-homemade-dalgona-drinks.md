@@ -27,7 +27,6 @@ Dalgona coffee is the new viral favourite of coffee lovers in self-isolation –
 4. Spoon the coffee cream into the glass of milk and let it dissolve or stir to combine more quickly. 
 5. Savour your homemade Dalgona coffee!
 
-
 ![Homemade Dalgona Drinks](/images/content-articles/hobbies/homemade-dalgona-drinks-img2.jpg)
 
 
