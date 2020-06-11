@@ -33,19 +33,23 @@ collection_name: course-directory
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<tr>
-								<th scope="col" class="tbl-subhdr">Course Fee</th>
-								<th scope="col" class="tbl-subhdr">Material Fee</th>
-								<th scope="col" class="tbl-subhdr">Duration</th>
-								<th scope="col" class="tbl-subhdr">Location</th>
-							</tr>
-							<tr>
-								<td data-label="Course Fee" class="tbl-conval">Free</td>
-								<td data-label="Material Fee" class="tbl-conval">NA</td>
-								<td data-label="Duration" class="tbl-conval">1hr</td>
-								<td data-label="Location" class="tbl-conval">Online</td>
-							</tr>
+						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">Material Fee</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Location</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Course Fee:" class="tbl-conval">Free</td>
+									<td data-label="Material Fee:" class="tbl-conval">NA</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Location:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
 						</table></div>
 					</div>
 					<div class="tab-content">
@@ -60,10 +64,10 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Speaker" class="tbl-conval">Mr Jimmy Ong Gim Guan <br>Ms Ong Yu Teng</td>
-									<td data-label="Host" class="tbl-conval">Ms Ruo Mei<br><em>Chief Impact Officer</em>,<br>SUTW Impact Consulting</td>
-									<td data-label="Date" class="tbl-conval">01 Jul 2020, Wed <br>3.00pm to 4.00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-010720" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Speaker:" class="tbl-conval">Mr Jimmy Ong Gim Guan <br>Ms Ong Yu Teng</td>
+									<td data-label="Host:" class="tbl-conval">Ms Ruo Mei<br><em>Chief Impact Officer,<br>SUTW Impact Consulting</em></td>
+									<td data-label="Date:" class="tbl-conval">01 Jul 2020, Wed <br>3.00pm to 4.00pm</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-010720" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -84,19 +88,23 @@ collection_name: course-directory
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<tr>
-								<th scope="col" class="tbl-subhdr">Course Fee</th>
-								<th scope="col" class="tbl-subhdr">Material Fee</th>
-								<th scope="col" class="tbl-subhdr">Duration</th>
-								<th scope="col" class="tbl-subhdr">Location</th>
-							</tr>
-							<tr>
-								<td data-label="Course Fee" class="tbl-conval">Free</td>
-								<td data-label="Material Fee" class="tbl-conval">NA</td>
-								<td data-label="Duration" class="tbl-conval">1hr</td>
-								<td data-label="Location" class="tbl-conval">Online</td>
-							</tr>
+						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">Material Fee</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Location</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Course Fee:" class="tbl-conval">Free</td>
+									<td data-label="Material Fee:" class="tbl-conval">NA</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Location:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
 						</table></div>
 					</div>
 					<div class="tab-content">
@@ -111,10 +119,10 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Speaker" class="tbl-conval">Mr. Suresh Nair<br><em>Director/Executive Coach</em>,<br>CELLS Management and Consultancy Pte Ltd.</td>
-									<td data-label="Host" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer</em>,<br>Caregiver Asia</td>
-									<td data-label="Date" class="tbl-conval">22 Jun 2020, Mon <br>3.00pm to 4.00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-220620" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Speaker:" class="tbl-conval">Mr. Suresh Nair<br><em>Director/Executive Coach,<br>CELLS Management and Consultancy Pte Ltd.</em></td>
+									<td data-label="Host:" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer,<br>Caregiver Asia</em></td>
+									<td data-label="Date:" class="tbl-conval">22 Jun 2020, Mon <br>3.00pm to 4.00pm</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-220620" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -135,19 +143,23 @@ collection_name: course-directory
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<tr>
-								<th scope="col" class="tbl-subhdr">Course Fee</th>
-								<th scope="col" class="tbl-subhdr">Material Fee</th>
-								<th scope="col" class="tbl-subhdr">Duration</th>
-								<th scope="col" class="tbl-subhdr">Location</th>
-							</tr>
-							<tr>
-								<td data-label="Course Fee" class="tbl-conval">Free</td>
-								<td data-label="Material Fee" class="tbl-conval">NA</td>
-								<td data-label="Duration" class="tbl-conval">1hr</td>
-								<td data-label="Location" class="tbl-conval">Online</td>
-							</tr>
+						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">Material Fee</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Location</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Course Fee:" class="tbl-conval">Free</td>
+									<td data-label="Material Fee:" class="tbl-conval">NA</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Location:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
 						</table></div>
 					</div>
 					<div class="tab-content">
@@ -162,10 +174,10 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Speaker" class="tbl-conval">Mr. Koh Juay Meng<br><em>Chairman,<br>RSVP Singapore</em></td>
-									<td data-label="Host" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer,<br>Caregiver Asia</em></td>
-									<td data-label="Date" class="tbl-conval">24 Jun 2020, Wed <br> 3.00pm to 4.00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-240620" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Speaker:" class="tbl-conval">Mr. Koh Juay Meng<br><em>Chairman,<br>RSVP Singapore</em></td>
+									<td data-label="Host:" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer,<br>Caregiver Asia</em></td>
+									<td data-label="Date:" class="tbl-conval">24 Jun 2020, Wed <br> 3.00pm to 4.00pm</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-240620" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -187,19 +199,23 @@ collection_name: course-directory
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<tr>
-								<th scope="col" class="tbl-subhdr">Course Fee</th>
-								<th scope="col" class="tbl-subhdr">Material Fee</th>
-								<th scope="col" class="tbl-subhdr">Duration</th>
-								<th scope="col" class="tbl-subhdr">Location</th>
-							</tr>
-							<tr>
-								<td data-label="Course Fee" class="tbl-conval">Free</td>
-								<td data-label="Material Fee" class="tbl-conval">NA</td>
-								<td data-label="Duration" class="tbl-conval">1hr</td>
-								<td data-label="Location" class="tbl-conval">Online</td>
-							</tr>
+						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">Material Fee</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Location</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Course Fee:" class="tbl-conval">Free</td>
+									<td data-label="Material Fee:" class="tbl-conval">NA</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Location:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
 						</table></div>
 					</div>
 					<div class="tab-content">
@@ -214,10 +230,10 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Speaker" class="tbl-conval">Mr. Koh Juay Meng<br><em>Chairman,<br>RSVP Singapore</em></td>
-									<td data-label="Host" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer,<br>Caregiver Asia</em></td>
-									<td data-label="Date and Time" class="tbl-conval">26 Jun 2020, Fr <br>3.00pm to 4.00pm</td>
-									<td data-label="Sign Up" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-260620" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Speaker:" class="tbl-conval">Mr. Koh Juay Meng<br><em>Chairman,<br>RSVP Singapore</em></td>
+									<td data-label="Host:" class="tbl-conval">Ms Yeo Wan Ling<br><em>Chief Executive Officer,<br>Caregiver Asia</em></td>
+									<td data-label="Date and Time:" class="tbl-conval">26 Jun 2020, Fr <br>3.00pm to 4.00pm</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://go.gov.sg/mgswanted-260620" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
