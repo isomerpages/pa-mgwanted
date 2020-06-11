@@ -481,6 +481,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
     h4{
       color: $cd-color-health-wellness;
+      strong {
+        color: $cd-color-health-wellness;
+      }    
     }
   }
   .tabs.lifestyleLeisure {
@@ -504,6 +507,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
     h4{
       color: $cd-color-lifestyle-leisure;
+      strong {
+        color: $cd-color-lifestyle-leisure;
+      }    
     }
   }
   .tabs.financialLiteracy {
@@ -527,6 +533,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
     h4{
       color: $cd-color-financial-literacy;
+      strong {
+        color: $cd-color-financial-literacy;
+      }    
     }
   }
   .tabs.lifelongLearning {
@@ -550,6 +559,9 @@ $desktop: 960px + (2 * $gap) !default;
     }
     h4{
       color: $cd-color-lifelong-learning;
+      strong {
+        color: $cd-color-lifelong-learning;
+      }    
     }
   }
   .tbl {
