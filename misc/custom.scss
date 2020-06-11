@@ -647,7 +647,7 @@ $desktop: 960px + (2 * $gap) !default;
           content: attr(data-label); 
           display: inline-block; 
           font-weight: bold;
-          min-width: 5em;
+          min-width: 7em;
         } 
       }    
     }
