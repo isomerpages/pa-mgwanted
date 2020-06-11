@@ -479,6 +479,9 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-health-wellness;
+    }
   }
   .tabs.lifestyleLeisure {
     .tab-label {
@@ -498,6 +501,9 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifestyle-leisure;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifestyle-leisure;
     }
   }
   .tabs.financialLiteracy {
@@ -519,6 +525,9 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-financial-literacy;
+    }
   }
   .tabs.lifelongLearning {
     .tab-label {
@@ -538,6 +547,9 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifelong-learning;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifelong-learning;
     }
   }
   .tbl {
