@@ -479,6 +479,12 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-health-wellness;
+      strong {
+        color: $cd-color-health-wellness;
+      }    
+    }
   }
   .tabs.lifestyleLeisure {
     .tab-label {
@@ -498,6 +504,12 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifestyle-leisure;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifestyle-leisure;
+      strong {
+        color: $cd-color-lifestyle-leisure;
+      }    
     }
   }
   .tabs.financialLiteracy {
@@ -519,6 +531,12 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-financial-literacy;
+      strong {
+        color: $cd-color-financial-literacy;
+      }    
+    }
   }
   .tabs.lifelongLearning {
     .tab-label {
@@ -538,6 +556,12 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifelong-learning;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifelong-learning;
+      strong {
+        color: $cd-color-lifelong-learning;
+      }    
     }
   }
   .tbl {
@@ -581,6 +605,11 @@ $desktop: 960px + (2 * $gap) !default;
     padding: 0; 
     width: 100%; 
     table-layout: fixed; 
+  }
+  table.tblonline{
+    .tbl-subhdr {
+      &:last-child { width: 8rem; }
+    }
   }
   .img-desc-container{
     display: flex; 
@@ -642,7 +671,20 @@ $desktop: 960px + (2 * $gap) !default;
           content: attr(data-label); 
           display: inline-block; 
           font-weight: bold;
-          min-width: 5em;
+          min-width: 7em;
+        } 
+      }    
+    }
+    .tblonline {
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 100%;
         } 
       }    
     }
