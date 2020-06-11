@@ -582,6 +582,11 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%; 
     table-layout: fixed; 
   }
+  table.tblonline{
+    .tbl-subhdr {
+      &:last-child { width: 8rem; }
+    }
+  }
   .img-desc-container{
     display: flex; 
     flex-wrap: nowrap;
@@ -643,6 +648,19 @@ $desktop: 960px + (2 * $gap) !default;
           display: inline-block; 
           font-weight: bold;
           min-width: 5em;
+        } 
+      }    
+    }
+    .tblonline {
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 100%;
         } 
       }    
     }
