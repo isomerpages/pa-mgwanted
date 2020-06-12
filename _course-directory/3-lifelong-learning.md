@@ -74,13 +74,13 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="nurturingthrougheffectivecoachingconversationseng"></a>
+					<a name="nurturingthrougheffectiveconversationseng"></a>
 					<input type="checkbox" id="chck2020online_2">
-					<label class="tab-label" for="chck2020online_2">Nurturing your Loved Ones through Effective Coaching Conversation (English)</label>
+					<label class="tab-label" for="chck2020online_2">Nurturing your Loved Ones through Effective Conversation (English)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifelong-learning/tbn-nurturing-loved-ones-through-conversation.jpg" alt="Nurturing your Loved Ones through Effective Coaching Conversation"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-nurturing-loved-ones-through-conversation.jpg" alt="Nurturing your Loved Ones through Effective Conversation"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Meaningful conversations are essential in strengthening parent child relationship. Through this course, learn how you can foster shared understanding, while diminishing barriers between you and your loved ones.</p>
