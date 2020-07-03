@@ -27,10 +27,9 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-hatha-yoga-elementary-online.jpg" alt="Hatha Yoga (Elementary)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Learn the basics of hatha yoga, the ancient Indian art of healing, toning and rejuvenating the body and bringing about a sense of calm and peace through special postures (asanas), breathing exercises and concentration. The programme, teaches basic yoga postures and breathing techniques to help nourish not only the body but also the mind.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Lim Li Peng, Rita Jain</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>								
+								<p>Learn the basics of hatha yoga, the ancient Indian art of healing, toning and rejuvenating the body and bringing about a sense of calm and peace through special postures (asanas), breathing exercises and concentration. The programme, teaches basic yoga postures and breathing techniques to help nourish not only the body but also the mind.</p>								
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Lim Li Peng, Rita Jain</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
 						</div>
 					</div>
@@ -127,9 +126,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Health Qigong is a set of traditional keep-fit exercises integrating the adjustments of body, breath and mind. It consists of 4 sets of Health Qigong via Yi Jin Qing, Wu Qin Xi, Liu Zi Jue and Ba Duan Jin using scientifically proven methods and research on traditional qigong practices, modern medicine and more.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Alice Ho Soon Kim, Jeffrey Chong Siak Choy</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p><strong>PA Operators</strong>:<br>Alice Ho Soon Kim, Jeffrey Chong Siak Choy</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>
@@ -237,10 +235,9 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Introduction to Chair Yoga"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Bored of normal Yoga? Chair Yoga is a gentler form of Hatha Yoga that adapts traditional poses using a chair for support. A natural stress-buster for all ages.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Academy of Yoga Pte. Ltd</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p>Bored of normal Yoga? Chair Yoga is a gentler form of Hatha Yoga that adapts traditional poses using a chair for support. A natural stress-buster for all ages.</p>								
+								<p><strong>PA Operators</strong>:<br>Academy of Yoga Pte. Ltd</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>
@@ -307,10 +304,9 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Stretch Band for Seniors is about strength and conditioning aims to encourage senior citizen to lead an active lifestyle. The class uses stretch bands to help stretch and strengthen the body. Participants will understand basic movement patterns, which helps in fall prevention.</p>
-								<p>*Alternative to stretch band includes towel, bottle, etc</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Tan Wei Siang</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p>*Alternative to stretch band includes towel, bottle, etc</p>								
+								<p><strong>PA Operators</strong>:<br>Tan Wei Siang</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
@@ -378,14 +374,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-tcm-for-weight-management.jpg" alt="TCM for Weight Management"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="TCM for Weight Management"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-tcm-for-weight-management-online.jpg" alt="TCM for Weight Management"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Understand TCMs view about body constitution and how it relates to weight management. Knowing the various TCM treatments available for weight management. Apply TCM principles in our daily living to support weight management goals.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>TCMONG Medicare Pte Ltd</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p>Understand TCMs view about body constitution and how it relates to weight management. Knowing the various TCM treatments available for weight management. Apply TCM principles in our daily living to support weight management goals.</p>								
+								<p><strong>PA Operators</strong>:<br>TCMONG Medicare Pte Ltd</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
@@ -459,14 +453,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-zumba-fitness.jpg" alt="Zumba&reg; Fitness"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Zumba&reg; Fitness"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-zumba-fitness-online.jpg" alt="Zumba&reg; Fitness"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Are you ready to party yourself into shape? That is exactly what the Zumba&reg; program is all about. It is an exhilarating, effective, easy to follow, Latin inspired, calorie burning dance fitness party that is moving millions of people toward joy and health.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Matthew Ang Tiong Wee</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p>Are you ready to party yourself into shape? That is exactly what the Zumba&reg; program is all about. It is an exhilarating, effective, easy to follow, Latin inspired, calorie burning dance fitness party that is moving millions of people toward joy and health.</p>								
+								<p><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
@@ -540,14 +532,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-zumba-fitness.jpg" alt="Zumba&reg; Gold"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Zumba&reg; Gold"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-zumba-gold-online.jpg" alt="Zumba&reg; Gold"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Work up a healthy sweat with Zumba Gold&reg;, modified to suit the needs of active older participants. Move to the beat of zesty Latin music in an invigorating, party-like atmosphere.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Matthew Ang Tiong Wee</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>		
+								<p>Work up a healthy sweat with Zumba Gold&reg;, modified to suit the needs of active older participants. Move to the beat of zesty Latin music in an invigorating, party-like atmosphere.</p>								
+								<p><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					

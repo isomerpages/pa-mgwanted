@@ -28,8 +28,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Join the conversation with this father-daughter duo, as they share tips and answer questions on how to improve communication with your Gen X/Y/Z children, grandchildren and colleagues.</p>		
-								<p><strong>PA Operators<strong>:<br>Irene Teo Li Xin</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>
+								<p><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>

@@ -24,14 +24,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-adult-ballet-introductory.jpg" alt="Adult Ballet Introductory"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Adult Ballet Introductory"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-adult-ballet-introductory-online.jpg" alt="Adult Ballet Introductory"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Ballet is an artistic dance form with precise and highly formalized set steps and gestures characterized by light, graceful movements and requires discipline, artistry and strength from its dancers. This adult ballet class is for adults who wish to learn ballet but have no prior experience in ballet or any dance forms. Students will be introduced to some foundations and technique of ballet. Trainer will be giving instructions, providing demonstrations and explanations and also relevant corrections and feedback to the students during the class. Students are encouraged to be dressed in the below attire, but are welcomed to wear fitting attire they are comfortable in.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Vanessa Chong Wan Ting</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>								
+								<p>Ballet is an artistic dance form with precise and highly formalized set steps and gestures characterized by light, graceful movements and requires discipline, artistry and strength from its dancers. This adult ballet class is for adults who wish to learn ballet but have no prior experience in ballet or any dance forms. Students will be introduced to some foundations and technique of ballet. Trainer will be giving instructions, providing demonstrations and explanations and also relevant corrections and feedback to the students during the class. Students are encouraged to be dressed in the below attire, but are welcomed to wear fitting attire they are comfortable in.</p>								
+								<p><strong>PA Operators</strong>:<br>Vanessa Chong Wan Ting</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
 						</div>
 					</div>
@@ -81,13 +79,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-decoupage-online.jpg" alt="Decoupage"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-decoupage-online.jpg" alt="Decoupage"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Decoupage is the art of decorating a surface with cutouts and then coating it on top with resin. You will learn the basic techniques of how to divide an object into sections, and creatively arrange the layout of patterns on it.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Grace Tan Sio Yen</p>
-								<p><strong>Material Fee<strong>:<br>*Participant to source for own material</p>								
+								<p>Decoupage is the art of decorating a surface with cutouts and then coating it on top with resin. You will learn the basic techniques of how to divide an object into sections, and creatively arrange the layout of patterns on it.</p>								
+								<p><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
+								<p><strong>Material Fee</strong>:<br>*Participant to source for own material</p>								
 							</div>
 						</div>
 					</div>
@@ -155,14 +152,13 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-growing-microgreen-at-home-online.jpg" alt="Growing Microgreen at Home"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-growing-microgreen-at-home-online.jpg" alt="Growing Microgreen at Home"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Microgreens are tiny plants harvested at the seedling stage of growth. Learn how to grow and consume sprouts, shoots and microgreens at home without using expensive or complicated equipment.</p>
-								<p>The one-hour session will cover the nutritional benefits of microgreens, techniques and methods to grow microgreens at home.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Teh Mooi Yan</p>
-								<p><strong>Material Fee<strong>:<br>Participant to buy material on their own prior to class.</p>
+								<p>The one-hour session will cover the nutritional benefits of microgreens, techniques and methods to grow microgreens at home.</p>								
+								<p><strong>PA Operators</strong>:<br>Teh Mooi Yan</p>
+								<p><strong>Material Fee</strong>:<br>Participant to buy material on their own prior to class.</p>
 							</div>
 						</div>
 					</div>
@@ -254,14 +250,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-intro-to-line-dancing.jpg" alt="Intro to Line Dancing"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Intro to Line Dancing"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-intro-to-line-dancing-online.jpg" alt="Intro to Line Dancing"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Brief background of line dance, basc foundations and elements. Get to learn a line dance sequence.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Irene Teo Li Xin</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>
+								<p><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -317,13 +311,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-paper-quilling-online.jpg" alt="Paper Qilling"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-paper-quilling-online.jpg" alt="Paper Qilling"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Paper quilling, which originated from 15th century Europe, is an art of passion and expression. You will learn to transform everyday materials into decorations, picture frames, greeting cards, bookmarks, hanging ornaments and more.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Grace Tan Sio Yen</p>
-								<p><strong>Material Fee<strong>:<br>*Participant to source for own material</p>
+								<p>Paper quilling, which originated from 15th century Europe, is an art of passion and expression. You will learn to transform everyday materials into decorations, picture frames, greeting cards, bookmarks, hanging ornaments and more.</p>								
+								<p><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
+								<p><strong>Material Fee</strong>:<br>*Participant to source for own material</p>
 							</div>
 						</div>
 					</div>
@@ -391,15 +384,13 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-pressed-flowers-workshop.jpg" alt="Pressed Flowers Workshop"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Pressed Flowers Workshop"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-pressed-flowers-workshop-online.jpg" alt="Pressed Flowers Workshop"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Most people want to hold on to flowers with sentimental value. Whether they were a gift from a colleague, friend or  the love one, flowers bring a joy that we want to make last.</p>
-								<p>To preserve your beautiful blooms, as well as those special memories, join our Pressed Flowers workshop </p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Vicki Ling Yuet Ying</p>
-								<p><strong>Material Fee<strong>:<br>$8 to $17  (self purchased)</p>
+								<p>To preserve your beautiful blooms, as well as those special memories, join our Pressed Flowers workshop </p>								
+								<p><strong>PA Operators</strong>:<br>Vicki Ling Yuet Ying</p>
+								<p><strong>Material Fee</strong>:<br>$8 to $17  (self purchased)</p>
 								<p>Direct <a href="https://senseofarts.com/shop/diy-kits/diy-pressed-flower-bookmark-kit/" target="_blank">Link</a> to purchase the DIY Bookmark Prepack Kit-Set</p>
 							</div>
 						</div>
@@ -462,14 +453,13 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/health-wellness/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing"></p> -->
+								<!-- <p><img src="/images/course-directory/lifestyle-leisure/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing"></p> -->
 								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Recreational Karaoke Pop Singing"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Participants will learn the fundamentals of singing, breathing techniques and diaphragm training. They will also learn pronunciation and tempo in music. Reading of simple musical notes is also emphasised.</p>
-								<p>&nbsp;</p>
-								<p><strong>PA Operators<strong>:<br>Gary Tan Chuen Peng</p>
-								<p><strong>Material Fee<strong>:<br>NA</p>
+								<p><strong>PA Operators</strong>:<br>Gary Tan Chuen Peng</p>
+								<p><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
