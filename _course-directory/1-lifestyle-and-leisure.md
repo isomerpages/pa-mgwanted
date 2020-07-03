@@ -28,8 +28,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Ballet is an artistic dance form with precise and highly formalized set steps and gestures characterized by light, graceful movements and requires discipline, artistry and strength from its dancers. This adult ballet class is for adults who wish to learn ballet but have no prior experience in ballet or any dance forms. Students will be introduced to some foundations and technique of ballet. Trainer will be giving instructions, providing demonstrations and explanations and also relevant corrections and feedback to the students during the class. Students are encouraged to be dressed in the below attire, but are welcomed to wear fitting attire they are comfortable in.</p>								
-								<p><strong>PA Operators</strong>:<br>Vanessa Chong Wan Ting</p>
-								<p><strong>Material Fee</strong>:<br>NA</p>								
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Vanessa Chong Wan Ting</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
 						</div>
 					</div>
@@ -56,16 +56,16 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Toa Payoh South CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">31 Jul 2020, Fri<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794826" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -83,8 +83,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Decoupage is the art of decorating a surface with cutouts and then coating it on top with resin. You will learn the basic techniques of how to divide an object into sections, and creatively arrange the layout of patterns on it.</p>								
-								<p><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
-								<p><strong>Material Fee</strong>:<br>*Participant to source for own material</p>								
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>*Participant to source for own material</p>								
 							</div>
 						</div>
 					</div>
@@ -111,34 +111,34 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795164" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Clementi CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">19 Jul 2020, Sun<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794908" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Cairnhill CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">14 Aug 2020, Fri<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794734" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Boon Lay CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">04 Sep 2020, Fri<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795085" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -146,19 +146,19 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="growingmicrogreenathomeeonline"></a>
+					<a name="growingmicrogreensathomeeonline"></a>
 					<input type="checkbox" id="chck2020online_3">
-					<label class="tab-label" for="chck2020online_3">Growing Microgreen at Home</label>
+					<label class="tab-label" for="chck2020online_3">Growing Microgreens at Home</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-growing-microgreen-at-home-online.jpg" alt="Growing Microgreen at Home"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-growing-microgreens-at-home-online.jpg" alt="Growing Microgreens at Home"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Microgreens are tiny plants harvested at the seedling stage of growth. Learn how to grow and consume sprouts, shoots and microgreens at home without using expensive or complicated equipment.</p>
 								<p>The one-hour session will cover the nutritional benefits of microgreens, techniques and methods to grow microgreens at home.</p>								
-								<p><strong>PA Operators</strong>:<br>Teh Mooi Yan</p>
-								<p><strong>Material Fee</strong>:<br>Participant to buy material on their own prior to class.</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Teh Mooi Yan</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>Participant to buy material on their own prior to class.</p>
 							</div>
 						</div>
 					</div>
@@ -185,58 +185,58 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Henderson CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Jul 2020, Sat<br>3:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794822" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nee Soon South CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794782" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Katong CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">22 Aug 2020, Sat<br>10:30am to 11:30am</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794718" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Boon Lay CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Sep 2020, Fri<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795104" target="_blank">Sign Up Now!</a></td>
 								</tr>								
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Radin Mas CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Sep 2020, Fri<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794697" target="_blank">Sign Up Now!</a></td>
 								</tr>								
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Fengshan CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">02 Oct 2020, Fri<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794708" target="_blank">Sign Up Now!</a></td>
 								</tr>							
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Bukit Batok East CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Oct 2020, Sun<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794695" target="_blank">Sign Up Now!</a></td>
 								</tr>					
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">17 Oct 2020, Sat<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794973" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -254,8 +254,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Brief background of line dance, basc foundations and elements. Get to learn a line dance sequence.</p>
-								<p><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
-								<p><strong>Material Fee</strong>:<br>NA</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -282,22 +282,22 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Yew Tee CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">15 Jul 2020, Wed<br>10:00am to 11:30am</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795077" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Queenstown CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Jul 2020, Thu<br>8:00pm to 9:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794444" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -315,8 +315,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Paper quilling, which originated from 15th century Europe, is an art of passion and expression. You will learn to transform everyday materials into decorations, picture frames, greeting cards, bookmarks, hanging ornaments and more.</p>								
-								<p><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
-								<p><strong>Material Fee</strong>:<br>*Participant to source for own material</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>*Participant to source for own material</p>
 							</div>
 						</div>
 					</div>
@@ -343,34 +343,34 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ulu Pandan CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">13 Jul 2020, Mon<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795178" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Clementi CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Jul 2020, Sat<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794904" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Mountbatten CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Aug 2020, Tue<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794748" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Toa Payoh Central CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">05 Sep 2020, Sat<br>10:30am to 11:30am</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794794" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -389,8 +389,8 @@ collection_name: course-directory
 							<div class="desc-container-right">
 								<p>Most people want to hold on to flowers with sentimental value. Whether they were a gift from a colleague, friend or  the love one, flowers bring a joy that we want to make last.</p>
 								<p>To preserve your beautiful blooms, as well as those special memories, join our Pressed Flowers workshop </p>								
-								<p><strong>PA Operators</strong>:<br>Vicki Ling Yuet Ying</p>
-								<p><strong>Material Fee</strong>:<br>$8 to $17  (self purchased)</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Vicki Ling Yuet Ying</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>$8 to $17  (self purchased)</p>
 								<p>Direct <a href="https://senseofarts.com/shop/diy-kits/diy-pressed-flower-bookmark-kit/" target="_blank">Link</a> to purchase the DIY Bookmark Prepack Kit-Set</p>
 							</div>
 						</div>
@@ -418,28 +418,28 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Woodlands Galaxy CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794618" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Teck Ghee CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794796" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Queenstown CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">01 Aug 2020, Sat<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794600" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
@@ -453,13 +453,12 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<!-- <p><img src="/images/course-directory/lifestyle-leisure/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing"></p> -->
-								<p><img src="/images/course-directory/cd-thn-no-image.jpg" alt="Recreational Karaoke Pop Singing"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Participants will learn the fundamentals of singing, breathing techniques and diaphragm training. They will also learn pronunciation and tempo in music. Reading of simple musical notes is also emphasised.</p>
-								<p><strong>PA Operators</strong>:<br>Gary Tan Chuen Peng</p>
-								<p><strong>Material Fee</strong>:<br>NA</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Gary Tan Chuen Peng</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -486,40 +485,40 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Toa Payoh South CC</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>4:30pm to 5:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794820" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Teck Ghee CC</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Jul 2020, Sat<br>3:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794810" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>2:30pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795165" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Aug 2020, Sun<br>1:00pm to 2:00pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794635" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Aug 2020, Sun<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794637" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>

@@ -28,8 +28,8 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Join the conversation with this father-daughter duo, as they share tips and answer questions on how to improve communication with your Gen X/Y/Z children, grandchildren and colleagues.</p>		
-								<p><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
-								<p><strong>Material Fee</strong>:<br>NA</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -56,16 +56,16 @@ collection_name: course-directory
 							<thead>
 								<tr>
 									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Woodlands Galaxy CC</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794618" target="_blank">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
