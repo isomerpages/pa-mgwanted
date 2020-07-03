@@ -624,6 +624,12 @@ $desktop: 960px + (2 * $gap) !default;
       width: 60%; 
       margin: 0 0 0 10px;
     }
+    .desc_extra {      
+      font-size: 1rem;
+      strong {
+        font-size: 1.1rem;
+      }
+    }
     img{
       width: 100%;
     }
