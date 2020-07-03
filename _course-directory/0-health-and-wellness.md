@@ -231,7 +231,7 @@ collection_name: course-directory
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
-							<tbody>]
+							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
@@ -243,6 +243,12 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>10:00am to 11:00am</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794631" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Tiong Bahru CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">15 Jul 2020, Wed<br>2:00pm to 3:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795493" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nee Soon South CC</td>
@@ -417,7 +423,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Teck Ghee CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>9:30am to 10:30am</td>
+									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>10:00am to 11:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794793" target="_blank">Sign Up Now!</a></td>
 								</tr>
