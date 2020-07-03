@@ -27,7 +27,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-chair-yoga-online.jpg" alt="Chair Yoga"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Bored of normal Yoga? Chair Yoga is a gentler form of Hatha Yoga that adapts traditional poses using a chair for support. A natural stress-buster for all ages.</p>								
+								<p>Want to try Yoga? Start with the Chair Yoga class, a relaxing stress reliever suitable for all ages. Using the chair as support, this class modifies traditional Yoga poses for a holistic experience. Join today!</p>								
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Academy of Yoga Pte. Ltd</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
@@ -94,7 +94,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-hatha-yoga-elementary-online.jpg" alt="Hatha Yoga (Elementary)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Learn the basics of hatha yoga, the ancient Indian art of healing, toning and rejuvenating the body and bringing about a sense of calm and peace through special postures (asanas), breathing exercises and concentration. The programme, teaches basic yoga postures and breathing techniques to help nourish not only the body but also the mind.</p>								
+								<p>Learn Hatha Yoga (Elementary) in the comfort of your home. Keep calm and heal your body by learning special postures (asanas), breathing, and concentration techniques. Suitable for all ages, the class is a perfect way to get in tune with your mind and body. Join the class today!</p>								
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Lim Li Peng, Rita Jain</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
@@ -191,7 +191,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-health-qigong-online.jpg" alt="Health Qigong"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Health Qigong is a set of traditional keep-fit exercises integrating the adjustments of body, breath and mind. It consists of 4 sets of Health Qigong via Yi Jin Qing, Wu Qin Xi, Liu Zi Jue and Ba Duan Jin using scientifically proven methods and research on traditional qigong practices, modern medicine and more.</p>
+								<p>Practise Health Qigong in the comfort of your home. Learn traditional keep-fit exercises, integrating the body, breath, and mind through the 4 sets of Health Qigong.  You will learn Yi Jin Qing, Wu Qin Xi, Liu Zi Jue, and Ba Duan Jin using scientifically proven methods and research on traditional qigong practices, modern medicine, and more. Don't miss out!</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Alice Ho Soon Kim, Jeffrey Chong Siak Choy</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
@@ -226,12 +226,6 @@ collection_name: course-directory
 								</tr>
 							</thead>
 							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Tanglin CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">08 Jul 2020, Wed<br>10:00am to 11:00am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794581" target="_blank">Sign Up Now!</a></td>
-								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
@@ -300,8 +294,8 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-stretch-band-for-seniors-online.jpg" alt="Stretch Band For Seniors"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Stretch Band for Seniors is about strength and conditioning aims to encourage senior citizen to lead an active lifestyle. The class uses stretch bands to help stretch and strengthen the body. Participants will understand basic movement patterns, which helps in fall prevention.</p>
-								<p>*Alternative to stretch band includes towel, bottle, etc</p>								
+								<p>Stretch Band For Seniors is a great way for seniors to strengthen and condition their mental and physcial well-being. You will learn movement patterns, which helps in fall prevention using a stretch band*.  Don't miss the opportunity to stay fit from home!</p>
+								<p>*Alternative to stretch band includes towel, bottle, etc.</p>								
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Tan Wei Siang</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
@@ -374,7 +368,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-tcm-for-weight-management-online.jpg" alt="TCM for Weight Management"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Understand TCMs view about body constitution and how it relates to weight management. Knowing the various TCM treatments available for weight management. Apply TCM principles in our daily living to support weight management goals.</p>								
+								<p>TCM for Weight Management is a great way to learn about the body's constitution, and weight management. Learn to apply TCM principles to support our daily living routine, and our health goals. Join today to learn more!</p>								
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>TCMONG Medicare Pte Ltd</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
@@ -453,7 +447,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-zumba-fitness-online.jpg" alt="Zumba&reg; Fitness"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Are you ready to party yourself into shape? That is exactly what the Zumba&reg; program is all about. It is an exhilarating, effective, easy to follow, Latin inspired, calorie burning dance fitness party that is moving millions of people toward joy and health.</p>								
+								<p>Are you ready to party yourself into shape? Join Zumba&reg; Fitness, an  exhilarating and effective Latin-inspired dance fitness workout. With easy to follow routines, be prepared to sweat it out. </p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
@@ -532,7 +526,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-zumba-gold-online.jpg" alt="Zumba&reg; Gold"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Work up a healthy sweat with Zumba Gold&reg;, modified to suit the needs of active older participants. Move to the beat of zesty Latin music in an invigorating, party-like atmosphere.</p>
+								<p>Zumba&reg; Gold is a dance fitness workout, modified to suit the needs of older participants. Groove to the zesty Latin music beat, and dance your way to a healthy lifestyle today.</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>

@@ -27,7 +27,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-adult-ballet-introductory-online.jpg" alt="Adult Ballet Introductory"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Ballet is an artistic dance form with precise and highly formalized set steps and gestures characterized by light, graceful movements and requires discipline, artistry and strength from its dancers. This adult ballet class is for adults who wish to learn ballet but have no prior experience in ballet or any dance forms. Students will be introduced to some foundations and technique of ballet. Trainer will be giving instructions, providing demonstrations and explanations and also relevant corrections and feedback to the students during the class. Students are encouraged to be dressed in the below attire, but are welcomed to wear fitting attire they are comfortable in.</p>								
+								<p>Adult Ballet Introductory is suitable for beginners who have no prior experience in ballet or dance. You will learn basic techniques, guided by trainer who will demonstrate and provide feedback throughout the online class. Students are encouraged to wear comfortable attire.</p>								
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Vanessa Chong Wan Ting</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
@@ -82,9 +82,10 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-decoupage-online.jpg" alt="Decoupage"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Decoupage is the art of decorating a surface with cutouts and then coating it on top with resin. You will learn the basic techniques of how to divide an object into sections, and creatively arrange the layout of patterns on it.</p>								
+								<p>Learn how the basic techniques of how to divide an object into section, and creatively arrange your own pattern layout on it.</p>
+								<p>Please note that you have to source for your own materials from home.</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
-								<p class="desc_extra"><strong>Material Fee</strong>:<br>*Participant to source for own material</p>								
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
 						</div>
 					</div>
@@ -155,10 +156,10 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-growing-microgreens-at-home-online.jpg" alt="Growing Microgreens at Home"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Microgreens are tiny plants harvested at the seedling stage of growth. Learn how to grow and consume sprouts, shoots and microgreens at home without using expensive or complicated equipment.</p>
-								<p>The one-hour session will cover the nutritional benefits of microgreens, techniques and methods to grow microgreens at home.</p>								
+								<p>Learn how to grow and consume sprouts, shoots, and microgreens at home, without using expensive or complicated equipment.  The one-hour session will cover the nutritional benefits of microgreens, techniques, and methods to grow microgreens at home. Grow your own greens today.</p>
+								<p>Please note that you have to source for your own materials from home.</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Teh Mooi Yan</p>
-								<p class="desc_extra"><strong>Material Fee</strong>:<br>Participant to buy material on their own prior to class.</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -253,7 +254,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-intro-to-line-dancing-online.jpg" alt="Intro to Line Dancing"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Brief background of line dance, basc foundations and elements. Get to learn a line dance sequence.</p>
+								<p>Get a taste of Line Dancing when you learn the basic techniques and sequence in this course. Don't miss out on this experience today!</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
@@ -314,9 +315,9 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-paper-quilling-online.jpg" alt="Paper Qilling"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Paper quilling, which originated from 15th century Europe, is an art of passion and expression. You will learn to transform everyday materials into decorations, picture frames, greeting cards, bookmarks, hanging ornaments and more.</p>								
+								<p>Want to learn a new art form? Paper quilling is a perfect start. Learn how to transform everyday materials into beautiful pieces of decorations (picture frames, greeting cards, bookmarks, etc.). </p>	<p>Please note that you have to source for your own materials from home. Don't miss out!</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Grace Tan Sio Yen</p>
-								<p class="desc_extra"><strong>Material Fee</strong>:<br>*Participant to source for own material</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -387,11 +388,11 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifestyle-leisure/tbn-pressed-flowers-workshop-online.jpg" alt="Pressed Flowers Workshop"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Most people want to hold on to flowers with sentimental value. Whether they were a gift from a colleague, friend or  the love one, flowers bring a joy that we want to make last.</p>
-								<p>To preserve your beautiful blooms, as well as those special memories, join our Pressed Flowers workshop </p>								
+								<p>Pressed Flowers Workshop is a beautiful way to preserve precious gifts. Turn your bouquets and flowers from friends and family into beautiful works of art. Join us today!</p>		
+								<p>Please note that there is a estimated material fee (self purchased) of $8 to $17. </p>
+								<p>Kindly click on the <a href="https://senseofarts.com/shop/diy-kits/diy-pressed-flower-bookmark-kit/" target="_blank">link</a> to purchase the DIY Bookmark Prepack Kit-Set.</p>						
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Vicki Ling Yuet Ying</p>
-								<p class="desc_extra"><strong>Material Fee</strong>:<br>$8 to $17  (self purchased)</p>
-								<p>Direct <a href="https://senseofarts.com/shop/diy-kits/diy-pressed-flower-bookmark-kit/" target="_blank">Link</a> to purchase the DIY Bookmark Prepack Kit-Set</p>
+								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
 					</div>
@@ -447,16 +448,16 @@ collection_name: course-directory
 					</div>
 				</div>
 				<div class="tab">
-					<a name="recreationalkaraokepopsingingonline"></a>
+					<a name="recreationalkaraokepopsingingmandarinonline"></a>
 					<input type="checkbox" id="chck2020online_7">
-					<label class="tab-label" for="chck2020online_7">Recreational Karaoke Pop Singing</label>
+					<label class="tab-label" for="chck2020online_7">Recreational Karaoke Pop Singing - Mandarin</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing"></p>
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-recreational-karaoke-pop-singing-online.jpg" alt="Recreational Karaoke Pop Singing - Mandarin"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Participants will learn the fundamentals of singing, breathing techniques and diaphragm training. They will also learn pronunciation and tempo in music. Reading of simple musical notes is also emphasised.</p>
+								<p>Sing your heart out in the comfort of your home. Learn the fundamentals of singing, breathing techniques, diaphragm training, pronunciation, and tempo in music. Learn the basics of musical note reading too. Start your singing journey today.</p>
 								<p class="desc_extra"><strong>PA Operators</strong>:<br>Gary Tan Chuen Peng</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
