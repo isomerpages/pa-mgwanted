@@ -75,6 +75,12 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795168" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Clementi CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">28 Aug 2020, Fri<br>7:30pm to 8:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794886" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">19 Sep 2020, Sat<br>10:00am to 11:00am</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
@@ -129,12 +135,12 @@ collection_name: course-directory
 								</tr>
 							</thead>
 							<tbody>
-								<tr>
+								<!-- <tr>
 									<td data-label="Organising CC:" class="tbl-conval">Bishan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">14 Jul 2020, Tue<br>9:00am to 10:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794569" target="_blank">Sign Up Now!</a></td>
-								</tr>
+								</tr> -->
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ulu Pandan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">17 Jul 2020, Fri<br>7:30pm to 8:30pm</td>
@@ -147,18 +153,18 @@ collection_name: course-directory
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794583" target="_blank">Sign Up Now!</a></td>
 								</tr>
-								<tr>
+								<!-- <tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nanyang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>9:00am to 10:00 am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794943" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
+								</tr> -->
+								<!-- <tr>
 									<td data-label="Organising CC:" class="tbl-conval">Radin Mas CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>10:30am to 11:30am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794743" target="_blank">Sign Up Now!</a></td>
-								</tr>
+								</tr> -->
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">08 Aug 2020, Sat<br>9:30am to 10:30am</td>
@@ -225,7 +231,7 @@ collection_name: course-directory
 									<th scope="col" class="tbl-subhdr">Sign Up</th>
 								</tr>
 							</thead>
-							<tbody>
+							<tbody>]
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>2:00pm to 3:00pm</td>
@@ -243,6 +249,12 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">22 Jul 2020, Wed<br>2:00pm to 3:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794771" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Ulu Pandan CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">23 Jul 2020, Thu<br>10:00am to 11:00am</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794785" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Katong CC</td>
@@ -337,16 +349,16 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794802" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Tiong Bahru CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">24 Jul 2020, Fri<br>9:00am to 10:00am</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794790" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Tanjong Pagar CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">01 Aug 2020, Sat<br>9:00am to 10:00am</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026796279" target="_blank">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Katong CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">03 Aug 2020, Mon<br>10:00am to 11:00am</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794721" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
@@ -404,6 +416,12 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Teck Ghee CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">11 Jul 2020, Sat<br>9:30am to 10:30am</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794793" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Bishan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Jul 2020, Thu<br>8:30pm to 9:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
@@ -427,12 +445,6 @@ collection_name: course-directory
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794692" target="_blank">Sign Up Now!</a></td>
 								</tr>
-								<!--<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Toa Payoh Central CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">12 Sep 2020, Sat<br>10:00am to 11:00am</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval">Sign Up Now!</td>
-								</tr>-->
 							</tbody>
 						</table></div>
 					</div>
@@ -495,16 +507,34 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794673" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Tiong Bahru CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">22 Jul 2020, Wedhu<br>9:30am to 10:30am</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795421" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Bishan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">23 Jul 2020, Thu<br>7:30pm to 8:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794521" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Sembawang CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">26 Jul 2020, Sun<br>11.30am to 12.30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795167" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nee Soon South CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">07 Aug 2020, Fri<br>6:30pm to 7:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794555" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Chong Pang CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">14 Aug 2020, Fri<br>8:00pm to 9:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795945" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Buona Vista CC</td>
@@ -574,6 +604,12 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794564" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Hougang CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">28 Jul 2020, Tue<br>11:30am to 12:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795030" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Katong CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">30 Jul 2020, Thu<br>10:00am to 11:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
@@ -584,6 +620,12 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">05 Aug 2020, Wed<br>9:30am to 10:30am</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794551" target="_blank">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">07 Aug 2020, Fri<br>7:30pm to 8:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794503" target="_blank">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nanyang CC</td>
