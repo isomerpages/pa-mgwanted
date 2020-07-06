@@ -248,7 +248,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Fengshan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">02 Oct 2020, Fri<br>8:00pm to 9:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794708" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026797602" target="_blank">Sign Up Now!</a></td>
 								</tr>							
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Bukit Batok East CC</td>
