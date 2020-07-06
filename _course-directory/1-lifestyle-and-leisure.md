@@ -423,7 +423,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Pressed Flowers Workshop is a beautiful way to preserve precious gifts. Turn your bouquets and flowers from friends and family into beautiful works of art. Join us today!</p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Vicki Ling Yuet Ying</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Leong Jin Wen, Vicki Ling Yuet Ying</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>Please note that there is a estimated material fee (self purchased) of $8 to $17. </p>
 								<p class="desc_extra">Kindly click on the <a href="https://senseofarts.com/shop/diy-kits/diy-pressed-flower-bookmark-kit/" target="_blank">link</a> to purchase the DIY Bookmark Prepack Kit-Set.</p>					
 							</div>

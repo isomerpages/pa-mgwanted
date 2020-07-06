@@ -155,7 +155,7 @@ collection_name: course-directory
 								</tr>
 								<!-- <tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nanyang CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>9:00am to 10:00 am</td>
+									<td data-label="Date and Time:" class="tbl-conval">25 Jul 2020, Sat<br>9:00am to 10:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794943" target="_blank">Sign Up Now!</a></td>
 								</tr> -->
@@ -288,7 +288,7 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Cheng San CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">24 Aug 2020, Mon<br>2:00 pm to 3:00 pm</td>
+									<td data-label="Date and Time:" class="tbl-conval">24 Aug 2020, Mon<br>2:00pm to 3:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794825" target="_blank">Sign Up Now!</a></td>
 								</tr>
@@ -387,7 +387,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>TCM for Weight Management is a great way to learn about the body's constitution, and weight management. Learn to apply TCM principles to support our daily living routine, and our health goals. Join today to learn more!</p>								
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>TCMONG Medicare Pte Ltd</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>TCMOng Medicare Pte Ltd</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
@@ -466,7 +466,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Are you ready to party yourself into shape? Join Zumba&reg; Fitness, an  exhilarating and effective Latin-inspired dance fitness workout. With easy to follow routines, be prepared to sweat it out. </p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Janice Fong, Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
@@ -514,7 +514,7 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Tiong Bahru CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">22 Jul 2020, Wedhu<br>9:30am to 10:30am</td>
+									<td data-label="Date and Time:" class="tbl-conval">22 Jul 2020, Wed<br>9:30am to 10:30am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026795421" target="_blank">Sign Up Now!</a></td>
 								</tr>
@@ -563,7 +563,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Zumba&reg; Gold is a dance fitness workout, modified to suit the needs of older participants. Groove to the zesty Latin music beat, and dance your way to a healthy lifestyle today.</p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Matthew Ang Tiong Wee</p>
+								<p class="desc_extra"><strong>PA Operators</strong>:<br>Daphne Han Ming Fen, Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
