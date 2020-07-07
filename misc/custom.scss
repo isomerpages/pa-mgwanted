@@ -456,7 +456,7 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
     ~ .tab-content {
-      max-height: 500vh;
+      max-height: 600vh;
       padding: 1em;
     }
   }
@@ -824,7 +824,6 @@ body #main-content {
     color: #000000 !important;
   }
 }
-
 .facebook-responsive {
 	overflow: hidden;
 	padding-bottom: 56.25%;
