@@ -10,8 +10,8 @@ collection_name: course-directory
 	<div class="cdDesc">
         <p><img src="/images/course-directory/cd-banner-healthwellness.png" alt="Merdeka Generation programmes - Health & Wellness"></p>
 		<p>Our minds and bodies need our tender, loving care so that we can live life to the fullest. With great health, we maintain the freedom to fulfil our dreams.</p>
-		<p>Dance, yoga, or swimming – there's no need to pick just one! With our variety of Health & Wellness courses and programmes, you'll be able to find something to fit your interests.</p>
-		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
+		<p>Zumba, Yoga or Health Qigong - there's no need to pick just one! With our variety of Health & Wellness courses, you'll be able to find something to fit your interests.</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates.</p>
     </div>
 	<div class="row">
 		<div class="col">
@@ -27,24 +27,23 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-chair-yoga-online.jpg" alt="Chair Yoga"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Want to try Yoga? Start with the Chair Yoga class, a relaxing stress reliever suitable for all ages. Using the chair as support, this class modifies traditional Yoga poses for a holistic experience. Join today!</p>								
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Academy of Yoga Pte. Ltd</p>
+								<p>Want to try Yoga? Start with the Chair Yoga class, a relaxing stress reliever suitable for all ages. Using the chair as support, this class modifies traditional Yoga poses for a holistic experience. Join today!</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Academy of Yoga Pte. Ltd</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -100,24 +99,23 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-hatha-yoga-elementary-online.jpg" alt="Hatha Yoga (Elementary)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Learn Hatha Yoga (Elementary) in the comfort of your home. Keep calm and heal your body by learning special postures (asanas), breathing, and concentration techniques. Suitable for all ages, the class is a perfect way to get in tune with your mind and body. Join the class today!</p>								
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Lim Li Peng, Rita Jain</p>
+								<p>Learn Hatha Yoga (Elementary) in the comfort of your home. Keep calm and heal your body by learning special postures (asanas), breathing, and concentration techniques. Suitable for all ages, the class is a perfect way to get in tune with your mind and body. Join the class today!</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>								
 							</div>
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Lim Li Peng,<br> Rita Jain</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -198,23 +196,22 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Practise Health Qigong in the comfort of your home. Learn traditional keep-fit exercises, integrating the body, breath, and mind through the 4 sets of Health Qigong.  You will learn Yi Jin Qing, Wu Qin Xi, Liu Zi Jue, and Ba Duan Jin using scientifically proven methods and research on traditional qigong practices, modern medicine, and more. Don't miss out!</p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Alice Ho Soon Kim, Jeffrey Chong Siak Choy</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Alice Ho Soon Kim,<br>Jeffrey Chong Siak Choy</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -313,24 +310,23 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Stretch Band For Seniors is a great way for seniors to strengthen and condition their mental and physcial well-being. You will learn movement patterns, which helps in fall prevention using a stretch band*.  Don't miss the opportunity to stay fit from home!</p>
-								<p>*Alternative to stretch band includes towel, bottle, etc.</p>								
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Tan Wei Siang</p>
+								<p>*Alternative to stretch band includes towel, bottle, etc.</p>			
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Tan Wei Siang</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -386,24 +382,23 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-tcm-for-weight-management-online.jpg" alt="TCM for Weight Management"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>TCM for Weight Management is a great way to learn about the body's constitution, and weight management. Learn to apply TCM principles to support our daily living routine, and our health goals. Join today to learn more!</p>								
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>TCMOng Medicare Pte Ltd</p>
+								<p>TCM for Weight Management is a great way to learn about the body's constitution, and weight management. Learn to apply TCM principles to support our daily living routine, and our health goals. Join today to learn more!</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">TCMOng Medicare Pte Ltd</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -466,23 +461,22 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Are you ready to party yourself into shape? Join Zumba&reg; Fitness, an  exhilarating and effective Latin-inspired dance fitness workout. With easy to follow routines, be prepared to sweat it out. </p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Janice Fong, Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Janice Fong,<br>Matthew Ang Tiong Wee</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -563,23 +557,22 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Zumba&reg; Gold is a dance fitness workout, modified to suit the needs of older participants. Groove to the zesty Latin music beat, and dance your way to a healthy lifestyle today.</p>
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Daphne Han Ming Fen, Matthew Ang Tiong Wee</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
 						</div>
 					</div>					
 					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Course Fee</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
 									<th scope="col" class="tbl-subhdr">Duration</th>
 									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Course Fee:" class="tbl-conval">$10</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Daphne Han Ming Fen,<br>Matthew Ang Tiong Wee</td>
 									<td data-label="Duration:" class="tbl-conval">1hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>

@@ -11,7 +11,7 @@ collection_name: course-directory
 		<p><img src="/images/course-directory/cd-banner-lifelonglearning.png" alt="Merdeka Generation programmes - Lifelong Learning"></p>
 		<p>As an individual driven by curiosity and wonder, you relish in learning something new. It brings you joy and makes you become a better version of yourself.</p>
 		<p>Whether you're looking to gain a skill or expand your knowledge, we can be your learning partner. Browse and sign up for our Lifelong Learning courses conducted by industry experts and professionals.</p>
-		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates.</p>
     </div>
 	<!--<div class="row">
 		<div class="col">
@@ -28,7 +28,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Join the conversation with this father-daughter duo, as they share tips and answer questions on how to improve communication with your Gen X/Y/Z children, grandchildren and colleagues.</p>		
-								<p class="desc_extra"><strong>PA Operators</strong>:<br>Irene Teo Li Xin</p>
+								<p class="desc_extra"><strong>PA Trainer</strong>:<br>Irene Teo Li Xin</p>
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>
 							</div>
 						</div>
