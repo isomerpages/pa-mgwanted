@@ -309,7 +309,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-stretch-band-for-seniors-online.jpg" alt="Stretch Band For Seniors"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Stretch Band For Seniors is a great way for seniors to strengthen and condition their mental and physcial well-being. You will learn movement patterns, which helps in fall prevention using a stretch band*.  Don't miss the opportunity to stay fit from home!</p>
+								<p>Stretch Band For Seniors is a great way for seniors to strengthen and condition their mental and physical well-being. You will learn movement patterns, which helps in fall prevention using a stretch band*.  Don't miss the opportunity to stay fit from home!</p>
 								<p>*Alternative to stretch band includes towel, bottle, etc.</p>			
 								<p class="desc_extra"><strong>Material Fee</strong>:<br>NA</p>		
 							</div>
