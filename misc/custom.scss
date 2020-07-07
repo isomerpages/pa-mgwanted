@@ -456,7 +456,7 @@ $desktop: 960px + (2 * $gap) !default;
       }
     }
     ~ .tab-content {
-      max-height: 350vh;
+      max-height: 600vh;
       padding: 1em;
     }
   }
@@ -479,6 +479,12 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-health-wellness;
+      strong {
+        color: $cd-color-health-wellness;
+      }    
+    }
   }
   .tabs.lifestyleLeisure {
     .tab-label {
@@ -498,6 +504,12 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifestyle-leisure;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifestyle-leisure;
+      strong {
+        color: $cd-color-lifestyle-leisure;
+      }    
     }
   }
   .tabs.financialLiteracy {
@@ -519,6 +531,12 @@ $desktop: 960px + (2 * $gap) !default;
         color: #000000;
       }
     }
+    h4{
+      color: $cd-color-financial-literacy;
+      strong {
+        color: $cd-color-financial-literacy;
+      }    
+    }
   }
   .tabs.lifelongLearning {
     .tab-label {
@@ -538,6 +556,12 @@ $desktop: 960px + (2 * $gap) !default;
         background: $cd-color-light-lifelong-learning;
         color: #000000;
       }
+    }
+    h4{
+      color: $cd-color-lifelong-learning;
+      strong {
+        color: $cd-color-lifelong-learning;
+      }    
     }
   }
   .tbl {
@@ -582,6 +606,16 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%; 
     table-layout: fixed; 
   }
+  table.tblonline{
+    .tbl-subhdr {
+      &:last-child { width: 8rem; }
+    }
+  }  
+  table.tblonline2{
+    .tbl-subhdr {
+      &:first-child { width: 50%; }
+    }
+  }
   .img-desc-container{
     display: flex; 
     flex-wrap: nowrap;
@@ -594,6 +628,12 @@ $desktop: 960px + (2 * $gap) !default;
     .desc-container-right{
       width: 60%; 
       margin: 0 0 0 10px;
+    }
+    .desc_extra {      
+      font-size: 1rem;
+      strong {
+        font-size: 1.1rem;
+      }
     }
     img{
       width: 100%;
@@ -642,7 +682,33 @@ $desktop: 960px + (2 * $gap) !default;
           content: attr(data-label); 
           display: inline-block; 
           font-weight: bold;
-          min-width: 5em;
+          min-width: 7em;
+        } 
+      }    
+    }
+    .tblonline {
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 100%;
+        } 
+      }    
+    }
+    .tblonline2 {
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 100%;
         } 
       }    
     }
@@ -758,7 +824,6 @@ body #main-content {
     color: #000000 !important;
   }
 }
-
 .facebook-responsive {
 	overflow: hidden;
 	padding-bottom: 56.25%;
