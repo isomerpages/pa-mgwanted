@@ -610,6 +610,11 @@ $desktop: 960px + (2 * $gap) !default;
     .tbl-subhdr {
       &:last-child { width: 8rem; }
     }
+  }  
+  table.tblonline2{
+    .tbl-subhdr {
+      &:first-child { width: 50%; }
+    }
   }
   .img-desc-container{
     display: flex; 
@@ -682,6 +687,19 @@ $desktop: 960px + (2 * $gap) !default;
       }    
     }
     .tblonline {
+      td { 
+        display: block; 
+        font-size: 1em; 
+        text-align: left; 
+        &::before {
+          content: attr(data-label); 
+          display: inline-block; 
+          font-weight: bold;
+          min-width: 100%;
+        } 
+      }    
+    }
+    .tblonline2 {
       td { 
         display: block; 
         font-size: 1em; 

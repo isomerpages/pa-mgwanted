@@ -11,7 +11,7 @@ collection_name: course-directory
 		<p><img src="/images/course-directory/cd-banner-financialliteracy.png" alt="Merdeka Generation programmes - Financial Literacy"></p>
 		<p>Taking charge of your financial matters is a good way to safeguard your family's future. It's never too early to find out what you can do to ensure that your assets are carefully managed.</p>
 		<p>Looking to refresh your understanding or wondering where to start? Take action through our series of Financial Literacy courses, including estate planning and will making.</p>
-		<p>Class schedule may be subjected to changes. Contact CC for updates and exact class venue.</p>
+		<p>Class schedule may be subjected to changes. Contact CC for updates.</p>
     </div>
 	<!--<div class="row">
 		<div class="col">
