@@ -11,8 +11,4 @@ We have specially curated a range of courses, interest groups and volunteering o
 
 Whatever sparks your passions or fire up your interests, there is always something at PA that will catch your eye.
 
-Download the brochure to find out the listing of courses, interest groups and volunteering opportunities at over 100 Community Club island-wide.
-
-![PA Merdeka Generation programmes](/images/course-directory/sample-brochure-v2.jpg)
-
-* Issue 2 Brochure - April to July 2020 (Coming Soon)
+Stay tuned for updates on our brochure, which will feature listing of courses, interest groups and volunteering opportunities at over 100 Community Club island-wide
