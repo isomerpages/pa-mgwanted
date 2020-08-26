@@ -24,7 +24,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-learn-how-to-do-online-grocery-shopping-online-webinars.jpg" alt="Learn How to Do Online Grocery Shopping"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-how-to-do-online-grocery-shopping-online-webinars.jpg" alt="Learn How to Do Online Grocery Shopping"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Grocery shopping is a necessity, but maneuvering through the crowd at the store, waiting in lines, and lugging heavy grocery bags home can be a struggle. With the current situation, seniors are also encouraged to stay home and avoid crowded places. Hear from our speaker as she guides you on how to order your household essentials, groceries, and personal care products online. Have fresh food and non-perishable bulky items delivered straight to your doorstep!</p>
@@ -78,7 +78,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-learn-how-to-make-secure-digital-payments-with-paynow-online-webinars.jpg" alt="Learn How to Make Secure Digital Payments with PayNow"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-how-to-make-secure-digital-payments-with-paynow-online-webinars.jpg" alt="Learn How to Make Secure Digital Payments with PayNow"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Registering and using PayNow only takes a minute! In this session, learn about the benefits of PayNow and how to use PayNow on your digibank app and internet banking.</p>
@@ -132,7 +132,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-learn-the-safe-and-convenient-way-to-make-payments-with-dbs-paylah-online-webinars.jpg" alt="Learn the Safe & Convenient Way to Make Payments with DBS PayLah!"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-the-safe-and-convenient-way-to-make-payments-with-dbs-paylah-online-webinars.jpg" alt="Learn the Safe & Convenient Way to Make Payments with DBS PayLah!"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Whether you’re paying your friends, groceries or bills, DBS PayLah! offers many reasons to go cashless! No more forgetting to bring cash. Sign up and get to learn more benefits of DBS PayLah!</p>
@@ -186,7 +186,7 @@ collection_name: course-directory
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-learn-to-bank-online-quickly-and-securely-with-digibank-online-webinars.jpg" alt="Learn to Bank Online Quickly and Securely with Digibank"></p>
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-to-bank-online-quickly-and-securely-with-digibank-online-webinars.jpg" alt="Learn to Bank Online Quickly and Securely with Digibank"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>This workshop provides a step-by-step guide to digibank. Bypass queues and find out how banking can be done at your fingertips. Plus, learn to protect yourself online with our #BSHARP security tips! Register now to bank with ease of mind!</p>
