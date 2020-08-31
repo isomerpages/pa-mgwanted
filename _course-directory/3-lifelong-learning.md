@@ -65,7 +65,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">30 Sep 2020, Wed<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026803663" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026803663" target="_blank" onclick="ga('send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up', 'c026803663');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -119,7 +119,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">23 Sep 2020, Wed<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802251" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802251" target="_blank" onclick="ga('send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up', 'c026802251');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -173,7 +173,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Sep 2020, Wed<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802248" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802248" target="_blank" onclick="ga('send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up', 'c026802248');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -234,7 +234,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">09 Sep 2020, Wed<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802257" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802257" target="_blank" onclick="ga('send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up', 'c026802257');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
