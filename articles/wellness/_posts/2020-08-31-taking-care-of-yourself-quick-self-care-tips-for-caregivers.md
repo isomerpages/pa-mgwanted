@@ -25,6 +25,6 @@ Don't feel guilty about having a massage or special dinner out once in a while. 
 
 ![Taking Care of Yourself - Quick Self-care Tips for Caregivers](/images/content-articles/wellness/taking-care-of-yourself-quick-self-care-tips-for-caregivers-img4.jpg)
 
-Learn more about the value of taking care of yourself at our free webinar Understanding the Importance of Self-care for Caregivers (Online) in <a href="https://www.onepa.gov.sg/class/details/c026802182" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026802182');">English</a> or <a href="https://www.onepa.gov.sg/class/details/c026802233" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026802233');">Mandarin</a>. 
+Learn more about the value of taking care of yourself at our free webinar Understanding the Importance of Self-care for Caregivers (Online) in <a href="https://www.onepa.gov.sg/class/details/c026802182" target="_blank">English</a> or <a href="https://www.onepa.gov.sg/class/details/c026802233" target="_blank">Mandarin</a>. 
 
 Explore a wide array of courses through our course directory [here](../../course-directory/health-and-wellness/#understandingtheimportanceofselfcareforcaregiversonlinewebinars).
