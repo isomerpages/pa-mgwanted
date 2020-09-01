@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Taking Care of Yourself - Quick Self-care Tips for Caregivers
-date: 2020-08-31
+date: 2020-09-01
 permalink: /articles/wellness/taking-care-of-yourself-quick-self-care-tips-for-caregivers
 breadcrumb: Wellness
 collection_name: articles

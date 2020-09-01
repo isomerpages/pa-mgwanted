@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Shop for your Groceries Online
-date: 2020-05-05
+date: 2020-09-01
 permalink: /articles/learning/shop-for-your-groceries-online
 breadcrumb: Learning
 collection_name: articles
@@ -55,3 +55,7 @@ Take a look at the list below so you know where to shop for your dietary needs:
 - [sashasfinefoods.com](https://sashasfinefoods.com/){:target="_blank"}
 
 Learn from PA Trainer Chua Li Huay in our [Virtual CC video](https://www.facebook.com/721451948309789/videos/669740517154793/){:target="_blank"}, as she provides step-by-step instructions on how to shop and pay for your groceries online!
+
+Discover the convenience of online shopping with our free webinar <a href="https://www.onepa.gov.sg/class/details/c026803663" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026803663');">Shop for Your Groceries Online</a>.
+
+Explore a wide array of courses through our course directory [here](../../course-directory/lifelong-learning/#learnhowtodoonlinegroceryshoppingonlinewebinars).
