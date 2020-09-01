@@ -65,13 +65,13 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">04 Sep 2020, Fri<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802182" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802182" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026802182');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Tampines Changkat CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">11 Sep 2020, Fri<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802233" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026802233" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026802233');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -133,7 +133,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">19 Sep 2020, Sat<br>10:00am to 11:00am</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794701" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794701" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026794701');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -187,7 +187,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Bukit Batok East CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">30 Sep 2020, Wed<br>7.30pm to 8.30pm</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794746" target="_blank">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026794746" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026794746');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
