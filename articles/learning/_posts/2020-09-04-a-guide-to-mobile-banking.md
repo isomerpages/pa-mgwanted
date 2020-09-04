@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  A Guide to Mobile Banking
-date: 2020-09-01
+date: 2020-09-04
 permalink: /articles/learning/a-guide-to-mobile-banking
 breadcrumb: Learning
 collection_name: articles
