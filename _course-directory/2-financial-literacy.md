@@ -74,8 +74,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="learnthesafeandconvenientwaytomakepaymentswithdbspayLahonlinewebinars"></a>
-					<input type="checkbox" id="chck2020onlinewebinars_1">
-					<label class="tab-label" for="chck2020onlinewebinars_1">Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online)</label>
+					<input type="checkbox" id="chck2020onlinewebinars_2">
+					<label class="tab-label" for="chck2020onlinewebinars_2">Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -129,8 +129,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="learntobankonlinequicklyandsecurelywithdigibankonlinewebinars"></a>
-					<input type="checkbox" id="chck2020onlinewebinars_1">
-					<label class="tab-label" for="chck2020onlinewebinars_1">Learn to Bank Online Quickly and Securely with Digibank (Online)</label>
+					<input type="checkbox" id="chck2020onlinewebinars_3">
+					<label class="tab-label" for="chck2020onlinewebinars_3">Learn to Bank Online Quickly and Securely with Digibank (Online)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
