@@ -608,7 +608,7 @@ $desktop: 960px + (2 * $gap) !default;
   }
   table.tblonline{
     .tbl-subhdr {
-      &:last-child { width: 8rem; }
+      &:last-child { width: 10rem; }
     }
   }  
   table.tblonline2{
