@@ -604,7 +604,11 @@ $desktop: 960px + (2 * $gap) !default;
     margin: 0; 
     padding: 0; 
     width: 100%; 
-    table-layout: fixed; 
+    table-layout: fixed;     
+    .tblblendedrow{
+      border-bottom: 1px solid #dbdbdb;
+      &:last-child { border-bottom: 0; }
+    }  
   }
   table.tblonline{
     .tbl-subhdr {
@@ -684,7 +688,13 @@ $desktop: 960px + (2 * $gap) !default;
           font-weight: bold;
           min-width: 7em;
         } 
-      }    
+      }      
+      .tblblendedd{
+        tr {          
+          border-bottom: none;
+          margin-bottom: 0em;
+        }
+      }
     }
     .tblonline {
       td { 
