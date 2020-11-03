@@ -27,7 +27,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/financial-literacy/tbn-learn-how-to-make-secure-digital-payments-with-paynow-online-webinars.jpg" alt="Learn How to Make Secure Digital Payments with PayNow (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Registering and using PayNow only takes a minute! </p>
+								<p>Registering and using PayNow only takes a minute!</p>
 								<p>In this session, learn about the benefits of PayNow and how to use PayNow on your digibank app and internet banking.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>		
 							</div>
@@ -82,8 +82,8 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/financial-literacy/tbn-learn-the-safe-and-convenient-way-to-make-payments-with-dbs-payLah-online-webinars.jpg" alt="Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Whether you’re paying your friends, your groceries, or your bills, PayLah! offers many reasons to go cashless! </p>
-								<p>No more forgetting to bring cash. Sign up and get to learn more benefits of PayLah! </p>
+								<p>Whether you’re paying your friends, your groceries, or your bills, PayLah! offers many reasons to go cashless!</p>
+								<p>No more forgetting to bring cash. Sign up and get to learn more benefits of PayLah!</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>		
 							</div>
 						</div>
@@ -141,7 +141,7 @@ collection_name: course-directory
 								<p>Plus, learn to protect yourself online with our #BSHARP security tips! Register now to bank with ease of mind!</p>
 								<p>Note: To participate, you will need: 
 								<ul>
-								<li>Digibank User ID & PIN </li>
+								<li>Digibank User ID & PIN</li>
 								<li>DBS Secure Device (Token), if any</li>
 								<li>Email address Do not share your digibank credentials or One Time Password (OTP) with anyone.</li>
 								</ul>

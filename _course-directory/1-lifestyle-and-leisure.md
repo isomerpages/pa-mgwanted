@@ -71,7 +71,7 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table>
 											<tr><td>Online Class:<br>07 Nov 2020, Sat<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>08 Nov 2020, Sun<br>2:00pm to 3:30pm </td></tr>
+											<tr><td>Physical Class:<br>08 Nov 2020, Sun<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -246,7 +246,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Leong Veng Cheong </td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Leong Veng Cheong</td>
 									<td data-label="Duration:" class="tbl-conval">Online Class: 1hr<br>Physical Class: 1.5hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online and CC</td>
 								</tr>
@@ -604,8 +604,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table>
-											<tr><td>Online Class:<br>24 Nov 2020, Tue<br>11:00am to 12:00pm/td></tr>
-											<tr><td>Physical Class:<br>25 Nov 2020, Wed<br>2:30pm to 4:00pm </td></tr>
+											<tr><td>Online Class:<br>24 Nov 2020, Tue<br>11:00am to 12:00pm</td></tr>
+											<tr><td>Physical Class:<br>25 Nov 2020, Wed<br>2:30pm to 4:00pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -952,7 +952,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Ling Yuet Ying Vicki </td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Ling Yuet Ying Vicki</td>
 									<td data-label="Duration:" class="tbl-conval">Online Class: 1hr<br>Physical Class: 1.5hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online and CC</td>
 								</tr>
@@ -1046,7 +1046,7 @@ collection_name: course-directory
 				<div class="tab">
 					<a name="streuselmuffinbakingblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_8">
-					<label class="tab-label" for="chck2020blendedcourses_8">Streusel Muffin Baking (Blended) </label>
+					<label class="tab-label" for="chck2020blendedcourses_8">Streusel Muffin Baking (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1054,7 +1054,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Pick up essential techniques of baking delicious, fluffy, and crispy top Streusel muffins. The muffins comes in a variety with chocolate chips, white chocolate blueberry or rasberry, and cream cheese.</p>
-								<p>This is a 2-session course comprising an online workshop, and one demo physical class. Please check with your CC for the class's menu. </p>
+								<p>This is a 2-session course comprising an online workshop, and one demo physical class. Please check with your CC for the class's menu.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$6 (Member), $11 (Non-Member)</p>		
 							</div>
 						</div>
@@ -1114,7 +1114,7 @@ collection_name: course-directory
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table>
-											<tr><td>Kolam Ayer CC </td></tr>
+											<tr><td>Kolam Ayer CC</td></tr>
 										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
@@ -1311,7 +1311,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Learn simple chords while you strum and sing along with this Hawaiian instrument. Playing the ukulele is fun and joyous while at the same time training your memory, creativity, and motor skills.</p>
-								<p>*You are required to have your own ukulele for the class. </p>
+								<p>*You are required to have your own ukulele for the class.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -1419,7 +1419,7 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Pek Kio CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">29 Nov 2020, Sun<br>3:00pm to 4:30pm </td>
+									<td data-label="Date and Time:" class="tbl-conval">29 Nov 2020, Sun<br>3:00pm to 4:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820269" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820269');">Sign Up Now!</a></td>
 								</tr>

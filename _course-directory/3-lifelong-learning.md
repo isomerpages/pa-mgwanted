@@ -374,7 +374,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifelong-learning/tbn-effective-interpersonal-and-intercultural-communication-online-courses.jpg" alt="Effective Interpersonal and Intercultural Communication (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Pick up techniques and methods to bridge the communication gaps between different cultures and age groups. You will learn the ability to clearly convey their intended message and develop listening skills to understand the meaning and emotions in the words of others. </p>
+								<p>Pick up techniques and methods to bridge the communication gaps between different cultures and age groups. You will learn the ability to clearly convey their intended message and develop listening skills to understand the meaning and emotions in the words of others.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -440,7 +440,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/lifelong-learning/tbn-shop-and-pay-online-online-courses.jpg" alt="Shop and Pay Online (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Learn to shop and pay online on NTUC Fairprice website and Android app. Pick up tips and knowledge on overall management of a buyer's account, including searching for products, completing orders and transactions, creating shopping lists, and introducing safe transaction tips. </p>
+								<p>Learn to shop and pay online on NTUC Fairprice website and Android app. Pick up tips and knowledge on overall management of a buyer's account, including searching for products, completing orders and transactions, creating shopping lists, and introducing safe transaction tips.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>

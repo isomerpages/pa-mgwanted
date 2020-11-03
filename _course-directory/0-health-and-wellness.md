@@ -140,7 +140,7 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table>
 											<tr><td>Online Class:<br>11 Dec 2020, Fri<br>3:00pm to 4:00pm</td></tr>
-											<tr><td>Physical Class:<br>18 Dec 2020, Fri<br>3:00pm to 4:30pm </td></tr>
+											<tr><td>Physical Class:<br>18 Dec 2020, Fri<br>3:00pm to 4:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -303,7 +303,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-impact-self-care-kit-blended-courses.jpg" alt="IMPACT Self Care Kit (Blended)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>IMPACT Self Care Kit consists of a synchronised relaxing breathing first aid kit, simple smart move chair exercises, and simple massage techniques for arms, hands, head, and shoulders. </p>
+								<p>IMPACT Self Care Kit consists of a synchronised relaxing breathing first aid kit, simple smart move chair exercises, and simple massage techniques for arms, hands, head, and shoulders.</p>
 								<p>This is a 2-session course comprising an online workshop, and one physical class.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$6 (Member), $11 (Non-Member)</p>		
 							</div>
@@ -660,7 +660,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-beginner-guide-to-chi-fascial-fitness-online-courses.jpg" alt="Beginner's Guide to Chi & Fascial Fitness (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Chi & Fascial Fitness combines east and west method of fitness to give a complete wholesome workout. Go through this low-impact aerobics and chi dance elements to help build your cardiovascular endurance while activating the chi and body meridian. </p>
+								<p>Chi & Fascial Fitness combines east and west method of fitness to give a complete wholesome workout. Go through this low-impact aerobics and chi dance elements to help build your cardiovascular endurance while activating the chi and body meridian.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -676,7 +676,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Chang Mei Choo, Antoinette </td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Chang Mei Choo, Antoinette</td>
 									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
@@ -894,7 +894,7 @@ collection_name: course-directory
 								<p><img src="/images/course-directory/health-wellness/tbn-palm-therapy-online-courses.jpg" alt="Palm Therapy (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Discover the art of palm therapy, which helps to improve circulation, relieve aches, and strengthen the immune system. Learn to use simple and common household tools to massage the reflex points on their palms and hands. </p>
+								<p>Discover the art of palm therapy, which helps to improve circulation, relieve aches, and strengthen the immune system. Learn to use simple and common household tools to massage the reflex points on their palms and hands.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -979,7 +979,7 @@ collection_name: course-directory
 							</div>
 							<div class="desc-container-right">
 								<p>Stretch Band For Seniors (Online) is a great way for seniors to strengthen and condition their mental and physcial well-being. You will learn movement patterns, which helps in fall prevention using a stretch band*. Don't miss the opportunity to stay fit from home!</p>
-								<p>*Alternative to stretch band includes towel, bottle, etc. </p>
+								<p>*Alternative to stretch band includes towel, bottle, etc.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -1160,7 +1160,7 @@ collection_name: course-directory
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Pek Kio CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">18 Nov 2020, Wed<br>3:00pm to 4:30pm </td>
+									<td data-label="Date and Time:" class="tbl-conval">18 Nov 2020, Wed<br>3:00pm to 4:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818973" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818973');">Sign Up Now!</a></td>
 								</tr>
