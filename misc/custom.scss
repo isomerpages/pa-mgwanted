@@ -692,7 +692,6 @@ $desktop: 960px + (2 * $gap) !default;
       .tblblendedd{
         tr {          
           border-bottom: none;
-          margin-bottom: 0em;
           td { 
             padding: 0; 
             &::before {
