@@ -1240,7 +1240,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">21 Nov 2020, Sat<br>10:00am to 12:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819068" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819068');">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820470" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820470');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
