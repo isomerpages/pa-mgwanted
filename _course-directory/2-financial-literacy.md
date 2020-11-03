@@ -139,7 +139,7 @@ collection_name: course-directory
 							<div class="desc-container-right">
 								<p>This workshop provides a step-by-step guide to Digibank. Bypass queues and find out how banking can be done at your fingertips.</p>
 								<p>Plus, learn to protect yourself online with our #BSHARP security tips! Register now to bank with ease of mind!</p>
-								<p>Note: To participate, you will need: 
+								<p>Note: To participate, you will need:</p>
 								<ul>
 								<li>Digibank User ID & PIN</li>
 								<li>DBS Secure Device (Token), if any</li>
