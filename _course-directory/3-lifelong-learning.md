@@ -480,12 +480,6 @@ collection_name: course-directory
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819721" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819721');">Sign Up Now!</a></td>
 								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Siglap CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">06 Nov 2020, Fri<br>10:00am to 12:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English & Malay</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819572" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819572');">Sign Up Now!</a></td>
-								</tr>
 							</tbody>
 						</table></div>
 					</div>

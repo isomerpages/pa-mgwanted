@@ -219,10 +219,151 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>
+				<div class="tab">
+					<a name="classichomemademuffinsblendedcourses"></a>
+					<input type="checkbox" id="chck2020blendedcourses_2">
+					<label class="tab-label" for="chck2020blendedcourses_2">Classic Homemade Muffins (Blended)</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/lifestyle-leisure/tbn-classic-homemade-muffins-blended-courses.jpg" alt="Classic Homemade Muffins (Blended)"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Pick up essential techniques of baking delicious, fluffy, and crispy top Streusel muffins. The muffins comes in a variety with chocolate chips, white chocolate blueberry or rasberry, and cream cheese.</p>
+								<p>This is a 2-session course comprising an online workshop, and one demo physical class. Please check with your CC for the class's menu.</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>$6 (Member), $11 (Non-Member)</p>		
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">Cynthia Tan Siew Choo</td>
+									<td data-label="Duration:" class="tbl-conval">Online Class: 1hr<br>Physical Class: 1.5hr</td>
+									<td data-label="Venue:" class="tbl-conval">Online and CC</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Henderson CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>12 Nov 2020, Thu<br>2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>13 Nov 2020, Fri<br>2:00pm to 3.30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818959" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818959');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Kolam Ayer CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>21 Nov 2020, Satt<br>3:00pm to 4:00pm</td></tr>
+											<tr><td>Physical Class:<br>28 Nov 2020, Sat<br>3:00pm to 4:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817873" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817873');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Woodgrove CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>26 Nov 2020, Thu<br>2:00pm to 3:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818471" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818471');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Hong Kah North CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>24 Nov 2020, Tue<br>2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>29 Nov 2020, Sun<br>2:00pm to 3:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English & Chinese</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818179" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818179');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>
 				<!--<div class="tab">
 					<a name="decoupageworkshopblendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_2">
-					<label class="tab-label" for="chck2020blendedcourses_2">Decoupage Workshop (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_3">
+					<label class="tab-label" for="chck2020blendedcourses_3">Decoupage Workshop (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -316,8 +457,8 @@ collection_name: course-directory
 				</div>-->
 				<div class="tab">
 					<a name="growingmicrogreenathomeworkshopblendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_3">
-					<label class="tab-label" for="chck2020blendedcourses_3">Growing Microgreen at Home Workshop (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_4">
+					<label class="tab-label" for="chck2020blendedcourses_4">Growing Microgreen at Home Workshop (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -388,8 +529,8 @@ collection_name: course-directory
 				</div>	
 				<!--<div class="tab">
 					<a name="hakkadelightsabacusseedsblendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_4">
-					<label class="tab-label" for="chck2020blendedcourses_4">Hakka Delights - Abacus Seeds (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_5">
+					<label class="tab-label" for="chck2020blendedcourses_5">Hakka Delights - Abacus Seeds (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -506,8 +647,8 @@ collection_name: course-directory
 				</div>	-->	
 				<div class="tab">
 					<a name="kuehmaking101blendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_5">
-					<label class="tab-label" for="chck2020blendedcourses_5">Kueh Making 101 (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_6">
+					<label class="tab-label" for="chck2020blendedcourses_6">Kueh Making 101 (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -740,8 +881,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="kuehmaking101blendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_6">
-					<label class="tab-label" for="chck2020blendedcourses_6">Pressed Flower Workshop (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_7">
+					<label class="tab-label" for="chck2020blendedcourses_7">Pressed Flower Workshop (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -927,8 +1068,8 @@ collection_name: course-directory
 				</div>	
 				<div class="tab">
 					<a name="scrapbookingforbeginnersblendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_7">
-					<label class="tab-label" for="chck2020blendedcourses_7">Scrapbooking for Beginners (Blended)</label>
+					<input type="checkbox" id="chck2020blendedcourses_8">
+					<label class="tab-label" for="chck2020blendedcourses_8">Scrapbooking for Beginners (Blended)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
@@ -1042,148 +1183,7 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
-				</div>	
-				<div class="tab">
-					<a name="streuselmuffinbakingblendedcourses"></a>
-					<input type="checkbox" id="chck2020blendedcourses_8">
-					<label class="tab-label" for="chck2020blendedcourses_8">Streusel Muffin Baking (Blended)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-streusel-muffin-baking-blended-courses.jpg" alt="Streusel Muffin Baking (Blended)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Pick up essential techniques of baking delicious, fluffy, and crispy top Streusel muffins. The muffins comes in a variety with chocolate chips, white chocolate blueberry or rasberry, and cream cheese.</p>
-								<p>This is a 2-session course comprising an online workshop, and one demo physical class. Please check with your CC for the class's menu.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$6 (Member), $11 (Non-Member)</p>		
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Cynthia Tan Siew Choo</td>
-									<td data-label="Duration:" class="tbl-conval">Online Class: 1hr<br>Physical Class: 1.5hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online and CC</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Henderson CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>12 Nov 2020, Thu<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>13 Nov 2020, Fri<br>2:00pm to 3.30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818959" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818959');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Kolam Ayer CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>21 Nov 2020, Satt<br>3:00pm to 4:00pm</td></tr>
-											<tr><td>Physical Class:<br>28 Nov 2020, Sat<br>3:00pm to 4:30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817873" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817873');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Woodgrove CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>26 Nov 2020, Thu<br>2:00pm to 3:30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818471" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818471');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Hong Kah North CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>24 Nov 2020, Tue<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>29 Nov 2020, Sun<br>2:00pm to 3:30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818179" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818179');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>
+				</div>				
 			</div>
 		</div>
 	</div>	
