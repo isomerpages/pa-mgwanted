@@ -219,7 +219,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>
-				<div class="tab">
+				<!--<div class="tab">
 					<a name="decoupageworkshopblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_2">
 					<label class="tab-label" for="chck2020blendedcourses_2">Decoupage Workshop (Blended)</label>
@@ -313,7 +313,7 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
-				</div>	
+				</div>-->
 				<div class="tab">
 					<a name="growingmicrogreenathomeworkshopblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_3">
