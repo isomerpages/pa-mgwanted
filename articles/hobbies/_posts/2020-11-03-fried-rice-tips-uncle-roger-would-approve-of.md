@@ -8,17 +8,17 @@ collection_name: articles
 ---
 ![Fried Rice Tips Uncle Roger Would Approve Of](/images/content-articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of-img1.jpg)
 
-Egg fried rice is a staple in Singaporean cuisine but as Uncle Roger reminds us, other cultures around the world don’t always get it right. Learn how you can make this hawker favourite easily at home with these tips! Try the fried rice recipe below for a healthier version of this simple classic.
+Egg fried rice is a staple in Singaporean cuisine but as Uncle Roger reminds us, other cultures around the world don't always get it right. Learn how you can make this hawker favourite easily at home with these tips! Try the fried rice recipe below for a healthier version of this simple classic.
 
 ### RICE
 
-As we all know, it’s one part rice, two parts water. Add a pinch of salt to your boiling water if you’re cooking on the stove and leave your rice to steam for 15 minutes. Or better yet, use a rice cooker! Leave it to cool in the fridge overnight for better texture for your fried rice.
+As we all know, it's one part rice, two parts water. Add a pinch of salt to your boiling water if you're cooking on the stove and leave your rice to steam for 15 minutes. Or better yet, use a rice cooker! Leave it to cool in the fridge overnight for better texture for your fried rice.
 
 ![Fried Rice Tips Uncle Roger Would Approve Of](/images/content-articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of-img2.jpg)
 
 ### EGGS
 
-Crack your eggs into a bowl and beat them together with a teaspoon of sesame oil for added flavour. Once you’ve tossed in your rice and any other vegetables like peas or carrots, pour in your eggs and stir until they’re cooked through.
+Crack your eggs into a bowl and beat them together with a teaspoon of sesame oil for added flavour. Once you've tossed in your rice and any other vegetables like peas or carrots, pour in your eggs and stir until they're cooked through.
 
 ![Fried Rice Tips Uncle Roger Would Approve Of](/images/content-articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of-img3.jpg)
 

@@ -8,7 +8,7 @@ collection_name: articles
 ---
 ![Benefits Of Gua Sha And Why It's Recommended To Try It](/images/content-articles/wellness/benefits-of-gua-sha-and-why-its-recommended-to-try-it-img1.jpg)
 
-Traditional Chinese Medicine (TCM) treatments have been used for thousands of years and many, such as acupuncture and Gua Sha, are still in use today. Controlling the flow of the body’s vital energy, or chi, these healing techniques focuses on improving bodily functions such as digestion, breathing and blood circulation.
+Traditional Chinese Medicine (TCM) treatments have been used for thousands of years and many, such as acupuncture and Gua Sha, are still in use today. Controlling the flow of the body's vital energy, or chi, these healing techniques focuses on improving bodily functions such as digestion, breathing and blood circulation.
 
 Gua Sha involves scraping the skin with a smooth-edged massage tool in order to circulate the chi in your body. From improving skin health to relieving muscle tension, the natural remedy is known to be a powerful form of massage therapy.  Learn more about the benefits of this healing treatment and discover why it should be the latest addition to your self-care routine.
 
