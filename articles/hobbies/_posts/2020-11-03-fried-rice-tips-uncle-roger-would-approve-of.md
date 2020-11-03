@@ -40,7 +40,7 @@ Check out a curated collection of Lifestyle & Leisure courses available in our [
 
 
 ### EGG FRIED RICE RECIPE
-**Ingredients:**
+**Ingredients:**<br>
 *Serves 2*
 
 - 1 cup of brown rice (150g)

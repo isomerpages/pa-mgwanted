@@ -28,4 +28,4 @@ Rent bicycles from East Coast Park or Changi Airport for a low-impact workout th
 
 Did you know that you could probably outrun a T-Rex? Scientists have discovered that despite its reputation, the giant carnivore was only capable of a light jog. So get your running shoes on and whizz past your favourite dinosaurs next weekend for a fun day out with your loved ones.
 
-Check out a wide array of exciting Health & Wellness courses available to stay fit while having fun through our[Course Directory](../../course-directory/health-and-wellness/).
+Check out a wide array of exciting Health & Wellness courses available to stay fit while having fun through our [Course Directory](../../course-directory/health-and-wellness/).
