@@ -16,7 +16,7 @@ collection_name: course-directory
 	<div class="row">
 		<div class="col">
 			<div class="tabs healthWellness">
-				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical classes)</strong></h4>				
+				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>				
 				<!--<div class="tab">
 					<a name="chairyogablendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_1">
