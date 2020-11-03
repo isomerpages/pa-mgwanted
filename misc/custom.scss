@@ -608,6 +608,13 @@ $desktop: 960px + (2 * $gap) !default;
     .tblblendedrow{
       border-bottom: 1px solid #dbdbdb;
       &:last-child { border-bottom: 0; }
+      .tblblendedd{
+        tr {          
+          td { 
+            padding: 10px 0; 
+          }      
+        }
+      }
     }  
   }
   table.tblonline{
