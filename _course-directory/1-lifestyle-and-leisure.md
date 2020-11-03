@@ -1137,7 +1137,7 @@ collection_name: course-directory
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Fengshan CC</td></tr>
+											<tr><td>Keat Hong CC</td></tr>
 										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
@@ -1160,7 +1160,7 @@ collection_name: course-directory
 								<!--<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Tampines North CC</td></tr>
+											<tr><td>Fengshan CC</td></tr>
 										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
