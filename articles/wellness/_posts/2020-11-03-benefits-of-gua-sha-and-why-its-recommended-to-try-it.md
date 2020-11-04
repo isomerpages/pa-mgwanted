@@ -39,6 +39,6 @@ Source: [Healthline](https://www.healthline.com/health/gua-sha){:target="_blank"
 
 ![Benefits Of Gua Sha And Why It's Recommended To Try It](/images/content-articles/wellness/benefits-of-gua-sha-and-why-its-recommended-to-try-it-img5.jpg)
 
-Sign up for our online and physical TCM Gua Sha for Health course [here](../../course-directory//health-and-wellness/#tcmguashaforhealthblendedcourses).
+Sign up for our online and physical TCM Gua Sha for Health course [here](../../course-directory/health-and-wellness/#tcmguashaforhealthblendedcourses).
 
 Check out a curated collection of Health & Wellness courses available in our [Course Directory](../../course-directory/health-and-wellness/).
