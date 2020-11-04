@@ -17,7 +17,7 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs healthWellness">
 				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>				
-				<!--<div class="tab">
+				<div class="tab">
 					<a name="chairyogablendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_1">
 					<label class="tab-label" for="chck2020blendedcourses_1">Chair Yoga (Blended)</label>
@@ -85,7 +85,7 @@ collection_name: course-directory
 										</table>
 									</td>
 								</tr>
-								<tr class="tblblendedrow">
+								<!--<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Marsiling CC</td></tr>
@@ -151,11 +151,11 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817748" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817748');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
-								</tr>
+								</tr>-->
 							</tbody>
 						</table></div>
 					</div>
-				</div>-->
+				</div>
 				<div class="tab">
 					<a name="gentleyogablendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_2">
