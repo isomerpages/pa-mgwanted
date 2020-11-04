@@ -139,8 +139,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>1:00pm to 2:00pm</td></tr>
-											<tr><td>Physical Class:<br>24 Nov 2020, Tue<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>7:30pm to 8:30pm</td></tr>
+											<tr><td>Physical Class:<br>24 Nov 2020, Tue<br>7.30pm to 9.00pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
