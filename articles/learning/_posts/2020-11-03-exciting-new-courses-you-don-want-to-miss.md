@@ -42,6 +42,6 @@ Suffering from stress and body aches? Discover the healing properties of fragran
 
 
 
-To find out about more exciting courses from our brand-new series of blended learning courses, check out our new brochure [here](/files/course-directory/mgs-wanted-brochure-nov2020.pdf).
+To find out about more exciting courses from our brand-new series of blended learning courses, check out our new brochure [here](/files/course-directory/mgs-wanted-brochure-nov2020.pdf){:target="_blank"}.
 
 Sign up for an extensive array of blended and online courses through our [Course Directory](../../course-directory/health-and-wellness/).
