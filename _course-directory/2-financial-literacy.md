@@ -63,7 +63,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Rivervale CC</td>
+									<td data-label="Organising CC:" class="tbl-conval">Telok Blangah CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">30 Nov 2020, Mon<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819281" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026819281');">Sign Up Now!</a></td>
@@ -118,7 +118,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Rivervale CC</td>
+									<td data-label="Organising CC:" class="tbl-conval">Telok Blangah CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">23 Nov 2020, Mon<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819277" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026819277');">Sign Up Now!</a></td>
@@ -179,7 +179,7 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Rivervale CC</td>
+									<td data-label="Organising CC:" class="tbl-conval">Telok Blangah CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">16 Nov 2020, Mon<br>3:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819269" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up - c026819269');">Sign Up Now!</a></td>
