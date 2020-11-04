@@ -116,8 +116,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>21 Nov 2020, Sat<br>1:00pm to 2:00pm</td></tr>
-											<tr><td>Physical Class:<br>22 Nov 2020, Sun<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Online Class:<br>20 Nov 2020, Fri<br>11:00am to 12:00pm</td></tr>
+											<tr><td>Physical Class:<br>21 Nov 2020, Sat<br>11:00am to 12:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -128,6 +128,29 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818621" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818621');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Cairnhill CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>1:00pm to 2:00pm</td></tr>
+											<tr><td>Physical Class:<br>24 Nov 2020, Tue<br>2:00pm to 3:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817851" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817851');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>

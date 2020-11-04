@@ -140,7 +140,7 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Online Class:<br>27 Nov 2020, Fri<br> 2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>27 Nov 2020, Fri<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Physical Class:<br>28 Nov 2020, Sat<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -514,7 +514,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
@@ -722,7 +722,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>19 Nov 2020, Thu<br>11:00am to 12:00pm</td></tr>
+											<tr><td>Online Class:<br>20 Nov 2020, Fri<br>11:00am to 12:00pm</td></tr>
 											<tr><td>Physical Class:<br>21 Nov 2020, Sat<br>11:00am to 12.30pm</td></tr>
 										</table>
 									</td>
@@ -1001,8 +1001,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>21 Nov 2020, Sat<br>10:30am to 11:30am</td></tr>
-											<tr><td>Physical Class:<br>22 Nov 2020, Sun<br>10:30am to 12:00pm</td></tr>
+											<tr><td>Online Class:<br>12 Nov 2020, Thu<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>13 Nov 2020, Fri<br>10:30am to 12:00pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -1125,7 +1125,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
@@ -1148,7 +1148,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
