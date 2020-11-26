@@ -667,6 +667,9 @@ $desktop: 960px + (2 * $gap) !default;
     img{
       width: 100%;
     }
+    iframe{
+      align-self: center;
+    }
   }
 }
 
