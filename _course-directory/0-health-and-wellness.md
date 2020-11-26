@@ -1215,7 +1215,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Host Partner(s):" class="tbl-conval">Juliana Johan<br>Co-Founder<br>The Affirmative People</td>
-									<td data-label="Speaker Partner(s):" class="tbl-conval">Dean Ng<br>Co-FounderThe Affirmative People<br></td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Dean Ng<br>Co-Founder<br>The Affirmative People</td>
 								</tr>
 							</tbody>
 						</table></div>
@@ -1226,6 +1226,193 @@ collection_name: course-directory
 						</div>
 					</div>
 				</div>
+				<div class="tab">
+					<a name="spinehealthyouwhatyouneedtoknowengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Spine Health & You – What you need to know? (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Do you know what are the common posture mistakes that are causing the neck and back pain in most people? In this session, we will explain the importance of maintaining a strong and supple spine that can make your activities of daily life more comfortable and less painful. There will also be a demonstration of some simple and light stretching exercises, which you could do it on your own at anytime, anywhere!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Chua Ruo Mei<br>Chief Impact Officer<br>SUTW Impact Consulting</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Ms Lim Yan Ping<br>Founder/Chief Physiotherapist<br>Physio+</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/XRPjk_MMuHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="learnhowtousehealthbuddylikeaproengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_3">
+					<label class="tab-label" for="chck2020stayhomewebinars_3">Learn How to Use Health Buddy Like a Pro (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Learn to use the essential functionalities in the SingHealth Health Buddy app to manage your clinical appointments and keep track of your health, for yourself and for your dependents.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Chan Fun Jui<br>Senior Manager<br>SingHealth Marketing Communications</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Byron Lim Shih Neng<br>Senior Manager<br>SingHealth Marketing Communications</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/FJYd4tAtjWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingtheimportanceofselfcareforcaregiversengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_4">
+					<label class="tab-label" for="chck2020stayhomewebinars_4">Understanding the Importance of Self-care for Caregivers (Online) (English) </label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>While caring for your loved ones can be rewarding, it can also be exhausting and overwhelming. The stress of caregiving can accumulate over time, and if left unchecked, the exhaustion can lead to burnout. Join us in this session as we learn about caregiver's burnout as well as self-care tips while caring for your loved ones. </p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Michelle Tan<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Kathleen Chia<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/_LOC7GLpfSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingtheimportanceofselfcareforcaregiverschistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_5">
+					<label class="tab-label" for="chck2020stayhomewebinars_5">Understanding the Importance of Self-care for Caregivers (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>While caring for your loved ones can be rewarding, it can also be exhausting and overwhelming. The stress of caregiving can accumulate over time, and if left unchecked, the exhaustion can lead to burnout. Join us in this session as we learn about caregiver's burnout as well as self-care tips while caring for your loved ones.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Kathleen Chia<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Michelle Tan<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H9irg0pJJys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="saygoodbyetofeetheelkneepainchistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_6">
+					<label class="tab-label" for="chck2020stayhomewebinars_6">Say Goodbye to Feet, Heel & Knee Pain (Online) (Mandarin)告別脚和膝盖痛</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>您是否想过为什么一般的锻炼，力量训练，伸展，甚至核心运动可能不会让您得到您想要的效果，或你需要的疼痛缓解？加入我们的会话论坛，让我们替您研究并解决导致您脚部与膝盖疼痛的问题。</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Shawn Lim<br>Regional Marketing Manager<br>Orthopaedia Singapore</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Heidi Mak<br>Principal Orthotist and Co-founder<br>Orthopaedia Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/E4JfwBilHjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="saygoodbyetofeetheelkneepainengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_7">
+					<label class="tab-label" for="chck2020stayhomewebinars_7">Say Goodbye to Feet, Heel & Knee Pain (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Ever wondered why general exercise, strength training, stretching or even core work may not be giving you the results you want or the relief you need? Join us as we try to help you resolve the underlying issue that is causing you pain.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Shawn Lim<br>Regional Marketing Manager<br>Orthopaedia Singapore</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Susanna Koh<br>Principal Orthotist and Co-founder<br>Orthopaedia Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/JpYrjGXMGQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+
 			</div>
 		</div>
 	</div>
