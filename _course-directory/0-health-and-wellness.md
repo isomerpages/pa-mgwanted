@@ -1186,7 +1186,46 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>
-
+			</div>
+		</div>
+	</div>
+	<div class="cdDesc">&nbsp;</div>
+	<div class="row">
+		<div class="col">
+			<div class="tabs healthWellness">
+				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #StayHome Webinar Series</strong></h4>	
+				<div class="secDesc"><p>section copy</p></div>
+				<div class="tab">
+					<a name="nourishyourbodyforabetterlifeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_1">
+					<label class="tab-label" for="chck2020stayhomewebinars_1">Nourish your Body for a Better Life (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Inculcate healthy habits and uncover the secrets of optimizing their health without supplements or special products. Learn to improve your life by getting your nutrition right!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Juliana Johan<br>Co-Founder<br>The Affirmative People</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Dean Ng<br>Co-FounderThe Affirmative People<br></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H7eQWHeTOrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
