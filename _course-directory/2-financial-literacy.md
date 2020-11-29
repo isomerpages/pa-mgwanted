@@ -13,7 +13,7 @@ collection_name: course-directory
 		<p>Looking to refresh your understanding or wondering where to start? Take action through our series of Financial Literacy courses, including estate planning and will making.</p>
 		<p>Class schedule may be subjected to changes. Contact CC for updates.</p>
     </div>
-	<div class="row">
+	<!--<div class="row">
 		<div class="col">
 			<div class="tabs financialLiteracy">
 				<h4 id="online-webinars"><strong>Online Webinars</strong></h4>				
@@ -191,7 +191,7 @@ collection_name: course-directory
 			</div>
 		</div>
 	</div>
-	<div class="cdDesc">&nbsp;</div>
+	<div class="cdDesc">&nbsp;</div>-->
 	<div class="row">
 		<div class="col">
 			<div class="tabs financialLiteracy">
