@@ -191,4 +191,292 @@ collection_name: course-directory
 			</div>
 		</div>
 	</div>
+	<div class="cdDesc">&nbsp;</div>
+	<div class="row">
+		<div class="col">
+			<div class="tabs financialLiteracy">
+				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #StayHome Webinar Series</strong></h4>	
+				<div class="secDesc"><p>section copy</p></div>
+				<div class="tab">
+					<a name="All you need to know about Medical Coverage and its Optionsengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_1">
+					<label class="tab-label" for="chck2020stayhomewebinars_1">All you need to know about Medical Coverage and its Options (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Singapore has the best medical standards in the region, but what coverage is the right fit for you? Can you claim insurance for COVID-19? We address such questions and shed light on the available schemes so you can make the best choice for your healthcare needs.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Sim Peck Cheng<br>Founder<br>P. CliQ International Pte Ltd</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Kee Siew Poh<br>Financial Planning Association of Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/pSQrXnFWpy8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="Essential Documents in Estate Planning (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Essential Documents in Estate Planning (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Delve into details of estate planning so you have a clear idea of your choices. Find out how to apply for Advance Medical Directives, and how CPF nominations, insurance nominations, LPAs and will-writing affect your planning process. </p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yvonne Kong-Ho<br>Gerontology Programme</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Lim Jui Seck<br>Financial Planning Association of Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/f-rANh_Xx0I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="Estate Planning: What You Need to Know (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_3">
+					<label class="tab-label" for="chck2020stayhomewebinars_3">Estate Planning: What You Need to Know (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Estate Planning can give both you and your loved one’s peace of mind. Learn the ins and outs of planning for you and your family’s future, why it is important and how to get started in a timely manner. Make a plan today!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yvonne Kong-Ho<br>Gerontology Programme</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Lim Jui Seck<br>Financial Planning Association of Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/7x-H1S48Hn8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>				
+				<div class="tab">
+					<a name="Financial Planning in Uncertain Times (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_4">
+					<label class="tab-label" for="chck2020stayhomewebinars_4">Financial Planning in Uncertain Times (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>One of the biggest casualties of the COVID-19 crisis has been the job market. Financial planning is necessary to tide you through these difficult times. Join us to find out 5 ways to manage financial uncertainties and how to tap on government support!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Sim Peck Cheng<br>Founder<br>P. CliQ International Pte Ltd</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Earnest Tan<br>Financial Planning Association of Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/NkKvZ_dBFYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>				
+				<div class="tab">
+					<a name="Is Will Making Necessary for Me? (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_5">
+					<label class="tab-label" for="chck2020stayhomewebinars_5">Is Will Making Necessary for Me? (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>A will helps families with important decision making in the event of death or loss of mental capacity. However, many people feel that it is not necessary as they only have a few assets, while others disregard this procedure as they may not have any beneficiaries. In this session, we will highlight the needs for a will, discover the will-making process, and explore where you can get started on preparing your own will.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Mr Chan Mun Hoe<br>Business Development Director<br>Infinite Wealth Potential Pte Ltd </td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Sim Peck Cheng<br>Estate and Succession Practitioner<br>Precepts Legacy Pte Ltd<br>peckcheng.sim@gmail.com</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/44o2T0sO0No" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="Learn How to Pay for Your Bills Easily and Conveniently with AXS (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_6">
+					<label class="tab-label" for="chck2020stayhomewebinars_6">Learn How to Pay for Your Bills Easily and Conveniently with AXS (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Wondering how to pay for your bills, fines, and other payments conveniently and promptly? Join us to learn the different bill payment flows and the usage of different payment modes AXS has to offer!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Samantha Ang<br>Business Development<br>AXS</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Katherine Hannah Chua Kah Yin<br>Asst Chief Client Officer<br>AXS</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/14ao7H8pTeM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="Making a Comprehensive Plan for your Estate (Online) (English)engstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_7">
+					<label class="tab-label" for="chck2020stayhomewebinars_7">Making a Comprehensive Plan for your Estate (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Having all your bases covered during estate planning can seem overwhelming. We’ll bring you up to date on Advance Medical Directives, LPAs and plan structuring for different situations, so you can gain knowledge, understanding and security.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yvonne Kong-Ho<br>Gerontology Programme</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Lim Jui Seck<br>Financial Planning Association of Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/tn16-ajqy74" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingthedifferentmedicalcoverageoptionsitsimplicationsengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_8">
+					<label class="tab-label" for="chck2020stayhomewebinars_8">Understanding the Different Medical Coverage Options & its Implications (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Are you confused by the various medical coverage options available, and what are the differences in the coverage for both acute and chronic illnesses? Join us at this session as our speaker shed some clarity on some of the available plans and their implications, as well as how to choose a plan that best meets your needs.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Mr Chan Mun Hoe<br>Business Development Director<br>Infinite Wealth Potential Pte Ltd </td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Sim Peck Cheng<br>Senior Consultant<br>Avallis Financial Pte Ltd</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/HzRkVH6fVvA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingthedifferentmedicalcoverageoptionsitsimplicationschistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_9">
+					<label class="tab-label" for="chck2020stayhomewebinars_9">Understanding the Different Medical Coverage Options & its Implications (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>您是否对各种医疗保险选项感到困惑? 或是对于急性和慢性疾病的保险范围差异感到困惑? 听我们的演讲者分享可用的医疗保险选择及其含义，以及如何选择最能满足您需求的保险计划。</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Ms Summer Chen</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Sim Peck Cheng<br>Senior Consultant<br>Avallis Financial Pte Ltd<br>peckcheng.sim@gmail.com</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/tq-3pAAN9wc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
 </div>

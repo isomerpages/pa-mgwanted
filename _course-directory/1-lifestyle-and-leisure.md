@@ -1483,5 +1483,76 @@ collection_name: course-directory
 				</div>											
 			</div>
 		</div>
+	</div>
+	<div class="cdDesc">&nbsp;</div>
+	<div class="row">
+		<div class="col">
+			<div class="tabs lifestyleLeisure">
+				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #StayHome Webinar Series</strong></h4>	
+				<div class="secDesc"><p>section copy</p></div>
+				<div class="tab">
+					<a name="learnhowtogrowandcareforairplantsathomeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_1">
+					<label class="tab-label" for="chck2020stayhomewebinars_1">Learn How to Grow and Care for Air Plants at Home (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Air Plants are fuss-free and mess-free to grow and care for. Aside from being beautiful and unique centrepieces at home, cultivating Air Plants brings about health and wellness benefits that will improve the quality of life. Join us as our speaker advices and shares tips on how to get started on growing Air Plants at home!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Daniel Goh Yen Taa<br>Air Plant Artisan<br>Living on Air</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Daniel Goh Yen Taa<br>Air Plant Artisan<br>Living on Air</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/j8g915S5md8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="learnhowtogrowandcareforairplantsathomechistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Learn How to Grow and Care for Air Plants at Home (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Air Plants are fuss-free and mess-free to grow and care for. Aside from being beautiful and unique centrepieces at home, cultivating Air Plants brings about health and wellness benefits that will improve the quality of life. Join us as our speaker shares tips on how to get started on growing Air Plants at home!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Daniel Goh Yen Taa<br>Air Plant Artisan<br>Living on Air</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Daniel Goh Yen Taa<br>Air Plant Artisan<br>Living on Air</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/wmKHmdIq0JY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>	
 </div>

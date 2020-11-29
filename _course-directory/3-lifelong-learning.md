@@ -506,10 +506,266 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
-				</div>
-
-							
+				</div>		
 			</div>
 		</div>
 	</div>
+	<div class="cdDesc">&nbsp;</div>
+	<div class="row">
+		<div class="col">
+			<div class="tabs lifelongLearning">
+				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #StayHome Webinar Series</strong></h4>	
+				<div class="secDesc"><p>section copy</p></div>
+				<div class="tab">
+					<a name="aiforeveryonemgeditionengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_1">
+					<label class="tab-label" for="chck2020stayhomewebinars_1">AI For Everyone (AI4E)&reg; - MG Edition (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Have you ever wondered what is Artificial Intelligence (AI)? Or how it has impacted our daily lives? Join us in this session to learn about the types, and applications of AI and Machine Learning (ML). Find out how AI will impact you and identify opportunities in your work and daily lives!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Ang Liyi<br>Talent and Product Marketing Manager<br>AI Singapore (AISG)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Koo Sengmeng<br>Deputy Director<br>AI Singapore (AISG)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYAQyro79M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="breakingbarrierstipstbridginggenerationgapschistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Breaking Barriers: Tips to Bridging Generation Gaps (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Generation gap occurs when there is a difference in opinions and beliefs between two generations, which may cause conflict and miscommunication. In this highly interactive session, our guest speakers from different generations+E20 will share their personal experiences and tips to narrowing this gap to build a stronger relationship with your family and friends! </p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Chua Ruo Mei<br>Chief Impact Officer<br>SUTW Impact Consulting</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Chua Ruo Mei<br>Chief Impact Officer<br>SUTW Impact Consulting<br><br>Barry Jin<br>Freelance Global Marketing Consultant<br><br>Koh Juay Meng<br>Chairman<br>RSVP<br><br>Ong Yu Teng<br>Student</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/-ABuZHU6KAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="cybersecurityyoukeepingsafeinatechnologycentricworldengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_3">
+					<label class="tab-label" for="chck2020stayhomewebinars_3">CyberSecurity & You: Keeping Safe in a Technology-Centric World (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>In the age of rapid digital information exchange, it has become essential to be equipped with the relevant skills and principles to protect against ever-growing digital threats. Join us as we learn the fundamental concepts and issues related to securing a personal computing environment. Using layman language, you will be given tips on recognising and mitigating various security threats such as phishing websites, phishing emails, spams, malware, ransomware, social engineering, and password attacks. In addition, the PDPA (Personal Data Protection Act) and privacy issues will also be addressed.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Derrick Wong<br>Lecturer<br>Republic Polytechnic</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Derrick Wong<br>Lecturer<br>Republic Polytechnic</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/GyXJVsQNT-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="learnhowtodoonlinegroceryshoppingengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_4">
+					<label class="tab-label" for="chck2020stayhomewebinars_4">Learn How to Do Online Grocery Shopping (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Grocery shopping is a necessity, but maneuvering through the crowd at the store, waiting in lines, and lugging heavy grocery bags home can be a struggle. With the current situation, seniors are also encouraged to stay home and avoid crowded places. Hear from our speaker as she guides you on how to order your household essentials, groceries, and personal care products online. Have fresh food and non-perishable bulky items delivered straight to your doorstep!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Ms Ho Li Chin<br>Temasek Polytechnic<br>Course Chair</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Ms Ramasamy Sakthivelu Maheswari<br>Temasek Polytechnic<br>Lecturer</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/KEryBXdf66o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>				
+				<div class="tab">
+					<a name="nourishyourbodyforabetterlifeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_5">
+					<label class="tab-label" for="chck2020stayhomewebinars_5">Nurturing your Loved Ones Through Effective Coaching Conversation (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Meaningful conversations are essential in strengthening parent
+child relationship. Through this course, learn how you can foster shared understanding, while diminishing barriers between you and your loved ones.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yeo Wan Ling<br>Chief Executive Officer<br>Caregiver Asia</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Suresh Nair<br>Director/Executive Coach<br>CELLS</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/s7UMqgYbydc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="thejoyoffreelancinginyoursilveryearsengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_6">
+					<label class="tab-label" for="chck2020stayhomewebinars_6">The Joy of Freelancing in your Silver Years (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Have you ever wondered what the benefits of freelancing as a caregiver are and how you could embark on this journey? Freelancing allows you to earn casual income, and it also helps you stay occupied and do something that fulfils your learning aspirations while helping others. Join us at this session to learn more about freelancing and how you could get started!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Bryan Wee</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Elaine Lee<br>Director of Operations<br>CaregiversAsia<br><br>Carolyn Ong<br>Director of Marketing<br>CaregiversAsia</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Ke1SXMPPHWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingthebasicsofonlinecommunicationtoolsandstayingcybersafeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_7">
+					<label class="tab-label" for="chck2020stayhomewebinars_7">Understanding the Basics of Online Communication Tools and Staying Cybersafe (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Join us to learn how you can leverage come of the trendy digital tools, such as Zoom and TikTok, to stay connected with your family and friends. Also, find out about the various e-Payment platforms and how you can stay safe navigating these online tools.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yeo Wan Ling<br>Chief Executive Officer<br>Caregiver Asia</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Koh Juay Meng<br>Chairman<br>RSVP</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/rmMVQKDMUwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingthebasicsofonlinecommunicationtoolsandstayingcybersafechistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_8">
+					<label class="tab-label" for="chck2020stayhomewebinars_8">Understanding the Basics of Online Communication Tools and Staying Cybersafe (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Join us to learn how you can leverage come of the trendy digital tools, such as Zoom and TikTok, to stay connected with your family and friends. Also, find out about the various e-Payment platforms and how you can stay safe navigating these online tools.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Yeo Wan Ling<br>Chief Executive Officer<br>Caregiver Asia</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Koh Juay Meng<br>Chairman<br>RSVP</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/bYBXB5fmN10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
 </div>
