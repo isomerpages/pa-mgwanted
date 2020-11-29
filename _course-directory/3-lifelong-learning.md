@@ -753,7 +753,7 @@ child relationship. Through this course, learn how you can foster shared underst
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Host Partner(s):" class="tbl-conval">Yeo Wan Ling<br>Chief Executive Officer<br>Caregiver Asia</td>
+									<td data-label="Host Partner(s):" class="tbl-conval">Elaine Lee<br>Director of Operations<br>CaregiversAsia</td>
 									<td data-label="Speaker Partner(s):" class="tbl-conval">Koh Juay Meng<br>Chairman<br>RSVP</td>
 								</tr>
 							</tbody>
