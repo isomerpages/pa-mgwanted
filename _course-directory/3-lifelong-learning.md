@@ -79,7 +79,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818785" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818785');">Sign Up Now!</a></td></tr>
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818763" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818763');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
@@ -244,7 +244,7 @@ collection_name: course-directory
 									<td data-label="Organising CC:" class="tbl-conval">Cheng San CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">12 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818785" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818785');">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818763" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818763');">Sign Up Now!</a></td>
 								</tr>
 								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
@@ -303,7 +303,7 @@ collection_name: course-directory
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Cheng San CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">18 Dec 2020, Fri<br>7:00pm to 8:30pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818624" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818624');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
