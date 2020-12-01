@@ -25,4 +25,4 @@ As we reach the end of 2020, reflect on what you have achieved and what you want
 
 ![The Importance Of Giving Yourself A Well-Deserved Break](/images/content-articles/wellness/the-importance-of-giving-yourself-a-well-deserved-break-img4.jpg)
 
-Create beautiful memories and give yourself something to smile about as we end the year with our wide array of Lifestyle & Leisure courses [here](../../course-directory/lifestyle-and-leisure//).
+Create beautiful memories and give yourself something to smile about as we end the year with our wide array of Lifestyle & Leisure courses [here](../../course-directory/lifestyle-and-leisure/).

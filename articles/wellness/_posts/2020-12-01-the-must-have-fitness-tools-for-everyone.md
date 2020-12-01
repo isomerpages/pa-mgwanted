@@ -14,7 +14,6 @@ Whether you are at home or at the gym, there are so many exercise tools out ther
 Resistance bands are great for strength training and help to improve your flexibility by stretching out your muscles. Start your workout with this warm-up tool and use it for seated stretches like bicep curls or standing ones like squats.
 
 ![The Must-Have Fitness Tools For Everyone](/images/content-articles/wellness/the-must-have-fitness-tools-for-everyone-img2.jpg)
-*Image Credit: Changi Airport Website*
 
 ### BALANCE BALL
 This exercise tool challenges your posture while stimulating your core muscles. Use it to improve your balance during floor exercises like sit-ups or march lightly while sitting upright on the balance ball to increase hip strength and flexibility. 
