@@ -70,7 +70,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>05 Dec 2020, Sat<br>2:00pm-3:00pm</td></tr>
+											<tr><td>Online Class:<br>05 Dec 2020, Sat<br>2:00pm to 3:00pm</td></tr>
 											<tr><td>Physical Class:<br>06 Dec 2020, Su<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
@@ -1680,6 +1680,13 @@ collection_name: course-directory
 								</tr>
 							</thead>
 							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Yew Tee CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">05 Dec 2020, Sat
+<br>11:00am to 12:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818704" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818704');">Sign Up Now!</a></td>
+								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Telok Blangah CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">19 Dec 2020, Sat<br>10:00am to 11:30am</td>

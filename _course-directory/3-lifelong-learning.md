@@ -79,7 +79,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818763" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818763');">Sign Up Now!</a></td></tr>
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818785" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818785');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>

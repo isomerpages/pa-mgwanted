@@ -65,6 +65,27 @@ collection_name: course-directory
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
+											<tr><td>Bedok CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>10 Dec 2020, Thu<br>10:00am to 11:00am</td></tr>
+											<tr><td>Physical Class:<br>17 Dec 2020, Thu<br>10:00am to 11:30am</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>English</td></tr></table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818693" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818693');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
 											<tr><td>Marsiling CC</td></tr>
 										</table>
 									</td>
@@ -126,27 +147,6 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817748" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817748');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Bedok CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>10 Dec 2020, Thu<br>10:00am to 11:00am</td></tr>
-											<tr><td>Physical Class:<br>17 Dec 2020, Thu<br>10:00am to 11:30am</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd"><tr><td>English</td></tr></table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818693" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818693');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
