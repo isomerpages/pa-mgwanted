@@ -83,7 +83,7 @@ collection_name: course-directory
 										</table>
 									</td>
 								</tr>
-								<tr class="tblblendedrow">
+								<!--<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Marsiling CC</td></tr>
@@ -105,7 +105,7 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026820337" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820337');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
-								</tr>
+								</tr>-->
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
@@ -930,13 +930,13 @@ collection_name: course-directory
 			<div class="tabs healthWellness">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>				
 				<div class="tab">
-					<a name="beginnerguidetochifascialfitnessonlinecourses"></a>
+					<a name="beginnerguidetoqifascialfitnessonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_1">
-					<label class="tab-label" for="chck2020onlinecourses_1">Beginner's Guide to Chi & Fascial Fitness (Online)</label>
+					<label class="tab-label" for="chck2020onlinecourses_1">Beginner's Guide to Qi & Fascial Fitness (Online)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-beginner-guide-to-chi-fascial-fitness-online-courses.jpg" alt="Beginner's Guide to Chi & Fascial Fitness (Online)"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-beginner-guide-to-qi-fascial-fitness-online-courses.jpg" alt="Beginner's Guide to Qi & Fascial Fitness (Online)"></p>
 							</div>
 							<div class="desc-container-right">
 								<p>Qi & Fascial Fitness combines east and west methods of fitness to give a complete wholesome workout. It is a movement exercise that promote body awareness and improve muscles flexibility. Go through this low-impact aerobics and Qi dance elements to help build your cardiovascular endurance.</p>

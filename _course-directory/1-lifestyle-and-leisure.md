@@ -1033,7 +1033,7 @@ collection_name: course-directory
 										</table>
 									</td>
 								</tr>
-								<tr class="tblblendedrow">
+								<!--<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Limbang CC</td></tr>
@@ -1055,7 +1055,7 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818312" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818312');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
-								</tr>
+								</tr>-->
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
