@@ -44,7 +44,22 @@ info-sections:
     section-more-button: Learn more
     section-more-button-url: /course-directory/health-and-wellness/
     section-image-path: /images/homepage/celebrate-your-passion-for-life.jpg
-    
+    section-image-alt: Celebrate your PAssion for life
+  - section-title: 
+    section-subtitle: MGs Wanted &#35;StayHome Webinar Series
+    section-description: Missed out on previous sessions? Pursue your passions from the comfort of your home with the MGs Wanted &#35;StayHome Webinar Series! Check out our new webinar directory to catch-up on past videos ranging from Health & Wellness, Lifestyle & Leisure, Lifelong Learning to Financial Literacy.
+    section-more-button: View videos
+    section-more-button-url: /course-directory/health-and-wellness/#stayhome-webinars-series
+    section-image-path: /images/homepage/mgswanted-stayhome-webinar-series.jpg
+    section-image-alt: StayHome Webinar Series
+  - section-title: 
+    section-subtitle: Download Our MGs Wanted E-Brochure!
+    section-description: Stay updated on upcoming classes and course information with our latest e-brochure.
+    section-more-button: Download Now
+    section-more-button-url: /files/course-directory/mgs-wanted-brochure-nov2020.pdf?utm_source=programmes_homepage
+    section-image-path: /images/homepage/mgswanted-brochure.jpg
+    section-image-alt: MGs Wanted E-Brochure
+
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
 

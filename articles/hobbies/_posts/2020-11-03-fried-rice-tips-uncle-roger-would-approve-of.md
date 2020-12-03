@@ -34,7 +34,7 @@ Put a spin on your fried rice by adding a personal touch. Throw in some cheese o
 
 ![Fried Rice Tips Uncle Roger Would Approve Of](/images/content-articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of-img5.jpg)
 
-Nourish your love of cooking with our array of food courses such as whipping up Hakka Delights - Abacus Seeds (Blended).
+Nourish your love of cooking with our array of food courses such as whipping up [Hakka Delights - Abacus Seeds (Blended)](../../course-directory/lifestyle-and-leisure/#hakkadelightsabacusseedsblendedcourses).
 
 Check out a curated collection of Lifestyle & Leisure courses available in our [Course Directory](../../course-directory/lifestyle-and-leisure/).
 
