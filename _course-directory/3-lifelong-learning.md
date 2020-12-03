@@ -229,12 +229,6 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819228" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819228');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Tampines North CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">05 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818068" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818068');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Woodgrove CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">09 Dec 2020, Wed<br>8:00pm to 10:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
@@ -245,6 +239,12 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">12 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818763" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818763');">Sign Up Now!</a></td>
+								</tr>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Tampines North CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">19 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818068" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818068');">Sign Up Now!</a></td>
 								</tr>
 								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
