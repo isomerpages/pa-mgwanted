@@ -1429,7 +1429,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/FJYd4tAtjWE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/FJYd4tAtjWE?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1460,7 +1460,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/H7eQWHeTOrA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H7eQWHeTOrA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1491,7 +1491,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/JpYrjGXMGQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/JpYrjGXMGQg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1522,7 +1522,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/E4JfwBilHjM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/E4JfwBilHjM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1553,7 +1553,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/XRPjk_MMuHM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/XRPjk_MMuHM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1584,7 +1584,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/_LOC7GLpfSA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/_LOC7GLpfSA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -1615,7 +1615,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/H9irg0pJJys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H9irg0pJJys?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>

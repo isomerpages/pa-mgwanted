@@ -400,7 +400,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYAQyro79M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYAQyro79M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -431,7 +431,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/-ABuZHU6KAg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/-ABuZHU6KAg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -462,7 +462,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/GyXJVsQNT-4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/GyXJVsQNT-4?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -493,7 +493,7 @@ collection_name: course-directory
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/KEryBXdf66o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/KEryBXdf66o?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>				
@@ -525,7 +525,7 @@ child relationship. Through this course, learn how you can foster shared underst
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/s7UMqgYbydc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/s7UMqgYbydc?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -556,7 +556,7 @@ child relationship. Through this course, learn how you can foster shared underst
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/Ke1SXMPPHWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/Ke1SXMPPHWo?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -587,7 +587,7 @@ child relationship. Through this course, learn how you can foster shared underst
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/rmMVQKDMUwQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/rmMVQKDMUwQ?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -618,7 +618,7 @@ child relationship. Through this course, learn how you can foster shared underst
 					</div>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/bYBXB5fmN10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/bYBXB5fmN10?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>

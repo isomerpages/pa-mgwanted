@@ -223,6 +223,19 @@ $desktop: 960px + (2 * $gap) !default;
     }
   }
 }
+@media screen and (max-width: 767px) {
+  .bp-section {
+    .bp-container{  
+      iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        position: absolute;
+      }
+    }
+  }
+}
 
 // Pagination
 .pagination {
@@ -776,6 +789,15 @@ $desktop: 960px + (2 * $gap) !default;
       }      
       img{
         width: 60%;
+      }
+    }
+    .content-desc-container{
+      iframe {
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        position: absolute;
       }
     }
   }
