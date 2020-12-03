@@ -105,6 +105,27 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026820322" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820322');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
+								</tr>								
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Nee Soon East CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>19 Dec 2020, Sat<br>7:00pm to 8:00pm</td></tr>
+											<tr><td>Physical Class:<br>20 Dec 2020, Sun<br>7:00pm to 8:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>English</td></tr></table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026823688" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026823688');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
 								</tr>
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
@@ -124,27 +145,6 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818910" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818910');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Nee Soon East CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>19 Dec 2020, Sat<br>7:00pm to 8:00pm</td></tr>
-											<tr><td>Physical Class:<br>20 Dec 2020, Sun<br>7:00pm to 8:30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd"><tr><td>English</td></tr></table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026823688" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026823688');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
