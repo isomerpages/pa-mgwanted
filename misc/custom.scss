@@ -227,11 +227,8 @@ $desktop: 960px + (2 * $gap) !default;
   .bp-section {
     .bp-container{  
       iframe {
-        left: 0;
-        top: 0;
         height: 100%;
         width: 100%;
-        position: absolute;
       }
     }
   }
@@ -793,11 +790,8 @@ $desktop: 960px + (2 * $gap) !default;
     }
     .content-desc-container{
       iframe {
-        left: 0;
-        top: 0;
         height: 100%;
         width: 100%;
-        position: absolute;
       }
     }
   }
