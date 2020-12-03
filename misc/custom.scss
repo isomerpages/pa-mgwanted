@@ -215,6 +215,19 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: $secondary !important;
 }
 
+.bp-section {
+  .bp-container{
+    iframe {
+      display: block;
+      margin:0 auto;
+    }
+  }
+}
+.bp-section-pagetitle {
+  background-color: $secondary !important;
+}
+
+
 // Pagination
 .pagination {
 	span {

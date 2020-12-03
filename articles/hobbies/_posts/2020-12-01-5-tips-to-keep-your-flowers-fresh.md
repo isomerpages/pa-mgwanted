@@ -8,7 +8,7 @@ collection_name: articles
 ---
 Watch this video to learn some simple ways you can help your bouquet last longer.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1BNi6og8AKM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BNi6og8AKM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Sign up now for our [Beginner's Guide to Table Floral Arrangement (Blended)](../../course-directory/lifestyle-and-leisure/#beginnerguidetotablefloralarrangementblendedcourses). course!
 
