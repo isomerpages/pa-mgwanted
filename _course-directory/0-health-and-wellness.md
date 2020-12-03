@@ -1099,18 +1099,18 @@ collection_name: course-directory
 									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820341" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820341');">Sign Up Now!</a></td>
 								</tr>
-								<tr>
+								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Chua Chu Kang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">12 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820321" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820321');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
+								</tr>-->
+								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ci Yuan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">14 Dec 2020, Mon<br>7:30pm to 9:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819543" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819543');">Sign Up Now!</a></td>
-								</tr>
+								</tr>-->
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Whampoa CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">19 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
@@ -1252,7 +1252,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ci Yuan CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">11 Dec 2020, Fri<br>9:00am to 10:30am</td>
+									<td data-label="Date and Time:" class="tbl-conval">11 Dec 2020, Fri<br>9:00am to 10:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819542" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819542');">Sign Up Now!</a></td>
 								</tr>

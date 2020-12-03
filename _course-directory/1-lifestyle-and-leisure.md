@@ -71,7 +71,7 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Online Class:<br>05 Dec 2020, Sat<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>06 Dec 2020, Su<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Physical Class:<br>06 Dec 2020, Sun<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -114,8 +114,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>15 Dec 2020, Tue<br>11:00am to 12:00pm</td></tr>
-											<tr><td>Physical Class:<br>16 Dec 2020, Wed<br>11:00am to 12:30pm</td></tr>
+											<tr><td>Online Class:<br>26 Dec 2020, Sat<br>2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>27 Dec 2020, Sun<br>2.00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -1682,10 +1682,9 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Yew Tee CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">05 Dec 2020, Sat
-<br>11:00am to 12:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818704" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818704');">Sign Up Now!</a></td>
+									<td data-label="Date and Time:" class="tbl-conval">05 Dec 2020, Sat<br>11:00am to 12:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819347" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819347');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Telok Blangah CC</td>
