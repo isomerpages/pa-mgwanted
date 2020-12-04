@@ -215,6 +215,26 @@ $desktop: 960px + (2 * $gap) !default;
   background-color: $secondary !important;
 }
 
+.bp-section {
+  .bp-container{
+    iframe {
+      display: block;
+      margin:0 auto;
+    }
+  }
+}
+@media screen and (max-width: 767px) {
+  .bp-section {
+    .bp-container{  
+      iframe {
+        height: 100%;
+        width: 100%;
+      }
+    }
+  }
+}
+
+
 // Pagination
 .pagination {
 	span {
@@ -379,6 +399,9 @@ $desktop: 960px + (2 * $gap) !default;
 .courseAccordion {
   .cdDesc{
     margin: 0 0 50px;
+  }
+  .secDesc{
+    margin: 0 0 15px;
   }
   input {
     position: absolute;
@@ -650,6 +673,24 @@ $desktop: 960px + (2 * $gap) !default;
       width: 100%;
     }
   }
+  .content-desc-container{
+    display: flex; 
+    flex-wrap: nowrap;
+    margin-top: 5px;
+    flex-direction: column;    
+    .desc_extra {      
+      font-size: 1rem;
+      strong {
+        font-size: 1.1rem;
+      }
+    }
+    img{
+      width: 100%;
+    }
+    iframe{
+      align-self: center;
+    }
+  }
 }
 
 /* Accordion styles */
@@ -746,6 +787,12 @@ $desktop: 960px + (2 * $gap) !default;
       }      
       img{
         width: 60%;
+      }
+    }
+    .content-desc-container{
+      iframe {
+        height: 100%;
+        width: 100%;
       }
     }
   }

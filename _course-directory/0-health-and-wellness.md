@@ -65,23 +65,21 @@ collection_name: course-directory
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>West Coast CC</td></tr>
+											<tr><td>Bedok CC</td></tr>
 										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>05 Dec 2020, Sat<br>11:00am to 12:00pm</td></tr>
-											<tr><td>Physical Class:<br>28 Nov 2020, Sat<br> 11:00am to 12.30pm</td></tr>
+											<tr><td>Online Class:<br>10 Dec 2020, Thu<br>10:00am to 11:00am</td></tr>
+											<tr><td>Physical Class:<br>17 Dec 2020, Thu<br>10:00am to 11:30am</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
+										<table class="tblblendedd"><tr><td>English</td></tr></table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818636" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818636');">Sign Up Now!</a></td></tr>
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818693" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818693');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
@@ -107,7 +105,7 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026820337" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820337');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
-								</tr>
+								</tr>-->
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
@@ -139,8 +137,8 @@ collection_name: course-directory
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>11 Dec 2020, Fri<br>3:00pm to 4:00pm</td></tr>
-											<tr><td>Physical Class:<br>18 Dec 2020, Fri<br>3:00pm to 4:30pm</td></tr>
+											<tr><td>Online Class:<br>18 Dec 2020, Fri<br>3:00pm to 4:30pm</td></tr>
+											<tr><td>Physical Class:<br>11 Dec 2020, Fri<br>3:00pm to 4:00pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -149,6 +147,48 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817748" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817748');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<!--<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Nee Soon East CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>06 Jan 2021, Wed<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>07 Jan 2021, Thu<br>10:00am to 11:30am</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>English</td></tr></table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819575" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819575');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Hougang CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>08 Feb 2021, Mon<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>10 Feb 2021, Wed<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>English</td></tr></table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819977" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819977');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>-->
@@ -204,29 +244,6 @@ collection_name: course-directory
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Paya Lebar Kovan CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>27 Nov 2020, Fri<br> 10:00am to 11:00am</td></tr>
-											<tr><td>Physical Class:<br>20 Nov 2020, Fri<br>10:00am to 11:30am</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817839" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817839');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<!--<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
 											<tr><td>Queenstown CC</td></tr>
 										</table>
 									</td>
@@ -238,7 +255,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
@@ -259,7 +276,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
@@ -286,6 +303,27 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819802" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819802');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<!--<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Nee Soon East CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>05 Feb 2021, Fri<br>10:00am to 11:00am</td></tr>
+											<tr><td>Physical Class:<br>04 Feb 2021, Thu<br>10:00am to 11:30am</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819612" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819612');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>-->
@@ -361,6 +399,75 @@ collection_name: course-directory
 										</table>
 									</td>
 								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Buona Vista CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>07 Jan 2021, Thu<br>8:00pm to 9:00pm</td></tr>
+											<tr><td>Physical Class:<br>10 Jan 2021, Sun<br>2:00pm to 3:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818432" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818432');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Punggol CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>11 Jan 2021, Mon<br>8:00pm to 9:00pm</td></tr>
+											<tr><td>Physical Class:<br>16 Jan 2021, Sat<br>2:00pm to 3:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818411" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818411');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Hougang CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>13 Jan 2021, Wed<br>8:00pm to 9:00pm</td></tr>
+											<tr><td>Physical Class:<br>20 Jan 2021, Wed<br>11:00am to 12:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026820033" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820033');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
 							</tbody>
 						</table></div>
 					</div>
@@ -413,57 +520,13 @@ collection_name: course-directory
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Radin Mas CC</td></tr>
+											<tr><td>Yew Tee CC</td></tr>
 										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>14 Nov 2020, Sat<br> 2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>21 Nov 2020, Sat<br>2:00pm to 3:30pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818472" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818472');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Bedok CC</td></tr>
-										</table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>17 Nov 2020, Tue<br>10:30am to 11:30am</td></tr>
-											<tr><td>Physical Class:<br>24 Nov 2020, Tue<br>10:30am to 12:00pm</td></tr>
-										</table>
-									</td>
-									<td data-label="Language:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>English</td></tr>
-										</table>
-									</td>
-									<td data-label="Sign Up:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818709" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818709');">Sign Up Now!</a></td></tr>
-										</table>
-									</td>
-								</tr>
-								<tr class="tblblendedrow">
-									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd"><tr><td>The Serangoon CC</td></tr></table>
-									</td>
-									<td data-label="Date and Time:" class="tbl-conval">
-										<table class="tblblendedd">
-											<tr><td>Online Class:<br>22 Nov 2020, Sun<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>29 Nov 2020, Sun<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Online Class:<br>05 Dec 2020, Sat<br> 2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>06 Dec 2020, Sun<br>7:00pm to 8:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -473,18 +536,20 @@ collection_name: course-directory
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817803" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817803');">Sign Up Now!</a></td></tr>
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819614" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819614');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
 								<tr class="tblblendedrow">
 									<td data-label="Organising CC:" class="tbl-conval">
-										<table class="tblblendedd"><tr><td>Kebun Baru CC</td></tr></table>
+										<table class="tblblendedd">
+											<tr><td>Hwi Yoh CC</td></tr>
+										</table>
 									</td>
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>Online Class:<br>23 Nov 2020, Mon<br>7:30pm to 8:30pm</td></tr>
-											<tr><td>Physical Class:<br>25 Nov 2020, Wed<br>7:30pm to 9:00pm</td></tr>
+											<tr><td>Online Class:<br>07 Dec 2020, Mon<br>2:00pm to 3:00pm</td></tr>
+											<tr><td>Physical Class:<br>10 Dec 2020, Thu<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
@@ -494,10 +559,178 @@ collection_name: course-directory
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818501" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818501');">Sign Up Now!</a></td></tr>
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819475" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819475');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Tiong Bahru CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>12 Dec 2020, Sat<br>11:00am to 12:00pm</td></tr>
+											<tr><td>Physical Class:<br>13 Dec 2020, Sun<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819554" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819554');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Kolam Ayer CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>14 Dec 2020, Mon<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>21 Dec 2020, Mon<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Chinese</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819310" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819310');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Yio Chu Kang CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>15 Dec 2020, Tue<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>16 Dec 2020, Wed<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Chinese</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818578" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818578');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Nee Soon Central CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>17 Dec 2020, Thu<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>18 Dec 2020, Fri<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819787" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819787');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<!--<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Eunos CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>05 Jan 2021, Tue<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>06 Jan 2021, Wed<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026820112" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820112');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Cairnhill CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>10 Jan 2021, Sun<br>7:00pm to 8:00pm</td></tr>
+											<tr><td>Physical Class:<br>13 Jan 2021, Wed<br>7:00pm to 8:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817931" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817931');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Keat Hong CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>11 Jan 2021, Mon<br>7:30pm to 8:30pm</td></tr>
+											<tr><td>Physical Class:<br>14 Jan 2021, Thu<br>7:30pm to 9:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English & Chinese</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818921" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818921');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd"><tr><td>Kallang CC</td></tr></table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>18 Jan 2021, Mon<br>8:00pm to 9:00pm</td></tr>
+											<tr><td>Physical Class:<br>19 Jan 2021, Tue<br>7.30pm to 9:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818337" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818337');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>-->
 							</tbody>
 						</table></div>
 					</div>
@@ -567,6 +800,52 @@ collection_name: course-directory
 									<td data-label="Sign Up:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026818673" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818673');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Henderson CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>19 Jan 2021, Tue<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>12 Jan 2021, Tue<br>10:30am to 12:00pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819809" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819809');">Sign Up Now!</a></td></tr>
+										</table>
+									</td>
+								</tr>								
+								<tr class="tblblendedrow">
+									<td data-label="Organising CC:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Hwi Yoh CC</td></tr>
+										</table>
+									</td>
+									<td data-label="Date and Time:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>Online Class:<br>26 Jan 2021, Tue<br>10:30am to 11:30am</td></tr>
+											<tr><td>Physical Class:<br>02 Feb 2021, Tue<br>5:00pm to 6:30pm</td></tr>
+										</table>
+									</td>
+									<td data-label="Language:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td>English</td></tr>
+										</table>
+									</td>
+									<td data-label="Sign Up:" class="tbl-conval">
+										<table class="tblblendedd">
+											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026819649" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819649');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
 								</tr>
@@ -650,17 +929,17 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs healthWellness">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>				
-				<!--<div class="tab">
-					<a name="beginnerguidetochifascialfitnessonlinecourses"></a>
+				<div class="tab">
+					<a name="beginnerguidetoqifascialfitnessonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_1">
-					<label class="tab-label" for="chck2020onlinecourses_1">Beginner's Guide to Chi & Fascial Fitness (Online)</label>
+					<label class="tab-label" for="chck2020onlinecourses_1">Beginner's Guide to Qi & Fascial Fitness (Online)</label>
 					<div class="tab-content">
 						<div class="img-desc-container">
 							<div class="img-container-left">
-								<p><img src="/images/course-directory/health-wellness/tbn-beginner-guide-to-chi-fascial-fitness-online-courses.jpg" alt="Beginner's Guide to Chi & Fascial Fitness (Online)"></p>
+								<p><img src="/images/course-directory/health-wellness/tbn-beginner-guide-to-qi-fascial-fitness-online-courses.jpg" alt="Beginner's Guide to Qi & Fascial Fitness (Online)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Chi & Fascial Fitness combines east and west method of fitness to give a complete wholesome workout. Go through this low-impact aerobics and chi dance elements to help build your cardiovascular endurance while activating the chi and body meridian.</p>
+								<p>Qi & Fascial Fitness combines east and west methods of fitness to give a complete wholesome workout. It is a movement exercise that promote body awareness and improve muscles flexibility. Go through this low-impact aerobics and Qi dance elements to help build your cardiovascular endurance.</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
 							</div>
 						</div>
@@ -696,14 +975,14 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Hougang CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">15 Dec 2020, Tue<br>10:00am to 11:45am</td>
+									<td data-label="Date and Time:" class="tbl-conval">15 Dec 2020, Tue<br>10:15am to 11:45am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818707" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818707');">Sign Up Now!</a></td>
 								</tr>
 							</tbody>
 						</table></div>
 					</div>
-				</div>-->
+				</div>
 				<!--<div class="tab">
 					<a name="hathayogaonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_2">
@@ -785,7 +1064,7 @@ collection_name: course-directory
 							<tbody>
 								<tr>
 									<td data-label="PA Trainer(s):" class="tbl-conval">Liew Nam Yick</td>
-									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Duration:" class="tbl-conval">2hr</td>
 									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
 							</tbody>
@@ -803,42 +1082,6 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Whampoa CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">07 Nov 2020, Sat<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818634" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818634');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Woodgrove CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">16 Nov 2020, Mon<br>6:00pm to 8:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818456" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818456');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Hougang CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">26 Nov 2020, Thu<br>7:00pm to 9:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818565" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818565');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Cheng San CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">27 Nov 2020, Fri<br>10:00am to 12:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818470" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818470');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Tanjong Pagar CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">28 Nov 2020, Sat<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818524" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818524');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Punggol West CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">30 Nov 2020, Mon<br>7:00pm to 9:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818089" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818089');">Sign Up Now!</a></td>
-								</tr>
-								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Radin Mas CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">07 Dec 2020, Mon<br>7:30pm to 9:30pm</td>
 									<td data-label="Language:" class="tbl-conval">Chinese</td>
@@ -856,17 +1099,23 @@ collection_name: course-directory
 									<td data-label="Language:" class="tbl-conval">Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820341" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820341');">Sign Up Now!</a></td>
 								</tr>
-								<tr>
+								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Chua Chu Kang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">12 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820321" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820321');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
+								</tr>-->
+								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ci Yuan CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">14 Dec 2020, Mon<br>7:30pm to 9:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819543" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819543');">Sign Up Now!</a></td>
+								</tr>-->
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Whampoa CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">19 Dec 2020, Sat<br>2:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818634" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818634');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Hong Kah North CC</td>
@@ -877,8 +1126,14 @@ collection_name: course-directory
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Eunos CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">22 Dec 2020, Tue<br>10:00am to 12:00pm</td>
-									<td data-label="Language:" class="tbl-conval">Chinese</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818645" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818645');">Sign Up Now!</a></td>
+								</tr>
+								<!--<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Woodgrove CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">04 Jan 2021, Mone<br>110:00am to 12:00pm</td>
+									<td data-label="Language:" class="tbl-conval">Chinese</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818456" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818456');">Sign Up Now!</a></td>
 								</tr>-->
 							</tbody>
 						</table></div>
@@ -929,24 +1184,6 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">23 Nov 2020, Mon<br>10:00am to 12:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819060" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819060');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Queenstown CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">25 Nov 2020, Wed<br>7:30pm to 9:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819800" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819800');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">26 Nov 2020, Thu<br>4:00pm to 6:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820211" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820211');">Sign Up Now!</a></td>
-								</tr>
-								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">07 Dec 2020, Mon<br>7:30pm to 9:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
@@ -955,10 +1192,10 @@ collection_name: course-directory
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Hong Kah North CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">14 Dec 2020, Mon<br>7:30pm to 9:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026817657" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817657');">Sign Up Now!</a></td>
 								</tr>
-								<tr>
+								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Hougang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">06 Jan 2021, Wed<br>7:30pm to 9:30pm</td>
 									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
@@ -1014,34 +1251,22 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Dover CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">17 Nov 2020, Tue<br>9:00am to 10:30am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818902" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818902');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Eunos CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">26 Nov 2020, Thu<br>9:00am to 10:30am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese & Hokkien</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818629" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818629');">Sign Up Now!</a></td>
-								</tr>
-								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Ci Yuan CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">11 Dec 2020, Fri<br>9:00am to 10:30am</td>
+									<td data-label="Date and Time:" class="tbl-conval">11 Dec 2020, Fri<br>9:00am to 10:00am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818698" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818698');">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819542" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819542');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Hougang CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">12 Dec 2020, Sat<br>10:30am to 12:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese & Hokkien</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818698" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818698');">Sign Up Now!</a></td>
-								</tr>	-->							
+								</tr>						
 							</tbody>
 						</table></div>
 					</div>
 				</div>
-				<!--<div class="tab">
+				<div class="tab">
 					<a name="theartofaromamassageonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_6">
 					<label class="tab-label" for="chck2020onlinecourses_6">The Art of Aroma Massage (Online)</label>
@@ -1087,12 +1312,6 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Ci Yuan CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">03 Dec 2020, Thu<br>7:00pm to 9:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819541" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819541');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Leng Kee CC</td>
 									<td data-label="Date and Time:" class="tbl-conval">04 Dec 2020, Fri<br>7:30pm to 9:00pm</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
@@ -1101,7 +1320,7 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
-				</div>-->
+				</div>
 				<div class="tab">
 					<a name="yogatherapyforshoulderneckandbackonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_7">
@@ -1147,28 +1366,16 @@ collection_name: course-directory
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Leng Kee CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">07 Nov 2020, Sat<br>2:00pm to 3:30pm</td>
+									<td data-label="Organising CC:" class="tbl-conval">Yishun Link CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">13 Dec 2020, Sun<br>10:00am to 11:30am</td>
 									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819856" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819856');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Bukit Merah CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">15 Nov 2020, Sun<br>10:00am to 11:30am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818408" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818408');">Sign Up Now!</a></td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026821154" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026821154');">Sign Up Now!</a></td>
 								</tr>
 								<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Pek Kio CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">18 Nov 2020, Wed<br>3:00pm to 4:30pm</td>
+									<td data-label="Date and Time:" class="tbl-conval">16 Dec 2020, Wed<br>10:00am to 11:30am </td>
 									<td data-label="Language:" class="tbl-conval">English</td>
 									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818973" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818973');">Sign Up Now!</a></td>
-								</tr>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Hwi Yoh CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">22 Nov 2020, Sun<br>10:00am to 11:30am</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820205" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820205');">Sign Up Now!</a></td>
 								</tr>
 								<!--<tr>
 									<td data-label="Organising CC:" class="tbl-conval">Nee Soon South CC</td>
@@ -1186,7 +1393,232 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>
-
+			</div>
+		</div>
+	</div>
+	<div class="cdDesc">&nbsp;</div>
+	<div class="row">
+		<div class="col">
+			<div class="tabs healthWellness">
+				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #Stayhome Webinar Series</strong></h4>	
+				<div class="secDesc"><p>Watch our extensive array of videos from our online webinar series below!</p></div>
+				<div class="tab">
+					<a name="learnhowtousehealthbuddylikeaproengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_1">
+					<label class="tab-label" for="chck2020stayhomewebinars_1">Learn How to Use Health Buddy Like a Pro (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Learn to use the essential functionalities in the SingHealth Health Buddy app to manage your clinical appointments and keep track of your health, for yourself and for your dependents.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Chan Fun Jui<br>Senior Manager<br>SingHealth Marketing Communications</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Byron Lim Shih Neng<br>Senior Manager<br>SingHealth Marketing Communications</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/FJYd4tAtjWE?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="nourishyourbodyforabetterlifeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Nourish your Body for a Better Life (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Inculcate healthy habits and uncover the secrets of optimizing their health without supplements or special products. Learn to improve your life by getting your nutrition right!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Juliana Johan<br>Co-Founder<br>The Affirmative People</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Dean Ng<br>Co-Founder<br>The Affirmative People</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H7eQWHeTOrA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="saygoodbyetofeetheelkneepainengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_3">
+					<label class="tab-label" for="chck2020stayhomewebinars_3">Say Goodbye to Feet, Heel & Knee Pain (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Ever wondered why general exercise, strength training, stretching or even core work may not be giving you the results you want or the relief you need? Join us as we try to help you resolve the underlying issue that is causing you pain.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Shawn Lim<br>Regional Marketing Manager<br>Orthopaedia Singapore</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Susanna Koh<br>Principal Orthotist and Co-founder<br>Orthopaedia Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/JpYrjGXMGQg?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="saygoodbyetofeetheelkneepainchistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_4">
+					<label class="tab-label" for="chck2020stayhomewebinars_4">Say Goodbye to Feet, Heel & Knee Pain (Online) (Mandarin)告別脚和膝盖痛</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>您是否想过为什么一般的锻炼，力量训练，伸展，甚至核心运动可能不会让您得到您想要的效果，或你需要的疼痛缓解？加入我们的会话论坛，让我们替您研究并解决导致您脚部与膝盖疼痛的问题。</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Shawn Lim<br>Regional Marketing Manager<br>Orthopaedia Singapore</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Heidi Mak<br>Principal Orthotist and Co-founder<br>Orthopaedia Singapore</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/E4JfwBilHjM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="spinehealthyouwhatyouneedtoknowengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_5">
+					<label class="tab-label" for="chck2020stayhomewebinars_5">Spine Health & You – What you need to know? (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Do you know what are the common posture mistakes that are causing the neck and back pain in most people? In this session, we will explain the importance of maintaining a strong and supple spine that can make your activities of daily life more comfortable and less painful. There will also be a demonstration of some simple and light stretching exercises, which you could do it on your own at anytime, anywhere!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Chua Ruo Mei<br>Chief Impact Officer<br>SUTW Impact Consulting</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Ms Lim Yan Ping<br>Founder/Chief Physiotherapist<br>Physio+</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/XRPjk_MMuHM?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingtheimportanceofselfcareforcaregiversengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_6">
+					<label class="tab-label" for="chck2020stayhomewebinars_6">Understanding the Importance of Self-care for Caregivers (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>While caring for your loved ones can be rewarding, it can also be exhausting and overwhelming. The stress of caregiving can accumulate over time, and if left unchecked, the exhaustion can lead to burnout. Join us in this session as we learn about caregiver's burnout as well as self-care tips while caring for your loved ones.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Michelle Tan<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Kathleen Chia<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/_LOC7GLpfSA?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="understandingtheimportanceofselfcareforcaregiverschistayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_7">
+					<label class="tab-label" for="chck2020stayhomewebinars_7">Understanding the Importance of Self-care for Caregivers (Online) (Mandarin)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>While caring for your loved ones can be rewarding, it can also be exhausting and overwhelming. The stress of caregiving can accumulate over time, and if left unchecked, the exhaustion can lead to burnout. Join us in this session as we learn about caregiver's burnout as well as self-care tips while caring for your loved ones.</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Kathleen Chia<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Michelle Tan<br>Community Outreach Manager<br>Caregivers Alliance Ltd (CAL)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/H9irg0pJJys?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
