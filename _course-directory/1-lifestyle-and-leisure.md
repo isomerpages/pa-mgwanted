@@ -1735,8 +1735,7 @@ collection_name: course-directory
 					<label class="tab-label" for="chck2020stayhomewebinars_1">Discover Farms and Gardens in the City (Online)</label>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<p>Join us to embark on a leafy adventure with Kok Fah Technology Farm! It is an educational farm that is suitable for people of all ages to explore during their free time.</p>
-							<p>You can learn about the benefits of herb farming, discover the process of aloe vera extraction, and pick up useful gardening tips as you check out the farm from the comfort of your home!</p>
+							<p>Join us to embark on a leafy adventure with Kok Fah Technology Farm! It is an educational farm that is suitable for people of all ages to explore during their free time.<br><br>You can learn about the benefits of herb farming, discover the process of aloe vera extraction, and pick up useful gardening tips as you check out the farm from the comfort of your home!</p>
 						</div>
 					</div>					
 					<div class="tab-content">
@@ -1829,8 +1828,7 @@ collection_name: course-directory
 					<label class="tab-label" for="chck2020stayhomewebinars_4">Learn How to Grow Fresh Produce at Home (Online)</label>
 					<div class="tab-content">
 						<div class="content-desc-container">
-							<p>Since 1997, local farm Kin Yan Agrotech has grown and supplied pesticide-free fresh produces such as golden oysters, pink oysters, abalone mushrooms, black fungus, pea sprouts and wheatgrass for all of us to enjoy these organic goodies conveniently bought from the market.</p>
-							<p>You will learn how to grow your own mushrooms at home, explore the various recipes on how to cook tasty mushrooms and be equipped with the knowledge on how to identify between fresh and spoiled mushrooms. Hop online and learn from the experts in the comfort of your home!</p>
+							<p>Since 1997, local farm Kin Yan Agrotech has grown and supplied pesticide-free fresh produces such as golden oysters, pink oysters, abalone mushrooms, black fungus, pea sprouts and wheatgrass for all of us to enjoy these organic goodies conveniently bought from the market.<br><br>You will learn how to grow your own mushrooms at home, explore the various recipes on how to cook tasty mushrooms and be equipped with the knowledge on how to identify between fresh and spoiled mushrooms. Hop online and learn from the experts in the comfort of your home!</p>
 						</div>
 					</div>					
 					<div class="tab-content">
