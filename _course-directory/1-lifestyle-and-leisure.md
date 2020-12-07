@@ -1730,9 +1730,41 @@ collection_name: course-directory
 				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #Stayhome Webinar Series</strong></h4>	
 				<div class="secDesc"><p>Watch our extensive array of videos from our online webinar series below!</p></div>
 				<div class="tab">
-					<a name="learnhowtogrowandcareforairplantsathomeengstayhomewebinars"></a>
+					<a name="discoverfarmsandgardensinthecityengstayhomewebinars"></a>
 					<input type="checkbox" id="chck2020stayhomewebinars_1">
-					<label class="tab-label" for="chck2020stayhomewebinars_1">Learn How to Grow and Care for Air Plants at Home (Online) (English)</label>
+					<label class="tab-label" for="chck2020stayhomewebinars_1">Discover Farms and Gardens in the City (Online)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Join us to embark on a leafy adventure with Kok Fah Technology Farm! It is an educational farm that is suitable for people of all ages to explore during their free time.</p>
+							<p>You can learn about the benefits of herb farming, discover the process of aloe vera extraction, and pick up useful gardening tips as you check out the farm from the comfort of your home!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">NA</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Kok Fah Farm </td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/pbj0etnTqf0?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="learnhowtogrowandcareforairplantsathomeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_2">
+					<label class="tab-label" for="chck2020stayhomewebinars_2">Learn How to Grow and Care for Air Plants at Home (Online) (English)</label>
 					<div class="tab-content">
 						<div class="content-desc-container">
 							<p>Air Plants are fuss-free and mess-free to grow and care for. Aside from being beautiful and unique centrepieces at home, cultivating Air Plants brings about health and wellness benefits that will improve the quality of life. Join us as our speaker advices and shares tips on how to get started on growing Air Plants at home!</p>
@@ -1762,8 +1794,8 @@ collection_name: course-directory
 				</div>
 				<div class="tab">
 					<a name="learnhowtogrowandcareforairplantsathomechistayhomewebinars"></a>
-					<input type="checkbox" id="chck2020stayhomewebinars_2">
-					<label class="tab-label" for="chck2020stayhomewebinars_2">Learn How to Grow and Care for Air Plants at Home (Online) (Mandarin)</label>
+					<input type="checkbox" id="chck2020stayhomewebinars_3">
+					<label class="tab-label" for="chck2020stayhomewebinars_3">Learn How to Grow and Care for Air Plants at Home (Online) (Mandarin)</label>
 					<div class="tab-content">
 						<div class="content-desc-container">
 							<p>Air Plants are fuss-free and mess-free to grow and care for. Aside from being beautiful and unique centrepieces at home, cultivating Air Plants brings about health and wellness benefits that will improve the quality of life. Join us as our speaker shares tips on how to get started on growing Air Plants at home!</p>
@@ -1791,6 +1823,40 @@ collection_name: course-directory
 						</div>
 					</div>
 				</div>
+				<div class="tab">
+					<a name="learnhowtogrowfreshproduceathomeengstayhomewebinars"></a>
+					<input type="checkbox" id="chck2020stayhomewebinars_4">
+					<label class="tab-label" for="chck2020stayhomewebinars_4">Learn How to Grow Fresh Produce at Home (Online)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Since 1997, local farm Kin Yan Agrotech has grown and supplied pesticide-free fresh produces such as golden oysters, pink oysters, abalone mushrooms, black fungus, pea sprouts and wheatgrass for all of us to enjoy these organic goodies conveniently bought from the market.</p>
+							<p>You will learn how to grow your own mushrooms at home, explore the various recipes on how to cook tasty mushrooms and be equipped with the knowledge on how to identify between fresh and spoiled mushrooms. Hop online and learn from the experts in the comfort of your home!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">NA</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Zhen Khan<br>Farm Manager<br>Kin Yan Agrotech Pte Ltd </td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/R5LMl4fiuR8?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+
+
 			</div>
 		</div>
 	</div>	
