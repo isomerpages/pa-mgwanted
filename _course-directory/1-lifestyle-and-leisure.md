@@ -1855,8 +1855,6 @@ collection_name: course-directory
 						</div>
 					</div>
 				</div>
-
-
 			</div>
 		</div>
 	</div>	
