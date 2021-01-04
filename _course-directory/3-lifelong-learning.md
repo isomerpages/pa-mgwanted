@@ -111,8 +111,8 @@ collection_name: course-directory
 			</div>
 		</div>
 	</div>	
-	<div class="cdDesc">&nbsp;</div>
-	<!--<div class="row">
+	<!--<div class="cdDesc">&nbsp;</div>
+	<div class="row">
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<h4 id="online-webinars"><strong>Online Webinars</strong></h4>	
