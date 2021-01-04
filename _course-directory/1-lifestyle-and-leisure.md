@@ -689,7 +689,7 @@ collection_name: course-directory
 									</td>
 									<td data-label="Language:" class="tbl-conval">
 										<table class="tblblendedd">
-											<tr><td>English & Chinese</td></tr>
+											<tr><td>English</td></tr>
 										</table>
 									</td>
 									<td data-label="Sign Up:" class="tbl-conval">

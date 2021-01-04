@@ -890,7 +890,7 @@ collection_name: course-directory
 						</table></div>
 					</div>
 				</div>-->
-				<div class="tab">
+				<!--<div class="tab">
 					<a name="yogatherapyforshoulderneckandbackonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_7">
 					<label class="tab-label" for="chck2020onlinecourses_7">Yoga Therapy for Shoulder, Neck and Back (Online)</label>
@@ -943,7 +943,7 @@ collection_name: course-directory
 							</tbody>
 						</table></div>
 					</div>
-				</div>
+				</div>-->
 			</div>
 		</div>
 	</div>
