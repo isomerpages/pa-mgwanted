@@ -25,6 +25,6 @@ Conduct live streams on Facebook to promote your products. With 5G speeds, you c
 
 !['Growing Your Home Business: The Benefits Of 5G'](/images/content-articles/learning/growing-your-home-business-the-benefits-of-5g-img4.jpg)
 
-Gain the skillsets you need to expand your online business with our Social Media Marketing for Home-Based Business (Blended) course here
+Gain the skillsets you need to expand your online business with our Social Media Marketing for Home-Based Business (Blended) course [here](../../course-directory/lifelong-learning/#socialmediamarketingforhomebasedbusinessblendedcourses).
 
 Explore our wide array of Lifelong Learning courses through our [Course Directory](../../course-directory/lifelong-learning/).
