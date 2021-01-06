@@ -365,7 +365,7 @@ collection_name: course-directory
 											<tr><td><a href="https://www.onepa.gov.sg/class/details/c026817654" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026817654');">Sign Up Now!</a></td></tr>
 										</table>
 									</td>
-								</tr>-->
+								</tr>
 							</tbody>
 						</table></div>
 					</div>
