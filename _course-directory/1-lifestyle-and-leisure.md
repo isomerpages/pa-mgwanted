@@ -802,7 +802,7 @@ collection_name: course-directory
 									<td data-label="Date and Time:" class="tbl-conval">
 										<table class="tblblendedd">
 											<tr><td>Online Class:<br>23 Jan 2021, Sat<br>2:00pm to 3:00pm</td></tr>
-											<tr><td>Physical Class:<br>24 Jan 2021, Wed<br>2:00pm to 3:30pm</td></tr>
+											<tr><td>Physical Class:<br>24 Jan 2021, Sun<br>2:00pm to 3:30pm</td></tr>
 										</table>
 									</td>
 									<td data-label="Language:" class="tbl-conval">
