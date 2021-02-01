@@ -15,9 +15,9 @@ collection_name: course-directory
     </div>
 	<div class="row">
 		<div class="col">
-			<!--<div class="tabs lifestyleLeisure">
+			<div class="tabs lifestyleLeisure">
 				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>	
-				<div class="tab">
+				<!--<div class="tab">
 					<a name="beginnerguidetotablefloralarrangementblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_1">
 					<label class="tab-label" for="chck2020blendedcourses_1">Beginner's Guide to Table Floral Arrangement (Blended)</label>
