@@ -47,8 +47,8 @@ info-sections:
     section-image-alt: Celebrate your PAssion for life
   - section-title: 
     section-subtitle: MG x Active Health Webinar Series
-    section-description: Live and feel better with the MG x Active Health Webinar Series! Join Active Health coaches from SportsSG via Zoom and start your journey to a healthier you. Browse our webinar schedule to learn more.
-    section-more-button: Sign up now
+    section-description: Live and feel better with the MG x Active Health Webinar Series! Join Active Health coaches from SportsSG via Zoom and start your journey to a healthier you. <br><br>Browse our webinar schedule to learn more and sign up now!
+    section-more-button: View Schedule
     section-more-button-url: /course-directory/health-and-wellness/#mgswanted-activehealth-webinar
     section-image-path: /images/homepage/mgswanted-activehealth-webinar-series.jpg
     section-image-alt: MGxActiveHealth Webinar Series
