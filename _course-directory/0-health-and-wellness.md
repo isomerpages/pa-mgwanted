@@ -881,6 +881,187 @@ collection_name: course-directory
 				</div>
 			</div>
 		</div>
+	</div>	
+	<div class="cdDesc">&nbsp;</div>	
+	<div class="row">
+		<div class="col">
+			<div class="tabs healthWellness">
+				<h4 id="mgswanted-activehealth-webinar"><strong>MG x Active Health Webinar Series</strong></h4>
+				<div class="secDesc"><p>Take a look at our Health & Wellness webinar schedule in collaboration with SportsSG below!</p></div>		
+				<div class="tab">
+					<a name="basicsofmealplanningwebinarcourses"></a>
+					<input type="checkbox" id="chck2021mgahwebinarcourses_1">
+					<label class="tab-label" for="chck2021mgahwebinarcourses_1">Basics of Meal Planning</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-basics-of-meal-planning-webinar-courses.jpg" alt="Basics of Meal Planning"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>This online course will focus on the Nutrition aspects within the Active Health concept, as the starting point for the community to understand and learn how what we eat can help us begin our personal Active Health journey right at home, and with the family.</p>
+								<p>The session will touch on knowing what foods should go on your plate during meal times. Looking at what we can typically find in our kitchens, we can explore if the options we have at home are truly the best for us. Participants can also gain practical tips to plan their next marketing or grocery buying trip to build a well-balanced healthy plate.</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">SportSG</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Venue:" class="tbl-conval">Zoom</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Bukit Merah CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">20 Feb 2021, Sat<br>11:00am to 12:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026837403" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026837403');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>	
+				<div class="tab">
+					<a name="wetmarketbetterwebinarcourses"></a>
+					<input type="checkbox" id="chck2021mgahwebinarcourses_2">
+					<label class="tab-label" for="chck2021mgahwebinarcourses_2">Wet Market Better</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-wet-market-better-webinar-courses.jpg" alt="Wet Market Better"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>This online course will focus on the Move better aspects within the Active Health concept, as the starting point for seniors to understand and learn how physical activity can help us begin our personal Active Health journey right when they go for the next trip to the wet market.</p>
+								<p>The session is an introduction session to share about the relatedness of building strong muscles and cardiovascular fitness for the average wet market goer. Exercise is typically misrepresented as something that is only for the young and the fit, but that is simply not true. This session will also help you understand why building up different components of fitness is necessary and how we can optimize our recovery with simple recovery tips.</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">SportSG</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Venue:" class="tbl-conval">Zoom</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Kampong Chai Chee CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">23 Feb 2021, Tue<br>3:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026838460" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026838460');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>
+				<div class="tab">
+					<a name="myjourneytobetterhealthwebinarcourses"></a>
+					<input type="checkbox" id="chck2021mgahwebinarcourses_3">
+					<label class="tab-label" for="chck2021mgahwebinarcourses_3">My Journey to Better Health</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/health-wellness/tbn-my-journey-to-better-health-webinar-courses.jpg" alt="My Journey to Better Health"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>This session is aimed at helping you who are keen to embark on a healthier lifestyle but unsure of how and where to begin. We will begin by first helping you to discover your own fitness and health levels through simple self-guided assessments.</p>
+								<p>Our Active Health Coaches will then guide you on goal setting and habits formation, enabling you to make sustainable changes to your life and achieve your fitness and health goals!</p>
+								<p>Participants are required to have the following for the session:</p>
+								<ul>
+								<li>Waist Measuring Tape</li>
+								<li>Stable Chair with back rest</li>
+								<li>Writing materials (pen and paper)</li>
+								<li>Additional mobile device to scan QR-Code (for interactive elements)</li>
+								</ul>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">SportSG</td>
+									<td data-label="Duration:" class="tbl-conval">1hr</td>
+									<td data-label="Venue:" class="tbl-conval">Zoom</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Kampong Chai Chee CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">02 Mar 2021, Tue<br>3:00pm to 4:00pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026838476" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026838476');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 	<div class="cdDesc">&nbsp;</div>
 	<div class="row">
