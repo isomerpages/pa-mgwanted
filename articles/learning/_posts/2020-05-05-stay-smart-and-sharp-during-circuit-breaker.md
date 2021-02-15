@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Stay Smart and Sharp during Circuit Breaker
-date: 2020-05-05
+title: 'Stay Smart and Sharp during Circuit Breaker'
+date: 2020-05-05T00:00:00.000Z
 permalink: /articles/learning/stay-smart-and-sharp-during-circuit-breaker
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Stay Smart and Sharp during Circuit Breaker](/images/content-articles/learning/stay-smart-and-sharp-during-circuit-breaker-img1.jpg)
 
 With circuit breaker measures now in place, practising social distancing is more important that ever. But staying home in solitude is easier said than done. Long periods of seclusion can lead to restlessness, loneliness and anxiety and maintaining motivation is vital to our mental health. Beat the boredom with these brain-boosting activities and make sure you stay sharp in self-isolation. 
