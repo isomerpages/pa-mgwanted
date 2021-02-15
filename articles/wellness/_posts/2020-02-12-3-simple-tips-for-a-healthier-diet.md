@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  3 Simple Tips For A Healthier Diet
-date: 2020-02-12
+title: '3 Simple Tips For A Healthier Diet'
+date: 2020-02-12T00:00:00.000Z
 permalink: /articles/wellness/3-simple-tips-for-a-healthier-diet
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![3 Simple Tips For A Healthier Diet](/images/content-articles/wellness/3-simple-tips-for-a-healthier-diet-img1.jpg)
 
 From giving your body the right nutrients to reducing your risk of chronic illnesses, a healthy diet provides a multitude of benefits. Discover some of the simple ways you can improve your eating habits and start your journey towards a healthier you!
