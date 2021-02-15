@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Discovering Peranakan Culture
-date: 2020-02-19
+title: 'Discovering Peranakan Culture'
+date: 2020-02-19T00:00:00.000Z
 permalink: /articles/learning/discovering-peranakan-culture
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Discovering Peranakan Culture](/images/content-articles/learning/discovering-peranakan-culture-img1.jpg)
 
 A centuries old mixture of customs and traditions, Peranakan culture is as rich as it is varied. Also known as Straits-born, they are the descendants of the first Chinese settlers in the Malay Peninsula. And while we love their vibrant *kebayas* and delicious *kuehs*, here are 3 things you may not have known about Peranakan culture!
