@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Homemade Dalgona Drinks
-date: 2020-05-05
+title: 'Homemade Dalgona Drinks'
+date: 2020-05-05T00:00:00.000Z
 permalink: /articles/hobbies/homemade-dalgona-drinks
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Homemade Dalgona Drinks](/images/content-articles/hobbies/homemade-dalgona-drinks-img1.jpg)
 
 Dalgona coffee is the new viral favourite of coffee lovers in self-isolation – not only is the drink easy to make, it’s also incredibly delicious. Learn how to make this creamy coffee at home with simple ingredients and discover ways to spruce up the recipe for coffee-free versions!
