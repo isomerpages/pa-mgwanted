@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Lifestyle & Leisure
+title: 'Lifestyle & Leisure'
 permalink: /course-directory/lifestyle-and-leisure/
-breadcrumb: Lifestyle & Leisure
-collection_name: course-directory
+breadcrumb: 'Lifestyle & Leisure'
+
 ---
+
 
 <div class="courseAccordion">
 	<div class="cdDesc">
