@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  The Power of Gentle Exercise
-date: 2021-01-04
+title: 'The Power of Gentle Exercise'
+date: 2021-01-04T00:00:00.000Z
 permalink: /articles/wellness/the-power-of-gentle-exercise
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![The Power of Gentle Exercise](/images/content-articles/wellness/the-power-of-gentle-exercise-img1.jpg)
 
 Low impact workouts are a fantastic form of exercise. Helping you target core areas while improving your balance and flexibility, these workouts are ideal to keep you healthy without harming your joints. Learn more about gentler forms of fitness that you can add to your workout regimen below.
