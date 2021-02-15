@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  A Family That Plays Together Stays Together
-date: 2019-08-19
+title: 'A Family That Plays Together Stays Together'
+date: 2019-08-19T00:00:00.000Z
 permalink: /articles/hobbies/a-family-that-plays-together-stays-together
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![A Family That Plays Together Stays Together](/images/content-articles/hobbies/family-stays-together-img1.jpg)
 
 We know it gets harder and harder to spend quality time with your children. Between work, friends and the responsibilities of everyday life, finding opportunities for family bonding can be difficult. That's why we've created our guide to experiences that are sure to create meaningful memories and bring your family closer together.  
