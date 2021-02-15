@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  3 Reasons To Try Digital Banking
-date: 2020-04-06
+title: '3 Reasons To Try Digital Banking'
+date: 2020-04-06T00:00:00.000Z
 permalink: /articles/learning/3-reasons-to-try-digital-banking
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![3 Reasons To Try Digital Banking](/images/content-articles/learning/3-reasons-to-try-digital-banking-img1.jpg)
 
 Make banking more convenient by going digital! The rise of online banking has made tasks that were once a chore, more accessible than ever. From carrying out transactions within seconds to round-the-clock service, take a look at some of the reasons why you should try digital banking.
