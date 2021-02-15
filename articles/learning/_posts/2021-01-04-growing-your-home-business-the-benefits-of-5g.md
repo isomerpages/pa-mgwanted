@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  'Growing Your Home Business: The Benefits Of 5G'
-date: 2021-01-04
+title: 'Growing Your Home Business: The Benefits Of 5G'
+date: 2021-01-04T00:00:00.000Z
 permalink: /articles/learning/growing-your-home-business-the-benefits-of-5g
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 !['Growing Your Home Business: The Benefits Of 5G'](/images/content-articles/learning/growing-your-home-business-the-benefits-of-5g-img1.jpg)
 
 Whether you are a talented seamstress or a gardening enthusiast, there are so many ways you can start to earn an income from your personal passion. And with 5G soon expanding nationwide, using social media to do so will be more convenient than ever! Discover the benefits of faster speeds and how it can help you turn your hobby into a home-based business.
