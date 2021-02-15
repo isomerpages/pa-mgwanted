@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Affordable Enrichment Ideas
-date: 2019-09-30
+title: 'Affordable Enrichment Ideas'
+date: 2019-09-30T00:00:00.000Z
 permalink: /articles/learning/affordable-enrichment-ideas
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Affordable Enrichment Ideas](/images/content-articles/learning/affordable-enrichment-ideas-img1.jpg)
 
 Learning something new doesn't have to be expensive! Take a look at these $3 enrichment ideas that offer valuable knowledge and practical skills, without breaking the bank. Gain a sense of personal independence and begin your journey of lifelong learning today.    
