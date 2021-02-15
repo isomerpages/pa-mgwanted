@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  A Family-Friendly Guide To Bad Weather Days
-date: 2019-10-07
+title: 'A Family-Friendly Guide To Bad Weather Days'
+date: 2019-10-07T00:00:00.000Z
 permalink: /articles/hobbies/a-family-friendly-guide-to-bad-weather-days
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![A Family-Friendly Guide To Bad Weather Days](/images/content-articles/hobbies/a-family-friendly-guide-to-bad-weather-days-img1.jpg)
 
 The weather in Singapore can be a little unpredictable. So whether it’s rainy, hazy or just unbearably hot, we’ve got you covered. Keep family time on track with these fun indoor activities you can do from the comfort of your own home!
