@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Sense of Wellness
-date: 2019-09-02
+title: 'Sense of Wellness'
+date: 2019-09-02T00:00:00.000Z
 permalink: /articles/wellness/sense-of-wellness
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Sense of Wellness](/images/content-articles/wellness/sense-of-wellness-img1.jpg)
 
 Whether physical, mental or spiritual, our connection to our environment and those we love is vital to our well-being. Maintaining a balance between the internal and external aspects of health is essential to our overall wellness. So embrace holistic living with these invigorating experiences that appeal to the senses! Let yourself be rejuvenated by our 3-step guide and start your sensory journey today. 
