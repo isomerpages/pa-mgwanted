@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Take Charge of Your Life
-date: 2019-08-26
+title: 'Take Charge of Your Life'
+date: 2019-08-26T00:00:00.000Z
 permalink: /articles/wellness/take-charge-of-your-life
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Take Charge of Your Life](/images/content-articles/wellness/take-charge-of-your-life-img1.jpg)
 
 Independence is something we often take for granted. Always being in charge can be draining and it’s much easier to depend on a loved one for support. But even though your family and friends are a great source of love and encouragement, being in control of your own time and actions is a great way to forge a stronger sense of self and boost your overall health. It’s never too late to build new habits and start taking charge of your life! From wellness to finances, here are tips on how to lead a fulfilling, independent life.
