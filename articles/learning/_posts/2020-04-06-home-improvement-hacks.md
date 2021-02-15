@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Home Improvement Hacks
-date: 2020-04-06
+title: 'Home Improvement Hacks'
+date: 2020-04-06T00:00:00.000Z
 permalink: /articles/learning/home-improvement-hacks
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Home Improvement Hacks](/images/content-articles/learning/home-improvement-hacks-img1.jpg)
 
 It's not difficult to learn how to perform simple fixes around your home. Taking matters into your own hands lets you save money, and leaves you with a deep sense of satisfaction and achievement, knowing that you’ve resolved a malfunction or made improvements with your own effort. All you need are some basic tools and the right know-how to get started. Here are some simple hacks to get you inspired!
