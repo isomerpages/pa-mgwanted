@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Wonders of Japan
-date: 2019-11-21
+title: 'Wonders of Japan'
+date: 2019-11-21T00:00:00.000Z
 permalink: /articles/learning/wonders-of-japan
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Wonders of Japan](/images/content-articles/learning/wonders-of-japan-img1.jpg)
 
 Renowned for its rich culture and captivating landscapes, Japan is a dream destination for many. Tokyo is often at the top of the list for tourists, drawing millions of visitors every year. But there is so much more to Japan than its capital city. Here’s a small taste of this incredible nation’s natural beauty.
