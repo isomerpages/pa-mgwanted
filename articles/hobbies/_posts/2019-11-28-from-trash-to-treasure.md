@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  From Trash To Treasure
-date: 2019-11-28
+title: 'From Trash To Treasure'
+date: 2019-11-28T00:00:00.000Z
 permalink: /articles/hobbies/from-trash-to-treasure
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![From Trash To Treasure](/images/content-articles/hobbies/from-trash-to-treasure-img1.jpg)
 
 Does your house have things you no longer use? Give new life to your old items by upcycling them! There are so many different ways you can repurpose these unexpected treasures. Use the list below as inspiration and start your upcycling journey today.
