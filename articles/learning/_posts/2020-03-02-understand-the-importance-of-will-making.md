@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Understand The Importance Of Will Making
-date: 2020-03-02
+title: 'Understand The Importance Of Will Making'
+date: 2020-03-02T00:00:00.000Z
 permalink: /articles/learning/understand-the-importance-of-will-making
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Understand The Importance Of Will Making](/images/content-articles/learning/understand-the-importance-of-will-making-img1.jpg)
 
 Preparing a will is vital to ensure everything goes smoothly when you pass on your estate. Having a clear and thorough will allows those you care for to respect your wishes and make sense of their situation more easily. So, take charge of your legacy with these simple tips and make sure your loved ones have nothing to worry about.
