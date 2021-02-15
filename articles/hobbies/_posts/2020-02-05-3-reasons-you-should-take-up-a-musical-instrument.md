@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  3 Reasons You Should Take Up A Musical Instrument
-date: 2020-02-05
+title: '3 Reasons You Should Take Up A Musical Instrument'
+date: 2020-02-05T00:00:00.000Z
 permalink: /articles/hobbies/3-reasons-you-should-take-up-a-musical-instrument
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![3 Reasons You Should Take Up A Musical Instrument](/images/content-articles/hobbies/3-reasons-you-should-take-up-a-musical-instrument-img1.jpg)
 
 Music has always played an important role in human history. Whether it’s Chinese Opera or The Rolling Stones, our connection to music and the way it makes us feel is undeniable. But did you know that learning how to play an instrument has a profound effect not just on our mind but on our bodies as well?
