@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Hydroponics - The Future Of Farming
-date: 2020-03-13
+title: 'Hydroponics - The Future Of Farming'
+date: 2020-03-13T00:00:00.000Z
 permalink: /articles/learning/hydroponics-the-future-of-farming
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Hydroponics - The Future Of Farming](/images/content-articles/learning/hydroponics-the-future-of-farming-img1.jpg)
 
 Hydroponic farming could be the future of industrial farming as we know it.  With Singapore being scarce in land area, hydroponic farms are an innovative way we can produce fresh homegrown greens without sacrificing valuable space for development. Read on to learn more about this revolutionary method of farming and how it works.
