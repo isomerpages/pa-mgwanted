@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  A Guide to Mobile Banking
-date: 2020-09-04
+title: 'A Guide to Mobile Banking'
+date: 2020-09-04T00:00:00.000Z
 permalink: /articles/learning/a-guide-to-mobile-banking
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![A Guide to Mobile Banking](/images/content-articles/learning/a-guide-to-mobile-banking-img1.jpg)
 
 Gone are the days of long queues and waiting anxiously for your number to be called just to transfer some money. With mobile banking, you now have the ability to control your finances on the go. 
