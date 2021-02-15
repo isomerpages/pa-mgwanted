@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Exciting New Courses You Don't Want To Miss
-date: 2020-11-03
+title: 'Exciting New Courses You Don''t Want To Miss'
+date: 2020-11-03T00:00:00.000Z
 permalink: /articles/learning/exciting-new-courses-you-don-want-to-miss
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Exciting New Courses You Don't Want To Miss](/images/content-articles/learning/exciting-new-courses-you-don-want-to-miss-img1.jpg)
 
 Wondering which courses to sign up for next? Here's a round-up of some of our most exciting courses you can take part in online or in-person in the next few months. From wellness to lifestyle, keep reading for all the different ways you can continue your journey of lifelong learning this year.
