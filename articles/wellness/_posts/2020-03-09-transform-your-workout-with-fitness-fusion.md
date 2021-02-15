@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Transform Your Workout With Fitness Fusion
-date: 2020-03-09
+title: 'Transform Your Workout With Fitness Fusion'
+date: 2020-03-09T00:00:00.000Z
 permalink: /articles/wellness/transform-your-workout-with-fitness-fusion
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Transform Your Workout With Fitness Fusion](/images/content-articles/wellness/transform-your-workout-with-fitness-fusion-img1.jpg)
 
 Merging different fitness styles in your workout is a great way to build your endurance and lose weight efficiently. And with so many different exercise options to choose from, it’s time to break away from boring routines and challenge both your mind and body with some fusion workouts. Take a look at some of the benefits of fitness fusion below!
