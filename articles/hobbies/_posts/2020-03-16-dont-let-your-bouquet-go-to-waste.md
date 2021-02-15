@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Don’t Let Your Bouquet Go To Waste
-date: 2020-03-16
+title: 'Don’t Let Your Bouquet Go To Waste'
+date: 2020-03-16T00:00:00.000Z
 permalink: /articles/hobbies/dont-let-your-bouquet-go-to-waste
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Don’t Let Your Bouquet Go To Waste](/images/content-articles/hobbies/dont-let-your-bouquet-go-to-waste-img1.jpg)
 
 Whether it’s for a special occasion or just to add a little colour to your home, flowers offer us a sense of joy and warmth. But what happens when those petals start to wilt? Learn how you can give your beautiful bouquet a second life with these eco-friendly tips.
