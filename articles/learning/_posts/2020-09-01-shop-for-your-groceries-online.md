@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Shop for your Groceries Online
-date: 2020-09-01
+title: 'Shop for your Groceries Online'
+date: 2020-09-01T00:00:00.000Z
 permalink: /articles/learning/shop-for-your-groceries-online
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Shop for your Groceries Online](/images/content-articles/learning/shop-for-your-groceries-online-img1.jpg)
 
 Online shopping can be intimidating when you don’t know where to start. But now that we’re in self-isolation, buying your groceries online is ideal to stay safe and away from groups of people. Take a look at some of the reasons why you should start shopping for groceries online and which websites you should visit to get started.
