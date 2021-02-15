@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Stay Fit with Low-Impact Exercises
-date: 2020-04-06
+title: 'Stay Fit with Low-Impact Exercises'
+date: 2020-04-06T00:00:00.000Z
 permalink: /articles/wellness/stay-fit-with-low-impact-exercises
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Stay Fit with Low-Impact Exercises](/images/content-articles/wellness/stay-fit-with-low-impact-exercises-img1.jpg)
 
 Whether you want to get in shape or reduce your risk of chronic disease, regular exercise is essential to maintain a healthy lifestyle. Although effective, workouts like jogging and skipping rope can strain your muscles and cause injury in the long term, especially if you suffer from conditions like arthritis. Try these low-impact activities that allow you to stay fit while being gentle on your joints!
