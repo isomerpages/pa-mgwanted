@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Dim Sum Delights
-date: 2020-04-06
+title: 'Dim Sum Delights'
+date: 2020-04-06T00:00:00.000Z
 permalink: /articles/hobbies/dim-sum-delights
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Dim Sum Delights](/images/content-articles/hobbies/dim-sum-delights-img1.jpg)
 
 Steamed, baked or fried, we all love a good dim sum – a savoury collection of mouth-watering dishes served on little plates and steamer baskets. A mainstay cuisine in Cantonese teahouse culture, or yum cha, dim sum is southern China’s most famous culinary export, enjoyed by people across the world especially in the Chinatowns of world cities.
