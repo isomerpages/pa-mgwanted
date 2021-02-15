@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Taking Care of Yourself - Quick Self-care Tips for Caregivers
-date: 2020-09-01
+title: 'Taking Care of Yourself - Quick Self-care Tips for Caregivers'
+date: 2020-09-01T00:00:00.000Z
 permalink: /articles/wellness/taking-care-of-yourself-quick-self-care-tips-for-caregivers
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Taking Care of Yourself - Quick Self-care Tips for Caregivers](/images/content-articles/wellness/taking-care-of-yourself-quick-self-care-tips-for-caregivers-img1.jpg)
 
 It's important to take care of yourself, especially when you're a caregiver. Not only will it give your mind and body a much-needed break, but it will also improve your ability to care for others. Give yourself permission to look after yourself too and take a look at these quick self-care tips for caregivers. 
