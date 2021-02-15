@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Remember It Best With Pictures
-date: 2021-01-04
+title: 'Remember It Best With Pictures'
+date: 2021-01-04T00:00:00.000Z
 permalink: /articles/hobbies/remember-it-best-with-pictures
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Remember It Best With Pictures](/images/content-articles/hobbies/remember-it-best-with-pictures-img1.jpg)
 
 As they say, seeing is believing. 
