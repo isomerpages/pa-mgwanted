@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Which Massage Is Suitable For You?
-date: 2019-11-07
+title: 'Which Massage Is Suitable For You?'
+date: 2019-11-07T00:00:00.000Z
 permalink: /articles/wellness/which-massage-is-suitable-for-you
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Which Massage Is Suitable For You?](/images/content-articles/wellness/which-massage-is-suitable-for-you-img1.jpg)
 
 If you are new to massage, it might be a little confusing to decide on the different kinds out there. From Balinese to Swedish, there are so many to choose from, and they all have different benefits and healing techniques. Don't worry, we have created a list of massages and why you should try them to aid you in finding the suitable massage! 
