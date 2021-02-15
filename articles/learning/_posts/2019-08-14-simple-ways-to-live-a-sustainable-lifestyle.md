@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Simple Ways to Live a Sustainable Lifestyle
-date: 2019-08-14
+title: 'Simple Ways to Live a Sustainable Lifestyle'
+date: 2019-08-14T00:00:00.000Z
 permalink: /articles/learning/simple-ways-to-live-a-sustainable-lifestyle
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![Simple Ways to Live a Sustainable Lifestyle](/images/content-articles/learning/sustainable-lifestyle-img1.jpg)
 
 Living sustainably doesn’t mean you have to give up comfort or convenience. Going green is all about being aware of depleting resources and reducing unnecessary waste where possible. With just a little bit of effort, you can significantly lessen the impact of your consumption habits on Mother Earth! Take a look at these simple tips to help you start your sustainable journey.
