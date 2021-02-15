@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Go On A Jurassic Adventure
-date: 2020-11-03
+title: 'Go On A Jurassic Adventure'
+date: 2020-11-03T00:00:00.000Z
 permalink: /articles/wellness/go-on-a-jurassic-adventure
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Go On A Jurassic Adventure](/images/content-articles/wellness/go-on-a-jurassic-adventure-img1.jpg)
 
 Changi Airport's latest dinosaur exhibit, Jurassic Mile, promises a fun day out while getting in a good work out. The connector path to East Coast Park features life-sized dinosaurs alongside information panels that educate visitors about the Jurassic Period. Here's everything you need to know about how to explore this outdoor exhibit with a ferocious twist. 
