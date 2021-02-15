@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  The Must-Have Fitness Tools For Everyone
-date: 2020-12-01
+title: 'The Must-Have Fitness Tools For Everyone'
+date: 2020-12-01T00:00:00.000Z
 permalink: /articles/wellness/the-must-have-fitness-tools-for-everyone
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![The Must-Have Fitness Tools For Everyone](/images/content-articles/wellness/the-must-have-fitness-tools-for-everyone-img1.jpg)
 
 Whether you are at home or at the gym, there are so many exercise tools out there to improve your workout. From protecting your joints to helping you stretch more easily, these tools are great to incorporate as part of your routine. Take a look at some of our favourites to help you get the most out of your workout below!
