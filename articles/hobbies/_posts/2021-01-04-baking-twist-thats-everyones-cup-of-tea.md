@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Baking Twist That’s Everyone’s Cup Of Tea
-date: 2021-01-04
+title: 'Baking Twist That’s Everyone’s Cup Of Tea'
+date: 2021-01-04T00:00:00.000Z
 permalink: /articles/hobbies/baking-twist-thats-everyones-cup-of-tea
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Baking Twist That’s Everyone’s Cup Of Tea](/images/content-articles/hobbies/baking-twist-thats-everyones-cup-of-tea-img1.jpg)
 
 The next time you are looking to delight guests with your baked creations for tea time, look no further than a cup of tea. Tea adds a rich and fragrant dimension to baked goods like cakes and cookies, elevating flavours beyond the ordinary and expected.
