@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Be The Talk Of The Potluck
-date: 2019-09-23
+title: 'Be The Talk Of The Potluck'
+date: 2019-09-23T00:00:00.000Z
 permalink: /articles/hobbies/be-the-talk-of-the-potluck
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Be The Talk Of The Potluck](/images/content-articles/hobbies/be-the-talk-of-the-potluck-img1.jpg)
 
 Make an impression at your next get-together with culinary creations that will wow your friends and family! Classics like rendang and agar cake have graced potluck tables for generations and while you never go wrong with a classic, adding a little twist to these age-old favourites is sure to be a crowd-pleaser. Be the centre of attention at your next potluck with creative versions of these popular dishes!
