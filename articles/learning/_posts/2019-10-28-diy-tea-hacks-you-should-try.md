@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  3 DIY Tea Hacks You Should Try
-date: 2019-10-28
+title: '3 DIY Tea Hacks You Should Try'
+date: 2019-10-28T00:00:00.000Z
 permalink: /articles/learning/diy-tea-hacks-you-should-try
 breadcrumb: Learning
-collection_name: articles
+
 ---
+
 ![DIY Tea Hacks You Should Try](/images/content-articles/learning/diy-tea-hacks-you-should-try-img1.jpg)
 
 Tea is one of Singapore's favourite beverages and we have been drinking it for generations! But having a cup is not the only thing you can do with these amazing leaves. Take a look at the natural DIY hacks below and try them out at home as a sustainable alternative to traditional methods!
