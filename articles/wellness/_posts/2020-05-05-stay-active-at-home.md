@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Stay Active at Home
-date: 2020-05-05
+title: 'Stay Active at Home'
+date: 2020-05-05T00:00:00.000Z
 permalink: /articles/wellness/stay-active-at-home
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Stay Active at Home](/images/content-articles/wellness/stay-active-at-home-img1.jpg)
 
 With most of us working from home and going outside being reserved for necessities, staying healthy can be a challenge. And while you can still go out to exercise, social distancing means that group workouts are a no-no. So, maintain your health during the circuit breaker guilt-free with these simple tips and stay fit indoors!
