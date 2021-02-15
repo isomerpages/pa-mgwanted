@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Stay Fit at Your Own Pace
-date: 2019-09-09
+title: 'Stay Fit at Your Own Pace'
+date: 2019-09-09T00:00:00.000Z
 permalink: /articles/wellness/stay-fit-at-your-own-pace
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Stay Fit at Your Own Pace](/images/content-articles/wellness/stay-fit-at-your-own-pace-img1.jpg)
 
 Leading a more active lifestyle can seem daunting, especially when you don't know where to begin. It's important to understand your body's limits and remember not to try running before you can walk. Be inspired by these workouts at progressive levels of intensity and get physical at your own pace! 
