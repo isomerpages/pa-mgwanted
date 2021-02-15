@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Delicious Desserts With Bananas
-date: 2019-11-14
+title: 'Delicious Desserts With Bananas'
+date: 2019-11-14T00:00:00.000Z
 permalink: /articles/hobbies/delicious-desserts-with-bananas
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Delicious Desserts With Bananas](/images/content-articles/hobbies/delicious-desserts-with-bananas-img1.jpg)
 
 Bananas are packed with important nutrients like fibre and potassium. They are also a great source of natural sugar, which makes them an idea substitute for the refined sugar found in most desserts! So, the next time you’re craving something sweet, try out one of these healthy banana recipes instead!
