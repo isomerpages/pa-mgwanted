@@ -19,6 +19,7 @@
     url: /course-directory/download-brochure/  
 - title: Articles
   url: /articles/
+  false_collection: true
   sub-links:
   - title: All
     url: /articles/  
