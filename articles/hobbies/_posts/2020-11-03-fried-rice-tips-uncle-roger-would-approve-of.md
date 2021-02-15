@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Fried Rice Tips Uncle Roger Would Approve Of
-date: 2020-11-03
+title: 'Fried Rice Tips Uncle Roger Would Approve Of'
+date: 2020-11-03T00:00:00.000Z
 permalink: /articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of
 breadcrumb: Hobbies
-collection_name: articles
+
 ---
+
 ![Fried Rice Tips Uncle Roger Would Approve Of](/images/content-articles/hobbies/fried-rice-tips-uncle-roger-would-approve-of-img1.jpg)
 
 Egg fried rice is a staple in Singaporean cuisine but as Uncle Roger reminds us, other cultures around the world don't always get it right. Learn how you can make this hawker favourite easily at home with these tips! Try the fried rice recipe below for a healthier version of this simple classic.
