@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  The Importance Of Giving Yourself A Well-Deserved Break
-date: 2020-12-01
+title: 'The Importance Of Giving Yourself A Well-Deserved Break'
+date: 2020-12-01T00:00:00.000Z
 permalink: /articles/wellness/the-importance-of-giving-yourself-a-well-deserved-break
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![The Importance Of Giving Yourself A Well-Deserved Break](/images/content-articles/wellness/the-importance-of-giving-yourself-a-well-deserved-break-img1.jpg)
 
 With our $100 SingaporeRediscovers vouchers to look forward to utilising from December onwards, it’s about time we give ourselves a few days away from the stresses of our daily routine. Kill two birds with one stone by focusing on self-care and having some fun through staycations and leisure activities like visiting museums and theme parks. Read on to find out more about the benefits of taking some time off.
