@@ -1,11 +1,11 @@
 ---
-layout: post
-title:  Kitchen Beauty Hacks
-date: 2019-10-21
+title: 'Kitchen Beauty Hacks'
+date: 2019-10-21T00:00:00.000Z
 permalink: /articles/wellness/kitchen-beauty-hacks
 breadcrumb: Wellness
-collection_name: articles
+
 ---
+
 ![Kitchen Beauty Hacks](/images/content-articles/wellness/kitchen-beauty-hacks-img1.jpg)
 
 They make our food smell good and taste even better – but the ingredients in your kitchen don’t just improve your cooking, they can also spice up your beauty routine! Take a look at how some of your pantry essentials can be transformed into must-have skin and hair care products and learn how to enhance your beauty the natural way. 
