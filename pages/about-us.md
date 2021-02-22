@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: About Us
+title: 'About Us'
 permalink: /about-us/
-breadcrumb: About Us
+breadcrumb: 'About Us'
+
 ---
+
 
 ![About Us](/images/about-us/about-us.jpg)
 

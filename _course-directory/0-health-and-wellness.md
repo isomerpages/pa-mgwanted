@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Health & Wellness
+title: 'Health & Wellness'
 permalink: /course-directory/health-and-wellness/
-breadcrumb: Health & Wellness
-collection_name: course-directory
+breadcrumb: 'Health & Wellness'
+
 ---
+
 
 <div class="courseAccordion">
 	<div class="cdDesc">

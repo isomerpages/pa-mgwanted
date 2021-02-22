@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Lifelong Learning
+title: 'Lifelong Learning'
 permalink: /course-directory/lifelong-learning/
-breadcrumb: Lifelong Learning
-collection_name: course-directory
+breadcrumb: 'Lifelong Learning'
+
 ---
+
 
 <div class="courseAccordion">
 	<div class="cdDesc">
