@@ -15,7 +15,7 @@ breadcrumb: 'Health & Wellness'
 	</div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs healthWellness">
+			<div class="tabs healthWellness is-shadowless">
 				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>		
 				<div class="secDesc"><p>Stay tuned for new Blended Courses.</p></div>			
 				<!--<div class="tab">
@@ -94,7 +94,7 @@ breadcrumb: 'Health & Wellness'
 	<div class="cdDesc">&nbsp;</div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs healthWellness">
+			<div class="tabs healthWellness is-shadowless">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>
 				<div class="secDesc"><p>Stay tuned for new Online Courses.</p></div>						
 				<!--<div class="tab">

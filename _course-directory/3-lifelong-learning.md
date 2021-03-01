@@ -15,7 +15,7 @@ breadcrumb: 'Lifelong Learning'
     </div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs lifelongLearning">
+			<div class="tabs lifelongLearning is-shadowless">
 				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>		
 				<div class="secDesc"><p>Stay tuned for new Blended Courses.</p></div>		
 				<!--<div class="tab">
@@ -91,8 +91,8 @@ breadcrumb: 'Lifelong Learning'
 			</div>
 		</div>
 	</div>	
-	<!--<div class="cdDesc">&nbsp;</div>
-	<div class="row">
+	<div class="cdDesc">&nbsp;</div>
+	<!--<div class="row">
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<h4 id="online-webinars"><strong>Online Webinars</strong></h4>	
@@ -156,7 +156,7 @@ breadcrumb: 'Lifelong Learning'
 	<div class="cdDesc">&nbsp;</div>-->
 	<div class="row">
 		<div class="col">
-			<div class="tabs lifelongLearning">
+			<div class="tabs lifelongLearning is-shadowless">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>
 				<div class="secDesc"><p>Stay tuned for new Online Courses.</p></div>
 				<!--<div class="tab">
@@ -225,36 +225,174 @@ breadcrumb: 'Lifelong Learning'
 					<p><strong>New Webinars</strong></p>
 					<p>Take a look at our Lifelong Learning webinar schedule below!</p></div>
 				<div class="tab">
-					<a name="aiforeveryonemgeditionengstayhomewebinarcourses"></a>
-					<input type="checkbox" id="chck2020stayhomewebinarcourses_1">
-					<label class="tab-label" for="chck2020stayhomewebinarcourses_1">AI For Everyone (AI4E)&reg; - MG Edition (Online) (English)</label>
+					<a name="learnpaynowdigitalpaymentsengstayhomewebinarcourses"></a>
+					<input type="checkbox" id="chck2021stayhomewebinarcourses_1">
+					<label class="tab-label" for="chck2021stayhomewebinarcourses_1">Learn How to Make Secure Digital Payments with PayNow (Online) (English)</label>
 					<div class="tab-content">
-						<div class="content-desc-container">
-							<p>Have you ever wondered what is Artificial Intelligence (AI)? Or how it has impacted our daily lives? Join us in this session to learn about the types, and applications of AI and Machine Learning (ML). Find out how AI will impact you and identify opportunities in your work and daily lives!</p>
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-how-to-make-secure-digital-payments-with-paynow-webinar-courses.jpg" alt="Learn How to Make Secure Digital Payments with PayNow (Online) (English)"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Registering and using PayNow only takes a minute! In this session, learn about the benefits of PayNow and how to use PayNow on your digibank app and internet banking.</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
 						</div>
-					</div>					
+					</div>
 					<div class="tab-content">
 						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
 							<thead>
 								<tr>
-									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
-									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
 								</tr>
 							</thead>
 							<tbody>
 								<tr>
-									<td data-label="Host Partner(s):" class="tbl-conval">Ang Liyi<br>Talent and Product Marketing Manager<br>AI Singapore (AISG)</td>
-									<td data-label="Speaker Partner(s):" class="tbl-conval">Koo Sengmeng<br>Deputy Director<br>AI Singapore (AISG)</td>
+									<td data-label="PA Trainer(s):" class="tbl-conval">POSB</td>
+									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
+									<td data-label="Venue:" class="tbl-conval">Online</td>
 								</tr>
 							</tbody>
 						</table></div>
 					</div>
 					<div class="tab-content">
-						<div class="content-desc-container">
-							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYAQyro79M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">21 Apr 2021, Wed<br>2:00pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026843567" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026843567');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>	
+				<div class="tab">
+					<a name="learnpaylahpaymentsengstayhomewebinarcourses"></a>
+					<input type="checkbox" id="chck2021stayhomewebinarcourses_2">
+					<label class="tab-label" for="chck2021stayhomewebinarcourses_2">Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online) (English)</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-the-safe-and-convenient-way-to-make-payments-with-dbs-paylah-webinar-courses.jpg" alt="Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online) (English)"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Sign up to learn how to make your everyday easier with PayLah! Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services, all on PayLah!</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
 						</div>
 					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">POSB</td>
+									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
+									<td data-label="Venue:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">14 Apr 2021, Wed<br>2:00pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026843565" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026843565');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+				</div>	
+				<div class="tab">
+					<a name="learnpaylahpaymentsengstayhomewebinarcourses"></a>
+					<input type="checkbox" id="chck2021stayhomewebinarcourses_3">
+					<label class="tab-label" for="chck2021stayhomewebinarcourses_3">Learn to Bank Online Quickly and Securely with Digibank (Online) (English)</label>
+					<div class="tab-content">
+						<div class="img-desc-container">
+							<div class="img-container-left">
+								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-to-bank-online-quickly-and-securely-with-digibank-webinar-courses.jpg" alt="Learn to Bank Online Quickly and Securely with Digibank (Online) (English)"></p>
+							</div>
+							<div class="desc-container-right">
+								<p>Everyday banking can be done at your fingertips without queueing! This workshop provides a step-by-step guide to POSB digibank. Plus, learn how to protect yourself online with our #BSHARP security tips! Register now to learn how you can bank with ease of mind!</p>
+								<p>Note: To participate in the hands-on session, please ensure you have these items ready</p>
+								<ol>
+								<li>Your digibank User ID & PIN</li>
+								<li>Email address</li>
+								</ol>
+								<p>Do not share your digibank credentials or One Time Password (OTP) with anyone.</p>
+								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
+							</div>
+						</div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
+									<th scope="col" class="tbl-subhdr">Duration</th>
+									<th scope="col" class="tbl-subhdr">Venue</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="PA Trainer(s):" class="tbl-conval">POSB</td>
+									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
+									<td data-label="Venue:" class="tbl-conval">Online</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Organising CC</th>
+									<th scope="col" class="tbl-subhdr">Date and Time</th>
+									<th scope="col" class="tbl-subhdr">Language</th>
+									<th scope="col" class="tbl-subhdr">Sign Up</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
+									<td data-label="Date and Time:" class="tbl-conval">07 Apr 2021, Wed<br>2:00pm to 3:30pm</td>
+									<td data-label="Language:" class="tbl-conval">English</td>
+									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026843560" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026843560');">Sign Up Now!</a></td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
 				</div>
+				<div class="cdDesc">&nbsp;</div>
 				<div class="secDesc">
 					<p><strong>Videos</strong></p>
 					<p>Watch our extensive array of online videos!</p></div>	

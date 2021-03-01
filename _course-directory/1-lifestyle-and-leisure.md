@@ -15,7 +15,7 @@ breadcrumb: 'Lifestyle & Leisure'
     </div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs lifestyleLeisure">
+			<div class="tabs lifestyleLeisure is-shadowless">
 				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>			
 				<div class="secDesc"><p>Stay tuned for new Blended Courses.</p></div>	
 				<!--<div class="tab">
@@ -622,8 +622,9 @@ breadcrumb: 'Lifestyle & Leisure'
 	<div class="cdDesc">&nbsp;</div>
 	<div class="row">
 		<div class="col">
-			<div class="tabs lifestyleLeisure">
+			<div class="tabs lifestyleLeisure is-shadowless">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>
+				<div class="secDesc"><p>Stay tuned for new Online Courses.</p></div>	
 				<!--<div class="tab">
 					<a name="beginnerguidetolinedancingonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_1">
@@ -677,224 +678,7 @@ breadcrumb: 'Lifestyle & Leisure'
 							</tbody>
 						</table></div>
 					</div>
-				</div>-->
-				<div class="tab">
-					<a name="earlgreychiffoncakemakingonlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_2">
-					<label class="tab-label" for="chck2020onlinecourses_2">Earl Grey Chiffon Cake Making (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-earl-grey-chiffon-cake-making-online-courses.jpg" alt="Earl Grey Chiffon Cake Making (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Get introduced to the essential baking methods of an Earl Grey chiffon cake, topped with simple frosting, and decoration to look presentably elegant.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Cynthia Tan Siew Choo</td>
-									<td data-label="Duration:" class="tbl-conval">2hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Chua Chu Kang CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">26 Feb 2021, Fri<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026820331" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026820331');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>
-				<!--<div class="tab">
-					<a name="funwithukuleleonlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_3">
-					<label class="tab-label" for="chck2020onlinecourses_3">Fun with Ukulele (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-fun-with-ukulele-online-courses.jpg" alt="Fun with Ukulele (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Learn simple chords while you strum and sing along with this Hawaiian instrument. Playing the ukulele is fun and joyous while at the same time training your memory, creativity, and motor skills.</p>
-								<p>*You are required to have your own ukulele for the class.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Daniel Purnomo</td>
-									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Kebun Baru CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">21 Nov 2020, Sat<br>4:00pm to 5:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819506" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819506');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>-->
-				<div class="tab">
-					<a name="growingediblesathomeworkshoponlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_4">
-					<label class="tab-label" for="chck2020onlinecourses_4">Growing Edibles at Home Workshop (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-growing-edibles-at-home-workshop-online-courses.jpg" alt="Growing Edibles at Home Workshop (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Edible plants are plants planted for the purpose of consumption. Learn how to grow and consume edible plants without using expensive or complicated equipment. This is an easy, fast, and smart way to fit healthy nutrient-dense greens into your diet.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Teh Mooi Yan</td>
-									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Ang Mo Kio CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">27 Feb 2021, Sat<br>10:00am to 11:30am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818393" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818393');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>
-				<!--<div class="tab">
-					<a name="understandingsingaporeculturethroughartefactsonlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_5">
-					<label class="tab-label" for="chck2020onlinecourses_5">Understanding Singapore Culture Through Artefacts (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifestyle-leisure/tbn-understanding-singapore-culture-through-artefacts-online-courses.jpg" alt="Understanding Singapore Culture Through Artefacts (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Experience Singapore's history by learning about historical artefacts from the colonial era, Japanese Occuption, and the post war pre-independence period. Listen to captivating stories behind these artefacts, and be reminded of our past.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Teo Khai Mun</td>
-									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Nee Soon South CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">23 Jan 2021, Sat<br>10:00am to 11:30am</td>
-									<td data-label="Language:" class="tbl-conval">English & Chinese</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819059" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819059');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>-->											
+				</div>-->										
 			</div>
 		</div>
 	</div>
