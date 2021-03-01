@@ -334,8 +334,8 @@ breadcrumb: 'Health & Wellness'
 				</div>
 			</div>
 		</div>
-	</div>-->
-	<div class="cdDesc">&nbsp;</div>
+	</div>
+	<div class="cdDesc">&nbsp;</div>-->
 	<div class="row">
 		<div class="col">
 			<div class="tabs healthWellness">
