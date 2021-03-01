@@ -392,7 +392,7 @@ breadcrumb: 'Lifelong Learning'
 						</table></div>
 					</div>
 				</div>
-				<div class="cdDesc">&nbsp;</div>
+				<div class="cdDesc2">&nbsp;</div>
 				<div class="secDesc">
 					<p><strong>Videos</strong></p>
 					<p>Watch our extensive array of online videos!</p></div>	
