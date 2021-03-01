@@ -399,6 +399,9 @@ $desktop: 960px + (2 * $gap) !default;
   }
   .secDesc{
     margin: 0 0 15px;
+    p{
+      margin: 0;
+    }
   }
   input {
     position: absolute;

@@ -16,8 +16,9 @@ breadcrumb: 'Lifelong Learning'
 	<div class="row">
 		<div class="col">
 			<div class="tabs lifelongLearning">
-				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>	
-				<div class="tab">
+				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>		
+				<div class="secDesc"><p>Stay tuned for new Blended Courses.</p></div>		
+				<!--<div class="tab">
 					<a name="socialmediamarketingforhomebasedbusinessblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_1">
 					<label class="tab-label" for="chck2020blendedcourses_1">Social Media Marketing for Home-Based Business (Blended)</label>
@@ -86,7 +87,7 @@ breadcrumb: 'Lifelong Learning'
 							</tbody>
 						</table></div>
 					</div>
-				</div>								
+				</div>-->								
 			</div>
 		</div>
 	</div>	
@@ -153,11 +154,12 @@ breadcrumb: 'Lifelong Learning'
 		</div>
 	</div>
 	<div class="cdDesc">&nbsp;</div>-->
-	<!--<div class="row">
+	<div class="row">
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<h4 id="online-courses"><strong>Online Courses</strong></h4>
-				<div class="tab">
+				<div class="secDesc"><p>Stay tuned for new Online Courses.</p></div>
+				<!--<div class="tab">
 					<a name="dosanddonsforhealthteleconsultationonlinecourses"></a>
 					<input type="checkbox" id="chck2020onlinecourses_1">
 					<label class="tab-label" for="chck2020onlinecourses_1">Dos and Don'ts for Health Teleconsultation (Online)</label>
@@ -210,124 +212,52 @@ breadcrumb: 'Lifelong Learning'
 							</tbody>
 						</table></div>
 					</div>
-				</div>
-				<div class="tab">
-					<a name="effectiveinterpersonalandinterculturalcommunicationonlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_2">
-					<label class="tab-label" for="chck2020onlinecourses_2">Effective Interpersonal and Intercultural Communication (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifelong-learning/tbn-effective-interpersonal-and-intercultural-communication-online-courses.jpg" alt="Effective Interpersonal and Intercultural Communication (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Pick up techniques and methods to bridge the communication gaps between different cultures and age groups. You will learn the ability to clearly convey their intended message and develop listening skills to understand the meaning and emotions in the words of others.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Lin Seah Hui</td>
-									<td data-label="Duration:" class="tbl-conval">1.5hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Cheng San CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">18 Dec 2020, Fri<br>7:00pm to 8:30pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026818624" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026818624');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>
-				<div class="tab">
-					<a name="shopandpayonlineeonlinecourses"></a>
-					<input type="checkbox" id="chck2020onlinecourses_3">
-					<label class="tab-label" for="chck2020onlinecourses_3">Shop and Pay Online (Online)</label>
-					<div class="tab-content">
-						<div class="img-desc-container">
-							<div class="img-container-left">
-								<p><img src="/images/course-directory/lifelong-learning/tbn-shop-and-pay-online-online-courses.jpg" alt="Shop and Pay Online (Online)"></p>
-							</div>
-							<div class="desc-container-right">
-								<p>Learn to shop and pay online on NTUC Fairprice website and Android app. Pick up tips and knowledge on overall management of a buyer's account, including searching for products, completing orders and transactions, creating shopping lists, and introducing safe transaction tips.</p>
-								<p class="desc_extra"><strong>Course Fee</strong>:<br>$5 (Member), $10 (Non-Member)</p>				
-							</div>
-						</div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">PA Trainer(s)</th>
-									<th scope="col" class="tbl-subhdr">Duration</th>
-									<th scope="col" class="tbl-subhdr">Venue</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="PA Trainer(s):" class="tbl-conval">Muhammad Naim</td>
-									<td data-label="Duration:" class="tbl-conval">2hr</td>
-									<td data-label="Venue:" class="tbl-conval">Online</td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-					<div class="tab-content">
-						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline">
-							<thead>
-								<tr>
-									<th scope="col" class="tbl-subhdr">Organising CC</th>
-									<th scope="col" class="tbl-subhdr">Date and Time</th>
-									<th scope="col" class="tbl-subhdr">Language</th>
-									<th scope="col" class="tbl-subhdr">Sign Up</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td data-label="Organising CC:" class="tbl-conval">Paya Lebar Kovan CC</td>
-									<td data-label="Date and Time:" class="tbl-conval">06 Nov 2020, Fri<br>2:00pm to 4:00pm</td>
-									<td data-label="Language:" class="tbl-conval">English</td>
-									<td data-label="Sign Up:" class="tbl-conval"><a href="https://www.onepa.gov.sg/class/details/c026819721" target="_blank" onclick="ga('b.send', 'event', 'Course Directory Links', 'Click-link','PA Sign Up to c026819721');">Sign Up Now!</a></td>
-								</tr>
-							</tbody>
-						</table></div>
-					</div>
-				</div>		
+				</div>-->	
 			</div>
 		</div>
-	</div>-->
+	</div>
 	<div class="cdDesc">&nbsp;</div>
 	<div class="row">
 		<div class="col">
 			<div class="tabs lifelongLearning">
 				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #Stayhome Webinar Series</strong></h4>	
-				<div class="secDesc"><p>Watch our extensive array of videos from our online webinar series below!</p></div>
+				<div class="secDesc">
+					<p><strong>New Webinars</strong></p>
+					<p>Take a look at our Lifelong Learning webinar schedule below!</p></div>
+				<div class="tab">
+					<a name="aiforeveryonemgeditionengstayhomewebinarcourses"></a>
+					<input type="checkbox" id="chck2020stayhomewebinarcourses_1">
+					<label class="tab-label" for="chck2020stayhomewebinarcourses_1">AI For Everyone (AI4E)&reg; - MG Edition (Online) (English)</label>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<p>Have you ever wondered what is Artificial Intelligence (AI)? Or how it has impacted our daily lives? Join us in this session to learn about the types, and applications of AI and Machine Learning (ML). Find out how AI will impact you and identify opportunities in your work and daily lives!</p>
+						</div>
+					</div>					
+					<div class="tab-content">
+						<div class="tbl-wrap"><table class="tbl tblsimpresp tblonline2">
+							<thead>
+								<tr>
+									<th scope="col" class="tbl-subhdr">Host Partner(s)</th>
+									<th scope="col" class="tbl-subhdr">Speaker Partner(s)</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td data-label="Host Partner(s):" class="tbl-conval">Ang Liyi<br>Talent and Product Marketing Manager<br>AI Singapore (AISG)</td>
+									<td data-label="Speaker Partner(s):" class="tbl-conval">Koo Sengmeng<br>Deputy Director<br>AI Singapore (AISG)</td>
+								</tr>
+							</tbody>
+						</table></div>
+					</div>
+					<div class="tab-content">
+						<div class="content-desc-container">
+							<iframe width="560" height="315" src="https://www.youtube.com/embed/wpYAQyro79M?rel=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+				<div class="secDesc">
+					<p><strong>Videos</strong></p>
+					<p>Watch our extensive array of online videos!</p></div>	
 				<div class="tab">
 					<a name="aiforeveryonemgeditionengstayhomewebinars"></a>
 					<input type="checkbox" id="chck2020stayhomewebinars_1">

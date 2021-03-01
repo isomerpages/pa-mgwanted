@@ -16,7 +16,8 @@ breadcrumb: 'Lifestyle & Leisure'
 	<div class="row">
 		<div class="col">
 			<div class="tabs lifestyleLeisure">
-				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>	
+				<h4 id="online-webinars"><strong>Blended Courses (Online & Physical Classes)</strong></h4>			
+				<div class="secDesc"><p>Stay tuned for new Blended Courses.</p></div>	
 				<!--<div class="tab">
 					<a name="beginnerguidetotablefloralarrangementblendedcourses"></a>
 					<input type="checkbox" id="chck2020blendedcourses_1">
@@ -902,7 +903,9 @@ breadcrumb: 'Lifestyle & Leisure'
 		<div class="col">
 			<div class="tabs lifestyleLeisure">
 				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #Stayhome Webinar Series</strong></h4>	
-				<div class="secDesc"><p>Watch our extensive array of videos from our online webinar series below!</p></div>
+				<div class="secDesc">
+					<p><strong>Videos</strong></p>
+					<p>Watch our extensive array of online videos!</p></div>	
 				<div class="tab">
 					<a name="discoverfarmsandgardensinthecityengstayhomewebinars"></a>
 					<input type="checkbox" id="chck2020stayhomewebinars_1">
