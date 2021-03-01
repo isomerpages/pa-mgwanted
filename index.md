@@ -27,14 +27,6 @@ sections:
           alt: 'Celebrate your PAssion for life'
           button: 'Learn more'
     - infopic:
-          title: 'MG x Active Health Webinar Series'
-          subtitle: null
-          description: 'Live and feel better with the MG x Active Health Webinar Series! Join Active Health coaches from SportsSG via Zoom and start your journey to a healthier you. <br><br>Browse our webinar schedule to learn more and sign up now!'
-          url: '/course-directory/health-and-wellness/#mgswanted-activehealth-webinar'
-          image: /images/homepage/mgswanted-activehealth-webinar-series.jpg
-          alt: 'MGxActiveHealth Webinar Series'
-          button: 'View Schedule'
-    - infopic:
           title: 'MGs Wanted &#35;Stayhome Webinar Series'
           subtitle: null
           description: 'Pursue your passions from the comfort of your home with the MGs Wanted #Stayhome Webinar Series!<br><br>Browse our webinar schedule to sign up for new courses or catch up on past videos ranging from Health & Wellness and Lifestyle & Leisure to Lifelong Learning and Financial Literacy.'
