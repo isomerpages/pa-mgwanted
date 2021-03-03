@@ -33,15 +33,7 @@ sections:
           url: '/course-directory/lifelong-learning/#stayhome-webinars-series'
           image: /images/homepage/mgswanted-stayhome-webinar-series.jpg
           alt: 'Stayhome Webinar Series'
-          button: 'View Webinar'
-    - infopic:
-          title: 'Download Our MGs Wanted E-Brochure!'
-          subtitle: null
-          description: 'Stay updated on upcoming classes and course information with our latest e-brochure.'
-          url: '/files/course-directory/mgs-wanted-brochure-nov2020.pdf?utm_source=programmes_homepage'
-          image: /images/homepage/mgswanted-brochure.jpg
-          alt: 'MGs Wanted E-Brochure'
-          button: 'Download Now'
+          button: 'View Webinar'    
     - resources:
           title: 'Be in the know'
           subtitle: Articles
