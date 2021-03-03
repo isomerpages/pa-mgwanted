@@ -288,7 +288,7 @@ breadcrumb: 'Lifelong Learning'
 								<p><img src="/images/course-directory/lifelong-learning/tbn-learn-the-safe-and-convenient-way-to-make-payments-with-dbs-paylah-webinar-courses.jpg" alt="Learn the Safe and Convenient Way to Make Payments with DBS PayLah! (Online) (English)"></p>
 							</div>
 							<div class="desc-container-right">
-								<p>Sign up to learn how to make your everyday easier with PayLah! Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless every day services, all on PayLah!</p>
+								<p>Sign up to learn how to make your everyday easier with PayLah! Whether you are paying your friends, buying groceries or paying for your bills and more, enjoy convenience and seamless everyday services, all on PayLah!</p>
 								<p class="desc_extra"><strong>Course Fee</strong>:<br>Free</p>				
 							</div>
 						</div>
