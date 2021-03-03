@@ -11,4 +11,4 @@ We have specially curated a range of courses, interest groups and volunteering o
 
 Whatever sparks your passions or fire up your interests, there is always something at PA that will catch your eye.
 
-Keep a lookout for new programmes and exciting stories from PA Merdeka Generation ambassadors.
+Keep a lookout for our brochure featuring new programmes and exciting stories from PA Merdeka Generation ambassadors. 
