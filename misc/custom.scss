@@ -4,16 +4,13 @@
 
 @charset "utf-8";
 
-// HLB brand colors
-$primary: #000000;
-$secondary: #ef413d;
+// Agency brand colors 
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
 $secondary-hover: lighten($secondary, 10%);
-
-$media-color-one: #fedcc4;
-$media-color-two: #bedced;
-$media-color-three: #fedcc4;
-$media-color-four: #d7ebd1;
-$media-color-five: #d7ebd1;
+{%- for media-color in site.colors.media-colors -%}
+    ${{- media-color.title -}}: {{- media-color.color -}};
+{%- endfor -%}
 
 $cd-color-health-wellness: #70bc55;
 $cd-color-lifestyle-leisure: #f5a21d;
@@ -399,9 +396,15 @@ $desktop: 960px + (2 * $gap) !default;
 .courseAccordion {
   .cdDesc{
     margin: 0 0 50px;
+  }  
+  .cdDesc2{
+    margin: 0 0 15px;
   }
   .secDesc{
     margin: 0 0 15px;
+    p{
+      margin: 0;
+    }
   }
   input {
     position: absolute;

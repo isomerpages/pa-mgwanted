@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Financial Literacy
+title: 'Financial Literacy'
 permalink: /course-directory/financial-literacy/
-breadcrumb: Financial Literacy
-collection_name: course-directory
+breadcrumb: 'Financial Literacy'
+
 ---
+
 
 <div class="courseAccordion">
 	<div class="cdDesc">
@@ -196,7 +196,9 @@ collection_name: course-directory
 		<div class="col">
 			<div class="tabs financialLiteracy">
 				<h4 id="stayhome-webinars-series"><strong>MGs Wanted #Stayhome Webinar Series</strong></h4>	
-				<div class="secDesc"><p>Watch our extensive array of videos from our online webinar series below!</p></div>
+				<div class="secDesc">
+					<p><strong>Videos</strong></p>
+					<p>Watch our extensive array of online videos!</p></div>	
 				<div class="tab">
 					<a name="All you need to know about Medical Coverage and its Optionsengstayhomewebinars"></a>
 					<input type="checkbox" id="chck2020stayhomewebinars_1">

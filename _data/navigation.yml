@@ -1,34 +1,20 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Course Directory
-  url: /course-directory/health-and-wellness/
-  sub-links:
-  - title: Health & Wellness
-    url: /course-directory/health-and-wellness/
-  - title: Lifestyle & Leisure
-    url: /course-directory/lifestyle-and-leisure/
-  - title: Financial Literacy
-    url: /course-directory/financial-literacy/
-  - title: Lifelong Learning
-    url: /course-directory/lifelong-learning/
-  - title: Download Brochure
-    url: /course-directory/download-brochure/  
-- title: Articles
-  url: /articles/
-  sub-links:
-  - title: All
-    url: /articles/  
-  - title: Learning
-    url: /articles/learning/
-  - title: Hobbies
-    url: /articles/hobbies/
-  - title: Wellness
-    url: /articles/wellness/ 
-- title: About Us
-  url: /about-us/
-- title: Contact Us
-  url: /contact-us/
+logo: /images/wanted_logo.png
+links:
+    - title: 'Course Directory'
+      collection: course-directory
+    - title: Articles
+      url: /articles/
+      false_collection: true
+      sublinks:
+            - title: All
+              url: /articles/
+            - title: Learning
+              url: /articles/learning/
+            - title: Hobbies
+              url: /articles/hobbies/
+            - title: Wellness
+              url: /articles/wellness/
+    - title: 'About Us'
+      url: /about-us/
+    - title: 'Contact Us'
+      url: /contact-us/
