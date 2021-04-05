@@ -31,7 +31,7 @@ sections:
           subtitle: null
           description: 'Pursue your passions from the comfort of your home with the MGs Wanted #Stayhome Webinar Series!<br><br>Browse our webinar schedule to sign up for new courses or catch up on past videos ranging from Health & Wellness and Lifestyle & Leisure to Lifelong Learning and Financial Literacy.'
           url: '/course-directory/lifelong-learning/#stayhome-webinars-series'
-          image: /images/homepage/mgswanted-stayhome-webinar-series.jpg
+          image: /images/homepage/mgswanted-stayhome-webinar-series2.jpg
           alt: 'Stayhome Webinar Series'
           button: 'View Webinar'    
     - resources:
