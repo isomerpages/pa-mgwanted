@@ -15,10 +15,12 @@ It’s vital that we stay conscious of maintaining a healthy gut system so that 
 ### SIGNS OF AN UNHEALTHY GUT 
 1. UPSET STOMACH
 Stomach-related issues like bloating, constipation, and heartburn can all be signs of a troubled gut, resulting in difficulties processing food. 
+
 ![Signs of Poor Gut Health and How to Combat Them](/images/content-articles/wellness/signs-of-poor-gut-health-and-how-to-combat-them-img2.jpg)
 
 2.	WEIGHT FLUCTUATION 
 An imbalanced gut can prevent your body from being able to absorb nutrients and store fat properly, causing you to gain or lose weight unintentionally. 
+
 ![Signs of Poor Gut Health and How to Combat Them](/images/content-articles/wellness/signs-of-poor-gut-health-and-how-to-combat-them-img3.jpg)
 
 3.	SLEEP DISTURBANCES
