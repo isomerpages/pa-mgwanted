@@ -1,5 +1,5 @@
 ---
-title: '6 Proven Ways To Improve Your Next Selfie (Android/IOS)'
+title: '6 Proven Ways To Improve Your Next Selfie (Android/iOS)'
 date: 2021-04-15T00:00:00.000Z
 permalink: /articles/hobbies/6-proven-ways-to-improve-your-next-selfie
 breadcrumb: Hobbies
