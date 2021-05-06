@@ -1,0 +1,9 @@
+collections:
+  course-directory:
+    output: true
+    order:
+      - health-wellness.md
+      - lifestyle-leisure.md
+      - financial-literacy.md
+      - lifelong-learning.md
+      - download-brochure.md
