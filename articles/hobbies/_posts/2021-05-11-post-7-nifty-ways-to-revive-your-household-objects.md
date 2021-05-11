@@ -10,6 +10,6 @@ From the dining table that’s supported countless family dinners to the worn pa
 
 So, if you’re looking to revitalize your beloved keepsakes, we’ve got some helpful tips to wash your worries away! 
 
-![7 Nifty Ways To Revive Your Household Objects](/images/content-articles/hobbies/7-nifty-ways-to-revive-your-household-objects-img1.jpg)
+![7 Nifty Ways To Revive Your Household Objects](/images/content-articles/hobbies/7-nifty-ways-to-revive-your-household-objects-img1.png)
 
 For more everyday tips like these, check out our [Hobbies](../../articles/hobbies/) & [Learning](../../articles/learning/) articles.
